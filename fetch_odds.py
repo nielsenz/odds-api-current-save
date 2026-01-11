@@ -128,7 +128,10 @@ def main():
     """Main entry point."""
     today = datetime.now()
     today_str = today.strftime("%Y-%m-%d")
-    output_file = f"odds_{today_str}.csv"
+
+    # Ensure data directory exists
+    os.makedirs("data", exist_ok=True)
+    output_file = f"data/odds_{today_str}.csv"
 
     print(f"Fetching odds for {today_str}...")
 

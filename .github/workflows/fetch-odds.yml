@@ -37,6 +37,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add odds_*.csv
+          git add data/
           git diff --staged --quiet || git commit -m "Add odds data for $(date +%Y-%m-%d)"
           git push
