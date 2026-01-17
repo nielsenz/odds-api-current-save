@@ -1,0 +1,23 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-01-17,NHL,18f20c44ddd60d5c1cf0b7de5a343fbe,2026-01-17T17:30:00Z,Buffalo Sabres,Minnesota Wild,betmgm,-120,100,-1.5,200,1.5,-250,6.0,-120,100
+2026-01-17,NHL,75eb527369744d118a396905c7b0afa0,2026-01-17T18:00:00Z,Philadelphia Flyers,New York Rangers,betmgm,-130,110,-1.5,185,1.5,-225,6.5,-102,-118
+2026-01-17,NHL,793d5a067062ea802d41a89da204d7ca,2026-01-17T20:00:00Z,Calgary Flames,New York Islanders,betmgm,-110,-110,1.5,-275,-1.5,220,6.0,100,-120
+2026-01-17,NHL,91497674673e557191f393c61e65087f,2026-01-17T22:00:00Z,Utah Mammoth,Seattle Kraken,betmgm,-200,165,-1.5,125,1.5,-150,6.0,-105,-115
+2026-01-17,NHL,691211736713bd18de65bda1ded8542a,2026-01-18T00:00:00Z,New Jersey Devils,Carolina Hurricanes,betmgm,-102,-118,1.5,-235,-1.5,195,6.5,-102,-118
+2026-01-17,NHL,4d770d654d17af3d6351f507be56d2e5,2026-01-18T00:00:00Z,Pittsburgh Penguins,Columbus Blue Jackets,betmgm,-125,105,-1.5,185,1.5,-225,6.5,-110,-110
+2026-01-17,NHL,8500f512e0b189d2f7b16007970535fe,2026-01-18T00:00:00Z,Washington Capitals,Florida Panthers,betmgm,-140,118,-1.5,170,1.5,-210,6.0,-115,-105
+2026-01-17,NHL,4db27bafa96e7cf9db1246d5302361cc,2026-01-18T00:00:00Z,Ottawa Senators,Montréal Canadiens,betmgm,-115,-105,-1.5,200,1.5,-250,6.5,-105,-115
+2026-01-17,NHL,78967c50060a0dfdc31d6c86dd84f91a,2026-01-18T00:00:00Z,Winnipeg Jets,Toronto Maple Leafs,betmgm,-130,110,-1.5,185,1.5,-225,6.0,-105,-115
+2026-01-17,NHL,720dea61990bf14431875a73120d9933,2026-01-18T01:00:00Z,Chicago Blackhawks,Boston Bruins,betmgm,100,-120,1.5,-235,-1.5,195,6.0,-110,-110
+2026-01-17,NHL,784eb5fb32a5372dd14e963999989b61,2026-01-18T03:00:00Z,Anaheim Ducks,Los Angeles Kings,betmgm,-102,-118,1.5,-235,-1.5,195,6.5,100,-120
+2026-01-17,NHL,bf399dedb92a63e3fbdafeeb9966569f,2026-01-18T03:00:00Z,Vancouver Canucks,Edmonton Oilers,betmgm,155,-190,1.5,-150,-1.5,125,6.5,-115,-105
+2026-01-17,NHL,251eccdd135bf18a885ad5d115fe241f,2026-01-18T03:00:00Z,Vegas Golden Knights,Nashville Predators,betmgm,-220,180,-1.5,110,1.5,-135,6.0,-118,-102
+2026-01-17,NBA,74a2ce699a67094d664e6f11f876fd8b,2026-01-17T22:10:00Z,Dallas Mavericks,Utah Jazz,betmgm,-155,125,-3.5,-105,3.5,-115,241.5,-110,-110
+2026-01-17,NBA,ee33d9e84247204b91f88df26df1db6f,2026-01-18T00:40:00Z,Atlanta Hawks,Boston Celtics,betmgm,125,-155,3.5,-115,-3.5,-105,230.5,-105,-115
+2026-01-17,NBA,53948b32ee634b31967dd050d56eef8a,2026-01-18T00:40:00Z,Detroit Pistons,Indiana Pacers,betmgm,-700,500,-12.5,-110,12.5,-110,226.5,-110,-110
+2026-01-17,NBA,5dd9d109817aa5065517eda2d22abd47,2026-01-18T00:40:00Z,New York Knicks,Phoenix Suns,betmgm,-150,125,-2.5,-110,2.5,-110,226.5,-105,-115
+2026-01-17,NBA,a21e077af636c4ec9627a98ea87abea6,2026-01-18T01:10:00Z,Miami Heat,Oklahoma City Thunder,betmgm,360,-475,10.5,-110,-10.5,-110,233.5,-110,-110
+2026-01-17,NBA,ec4374304055d759d9e735b24be94cdb,2026-01-18T01:10:00Z,San Antonio Spurs,Minnesota Timberwolves,betmgm,-250,200,-5.5,-120,5.5,100,228.5,-110,-110
+2026-01-17,NBA,1b253261c5a0c36cc77a7e3f3ec0813f,2026-01-18T01:40:00Z,Golden State Warriors,Charlotte Hornets,betmgm,-250,200,-6.5,-115,6.5,-105,235.5,-105,-115
+2026-01-17,NBA,dfe75b541b9fdfe1d8b2e6208a62b89f,2026-01-18T02:10:00Z,Denver Nuggets,Washington Wizards,betmgm,-650,475,-12.5,-105,12.5,-115,231.5,-115,-105
+2026-01-17,NBA,c40f627c22f80050fd8efec135704313,2026-01-18T03:10:00Z,Portland Trail Blazers,Los Angeles Lakers,betmgm,-155,125,-3.5,-110,3.5,-110,224.5,-105,-115
