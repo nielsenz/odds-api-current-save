@@ -1,0 +1,10 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-01-18,NHL,32f6bca9f7004f9c7a413d34f1a71567,2026-01-18T19:10:00Z,Dallas Stars,Tampa Bay Lightning,betmgm,100,-120,1.5,-235,-1.5,195,6.0,-110,-110
+2026-01-18,NHL,df8bab02a6507bf6c5dfe9700b110ced,2026-01-18T22:10:00Z,Detroit Red Wings,Ottawa Senators,betmgm,-125,105,-1.5,185,1.5,-225,6.5,-105,-115
+2026-01-18,NHL,0a878dd0611cb8ab2eafb9a708b10a81,2026-01-19T01:10:00Z,Edmonton Oilers,St Louis Blues,betmgm,-150,125,-1.5,155,1.5,-190,6.0,-120,100
+2026-01-18,NBA,d149b0e5ad9dd363c76d6308dea81c74,2026-01-18T17:10:00Z,Memphis Grizzlies,Orlando Magic,betmgm,140,-170,4.5,-115,-4.5,-105,231.5,-105,-115
+2026-01-18,NBA,aaf6ee6cd6b915e0e0adac8f761f6ffc,2026-01-19T00:10:00Z,Chicago Bulls,Brooklyn Nets,betmgm,-250,200,-6.5,-110,6.5,-110,222.5,-110,-110
+2026-01-18,NBA,7f20e5e1b5325512f08e4973e36d08e5,2026-01-19T00:10:00Z,Houston Rockets,New Orleans Pelicans,betmgm,-800,550,-13.5,-110,13.5,-110,231.5,-105,-115
+2026-01-18,NBA,ce1d230f9bfe9f2902f1f7c58ab1baf8,2026-01-19T01:10:00Z,Denver Nuggets,Charlotte Hornets,betmgm,-118,-102,-1.5,-110,1.5,-110,228.5,-105,-115
+2026-01-18,NBA,e6912002f8fd69349b2425510251c7ad,2026-01-19T02:10:00Z,Sacramento Kings,Portland Trail Blazers,betmgm,-150,125,-2.5,-115,2.5,-105,228.5,-110,-110
+2026-01-18,NBA,58a64738a04be2c7c6d1be7d69051e09,2026-01-19T02:40:00Z,Los Angeles Lakers,Toronto Raptors,betmgm,105,-130,1.5,-105,-1.5,-115,222.5,-110,-110
