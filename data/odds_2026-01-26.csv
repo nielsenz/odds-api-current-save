@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-01-26,NHL,58530aa7e2cff4e480e19d39c3a5430e,2026-01-27T00:09:00Z,New York Rangers,Boston Bruins,betmgm,-105,-115,1.5,-250,-1.5,200,6.5,-102,-118
+2026-01-26,NHL,40c02a07bc44ff52fe319ce9b7bf1594,2026-01-27T00:10:00Z,Columbus Blue Jackets,Los Angeles Kings,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-115,-105
+2026-01-26,NHL,026849177275f3ed96d0c21836e6141d,2026-01-27T00:10:00Z,Philadelphia Flyers,New York Islanders,betmgm,-120,100,-1.5,195,1.5,-235,6.0,-105,-115
+2026-01-26,NHL,3e51da4bc644bee670cb390c850c4fc9,2026-01-27T00:10:00Z,Tampa Bay Lightning,Utah Mammoth,betmgm,-160,135,-1.5,145,1.5,-180,6.0,-118,-102
+2026-01-26,NHL,09e2f8a84ad63b866604090f143ae6fa,2026-01-27T01:40:00Z,Edmonton Oilers,Anaheim Ducks,betmgm,-275,220,-1.5,-115,1.5,-105,7.0,105,-130
+2026-01-26,NBA,4030222f70e9378b52f52597c7cc89a1,2026-01-26T18:40:00Z,Atlanta Hawks,Indiana Pacers,betmgm,-220,180,-5.5,-118,5.5,-102,233.5,-110,-110
+2026-01-26,NBA,d2ffa3af3a62c27846ed67b92ba4cd68,2026-01-26T20:10:00Z,Charlotte Hornets,Philadelphia 76ers,betmgm,-145,118,-2.5,-110,2.5,-110,228.5,-110,-110
+2026-01-26,NBA,a5157a5c583a77ad6607b6e67bfcb8b2,2026-01-27T00:10:00Z,Cleveland Cavaliers,Orlando Magic,betmgm,-235,190,-5.5,-110,5.5,-110,227.5,-110,-110
+2026-01-26,NBA,00747f8760cdab8e1f83fde19f362d2b,2026-01-27T01:10:00Z,Boston Celtics,Portland Trail Blazers,betmgm,-325,260,-7.5,-120,7.5,100,224.5,-110,-110
+2026-01-26,NBA,508b6db74fa61e80b1219357e6b7de76,2026-01-27T01:10:00Z,Chicago Bulls,Los Angeles Lakers,betmgm,-105,-115,1.5,-118,-1.5,-102,235.5,-110,-110
+2026-01-26,NBA,a1550da07312880e9d991e0cc16bb7ed,2026-01-27T01:10:00Z,Houston Rockets,Memphis Grizzlies,betmgm,-475,360,-9.5,-118,9.5,-102,224.5,-110,-110
+2026-01-26,NBA,2468f90b17177369a0fba57780016f93,2026-01-27T02:40:00Z,Minnesota Timberwolves,Golden State Warriors,betmgm,-285,230,-7.5,-110,7.5,-110,232.5,-110,-110
