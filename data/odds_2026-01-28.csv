@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-01-28,NHL,4af523cb83d096676ba2abdccde3a63a,2026-01-29T00:10:00Z,New York Islanders,New York Rangers,betmgm,-130,110,-1.5,180,1.5,-220,6.5,-105,-115
+2026-01-28,NHL,328b01857a777941eccdacfb63fb8244,2026-01-29T00:40:00Z,Ottawa Senators,Colorado Avalanche,betmgm,120,-145,1.5,-190,-1.5,155,6.5,-130,105
+2026-01-28,NHL,3904ba5c19c1ef077f11ca2e47e863a5,2026-01-29T00:40:00Z,Columbus Blue Jackets,Philadelphia Flyers,betmgm,-140,118,-1.5,180,1.5,-220,6.5,100,-120
+2026-01-28,NBA,a47d74012c56b704a36ae0021c8392c8,2026-01-29T00:10:00Z,Indiana Pacers,Chicago Bulls,betmgm,115,-140,2.5,-115,-2.5,-105,235.5,-110,-110
+2026-01-28,NBA,b1d4679968c1da9189652022adcf816a,2026-01-29T00:10:00Z,Cleveland Cavaliers,Los Angeles Lakers,betmgm,-155,125,-2.5,-115,2.5,-105,235.5,-110,-110
+2026-01-28,NBA,e907dc4e4ae93aa241aa6d755e2f79d4,2026-01-29T00:40:00Z,Boston Celtics,Atlanta Hawks,betmgm,-235,190,-6.5,-105,6.5,-115,231.5,-110,-110
+2026-01-28,NBA,0b8ffd9f984035052aaf60239f29af68,2026-01-29T00:40:00Z,Miami Heat,Orlando Magic,betmgm,-150,125,-2.5,-115,2.5,-105,229.5,-110,-110
+2026-01-28,NBA,b163681d4409ddad919155cc94f36d9f,2026-01-29T00:40:00Z,Toronto Raptors,New York Knicks,betmgm,-120,100,-1.5,-110,1.5,-110,220.5,-110,-110
+2026-01-28,NBA,c74e1e8de1a58fba37850759f89a8e30,2026-01-29T01:10:00Z,Memphis Grizzlies,Charlotte Hornets,betmgm,110,-135,2.5,-115,-2.5,-105,230.5,-110,-110
+2026-01-28,NBA,cf7a41fccdf21b9d5d3b2ab18a0139f4,2026-01-29T01:40:00Z,Dallas Mavericks,Minnesota Timberwolves,betmgm,200,-250,6.5,-105,-6.5,-115,227.5,-115,-105
+2026-01-28,NBA,9476261795fcf301db96d29ae947702a,2026-01-29T02:10:00Z,Utah Jazz,Golden State Warriors,betmgm,280,-350,9.5,-115,-9.5,-105,239.5,-110,-110
+2026-01-28,NBA,414a88d689269047de48baa7d975123f,2026-01-29T02:40:00Z,Houston Rockets,San Antonio Spurs,betmgm,-155,125,-2.5,-115,2.5,-105,220.5,-110,-110
