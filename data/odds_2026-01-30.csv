@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-01-30,NHL,319e80424eef17c8f60948b718ed1e33,2026-01-31T01:40:00Z,Chicago Blackhawks,Columbus Blue Jackets,betmgm,125,-150,1.5,-190,-1.5,155,6.0,-120,100
+2026-01-30,NBA,cd9a9b99b7f57438f58678f64c3f75df,2026-01-31T00:10:00Z,Washington Wizards,Los Angeles Lakers,betmgm,280,-350,9.5,-118,-9.5,-102,229.5,-115,-105
+2026-01-30,NBA,cf47b3808a1bf7910ead42fcaa47d4e8,2026-01-31T00:40:00Z,Boston Celtics,Sacramento Kings,betmgm,-550,400,-11.5,-110,11.5,-110,220.5,-105,-115
+2026-01-30,NBA,89d1000af287df7d5cf6eee034863e2d,2026-01-31T00:40:00Z,New Orleans Pelicans,Memphis Grizzlies,betmgm,-135,110,-2.5,-110,2.5,-110,233.5,-110,-110
+2026-01-30,NBA,036da950ec76866cc693e631e2e8a732,2026-01-31T00:40:00Z,New York Knicks,Portland Trail Blazers,betmgm,-285,225,-7.5,-110,7.5,-110,224.5,-110,-110
+2026-01-30,NBA,e827f42af996730ba01a6a27e5646d5c,2026-01-31T00:40:00Z,Orlando Magic,Toronto Raptors,betmgm,-125,105,-1.5,-110,1.5,-110,219.5,-110,-110
+2026-01-30,NBA,393d134e7c4863d67e655d6b02a5d88e,2026-01-31T02:00:00Z,Phoenix Suns,Cleveland Cavaliers,betmgm,140,-170,3.5,-105,-3.5,-115,220.5,-110,-110
+2026-01-30,NBA,7a308fc31e2ed7c6d0481bcd323157f2,2026-01-31T02:00:00Z,Denver Nuggets,Los Angeles Clippers,betmgm,170,-210,6.5,-110,-6.5,-110,209.5,-110,-110
+2026-01-30,NBA,10ead7795e4b1b32d519a992f558d7a4,2026-01-31T02:30:00Z,Utah Jazz,Brooklyn Nets,betmgm,-135,110,-2.5,-105,2.5,-115,227.5,-105,-115
+2026-01-30,NBA,cef1ef4d62f50297bf725501038c36e2,2026-01-31T03:10:00Z,Golden State Warriors,Detroit Pistons,betmgm,-145,118,-2.5,-110,2.5,-110,224.5,-110,-110
