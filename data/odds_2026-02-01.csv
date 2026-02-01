@@ -1,0 +1,14 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-01,NHL,bfd9fac946f89678ef1664f4b24b8695,2026-02-01T20:10:00Z,Carolina Hurricanes,Los Angeles Kings,betmgm,-185,150,-1.5,135,1.5,-160,5.5,-118,-102
+2026-02-01,NHL,34dbd8b5d92f6b5c91590bf9dfd418db,2026-02-01T23:40:00Z,Tampa Bay Lightning,Boston Bruins,betmgm,-220,180,-1.5,120,1.5,-145,6.0,-102,-118
+2026-02-01,NHL,e9422729e63a1abde63521d91e9e5787,2026-02-02T02:40:00Z,Anaheim Ducks,Vegas Golden Knights,betmgm,-110,-110,-1.5,200,1.5,-250,6.5,-120,100
+2026-02-01,NBA,5c0746ce9061a650f053a42e255e9c56,2026-02-01T20:40:00Z,Boston Celtics,Milwaukee Bucks,betmgm,-650,475,-13.5,-105,13.5,-115,216.5,-110,-110
+2026-02-01,NBA,d2cc88f351d8b29d40d8a8cfbe724ad1,2026-02-01T23:10:00Z,Detroit Pistons,Brooklyn Nets,betmgm,-700,500,-12.5,-115,12.5,-105,215.5,-110,-110
+2026-02-01,NBA,dbc4aeceedac7c3d49e0d34601e550c4,2026-02-01T23:10:00Z,Miami Heat,Chicago Bulls,betmgm,-180,145,-4.5,-105,4.5,-115,235.5,-110,-110
+2026-02-01,NBA,0210ab755a18ffa716e3e74460b0600d,2026-02-01T23:10:00Z,Washington Wizards,Sacramento Kings,betmgm,110,-135,2.5,-110,-2.5,-110,228.5,-115,-105
+2026-02-01,NBA,007cc4ad87ae4f21fa2e95d659fa0832,2026-02-01T23:10:00Z,Toronto Raptors,Utah Jazz,betmgm,-475,350,-10.5,-105,10.5,-115,235.5,-110,-110
+2026-02-01,NBA,738c1334fcfb5a8dfb1149f4cdc3ffa4,2026-02-02T00:10:00Z,New York Knicks,Los Angeles Lakers,betmgm,-190,154,-4.5,-115,4.5,-105,229.5,-110,-110
+2026-02-01,NBA,642a194513f0ec5b24011af9806a397c,2026-02-02T00:10:00Z,San Antonio Spurs,Orlando Magic,betmgm,-210,170,-5.5,-105,5.5,-115,223.5,-115,-105
+2026-02-01,NBA,234f77cf5691a918e9951eccf534878a,2026-02-02T01:10:00Z,Phoenix Suns,Los Angeles Clippers,betmgm,110,-135,1.5,-110,-1.5,-110,213.5,-110,-110
+2026-02-01,NBA,b4985acd1a9b9f1b6530bed611bfce81,2026-02-02T02:10:00Z,Portland Trail Blazers,Cleveland Cavaliers,betmgm,135,-165,3.5,-115,-3.5,-105,229.5,-115,-105
+2026-02-01,NBA,1c9f0b84a617632c33b94135b8101897,2026-02-02T02:40:00Z,Denver Nuggets,Oklahoma City Thunder,betmgm,230,-295,7.5,-102,-7.5,-118,222.5,-110,-110
