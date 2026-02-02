@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-02,NHL,c2b25c4fa8506ba013f1de715353a6c1,2026-02-03T00:00:00Z,Florida Panthers,Buffalo Sabres,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-118,-102
+2026-02-02,NHL,b382f70534e344a53cb8e2b91c2fea0c,2026-02-03T00:00:00Z,Washington Capitals,New York Islanders,betmgm,-135,115,-1.5,180,1.5,-220,6.5,100,-120
+2026-02-02,NHL,370c2e3a4c49d4537472fa9bc565d3be,2026-02-03T00:00:00Z,Pittsburgh Penguins,Ottawa Senators,betmgm,-110,-110,-1.5,200,1.5,-250,6.5,-105,-115
+2026-02-02,NHL,c651f17277642c30861a49ffa039d32b,2026-02-03T00:30:00Z,Minnesota Wild,Montréal Canadiens,betmgm,-130,105,-1.5,180,1.5,-220,6.5,-110,-110
+2026-02-02,NHL,afd1cf4f1ae7574fddbd8982be4bcd5d,2026-02-03T01:00:00Z,Nashville Predators,St Louis Blues,betmgm,-140,115,-1.5,180,1.5,-220,6.0,-102,-118
+2026-02-02,NHL,78700b0248383f97ff2d6e7d5438bbf8,2026-02-03T01:30:00Z,Chicago Blackhawks,San Jose Sharks,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-120,100
+2026-02-02,NHL,bce3723c900da967791ac5b5ba57d1f4,2026-02-03T01:30:00Z,Dallas Stars,Winnipeg Jets,betmgm,-145,120,-1.5,170,1.5,-210,5.5,-115,-105
+2026-02-02,NHL,efa2a0ed1f485bc3b8bb681d2b02e947,2026-02-03T02:00:00Z,Colorado Avalanche,Detroit Red Wings,betmgm,-200,165,-1.5,120,1.5,-145,6.5,100,-120
+2026-02-02,NHL,9df41843a5603a8e7a7fe70cb73688b8,2026-02-03T02:30:00Z,Utah Mammoth,Vancouver Canucks,betmgm,-275,220,-1.5,-110,1.5,-110,6.5,-102,-118
+2026-02-02,NHL,9a23b81ffd2d9a53ab3bd6608e7edaeb,2026-02-03T03:00:00Z,Calgary Flames,Toronto Maple Leafs,betmgm,-105,-115,1.5,-250,-1.5,200,6.5,100,-120
+2026-02-02,NBA,88e3150f66c24dc03c1ef472077b7103,2026-02-02T20:10:00Z,Charlotte Hornets,New Orleans Pelicans,betmgm,-250,200,-6.5,-110,6.5,-110,231.5,-110,-110
+2026-02-02,NBA,57d17c73bf1c976a13a1c66247513cf7,2026-02-03T00:10:00Z,Indiana Pacers,Houston Rockets,betmgm,195,-235,6.5,-118,-6.5,-102,219.5,-110,-110
+2026-02-02,NBA,31a26b08d3d28e056418f330c82bf472,2026-02-03T02:40:00Z,Memphis Grizzlies,Minnesota Timberwolves,betmgm,225,-275,7.5,-110,-7.5,-110,229.5,-115,-105
+2026-02-02,NBA,93838984e2cd0b0796d8bab2c603ae55,2026-02-03T03:40:00Z,Los Angeles Clippers,Philadelphia 76ers,betmgm,-135,110,-1.5,-115,1.5,-105,220.5,-110,-110
