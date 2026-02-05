@@ -1,0 +1,16 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-05,NHL,a6e77e05bc0505b5ccb098d77fbc87ec,2026-02-06T00:09:00Z,New York Rangers,Carolina Hurricanes,betmgm,170,-210,1.5,-140,-1.5,115,6.0,-120,100
+2026-02-05,NHL,c693346418362b1cf7ff17f2750419de,2026-02-06T00:10:00Z,Buffalo Sabres,Pittsburgh Penguins,betmgm,-125,105,-1.5,180,1.5,-220,6.5,-120,100
+2026-02-05,NHL,86fca7ece2fa447cf3abdc17fa3ba00b,2026-02-06T00:10:00Z,Washington Capitals,Nashville Predators,betmgm,-160,135,-1.5,145,1.5,-175,6.5,-110,-110
+2026-02-05,NHL,0c4ccb63b10ab04ed22a6eecf8b1ddab,2026-02-06T00:10:00Z,New Jersey Devils,New York Islanders,betmgm,-115,-105,-1.5,220,1.5,-275,5.5,105,-125
+2026-02-05,NHL,41d6427ebcfa34801afa660130baef33,2026-02-06T00:10:00Z,Philadelphia Flyers,Ottawa Senators,betmgm,115,-135,1.5,-220,-1.5,180,6.0,-110,-110
+2026-02-05,NHL,551b4215f6501a4f4b7784f175eca7e1,2026-02-06T00:40:00Z,Tampa Bay Lightning,Florida Panthers,betmgm,-180,145,-1.5,135,1.5,-160,6.0,-115,-105
+2026-02-05,NHL,43142c0e02c9b04c483bedd40528ddab,2026-02-06T03:10:00Z,Vegas Golden Knights,Los Angeles Kings,betmgm,-130,105,-1.5,185,1.5,-225,6.0,100,-120
+2026-02-05,NBA,cefcc7a016a8c42ec7cfb6c209abf24e,2026-02-06T00:10:00Z,Orlando Magic,Brooklyn Nets,betmgm,-375,290,-9.5,-105,9.5,-115,215.5,-110,-110
+2026-02-05,NBA,9fd9fd98d80affd8d78a3817d3996733,2026-02-06T00:10:00Z,Detroit Pistons,Washington Wizards,betmgm,-900,600,-15.5,-105,15.5,-115,226.5,-110,-110
+2026-02-05,NBA,6e1b81dfdc63af7360ee37738c1cc78f,2026-02-06T00:40:00Z,Atlanta Hawks,Utah Jazz,betmgm,-350,280,-9.5,-105,9.5,-115,243.5,-115,-105
+2026-02-05,NBA,c44c1844e56bb57369b5eade9bcb8c53,2026-02-06T00:40:00Z,Toronto Raptors,Chicago Bulls,betmgm,-350,280,-8.5,-115,8.5,-105,224.5,-105,-115
+2026-02-05,NBA,ca876dc309b1f0e80aeb0eaa5f9975b8,2026-02-06T01:10:00Z,Houston Rockets,Charlotte Hornets,betmgm,-160,135,-3.5,-115,3.5,-105,216.5,-110,-110
+2026-02-05,NBA,8c67c161dfabb6ab3221f6d4dda4b1f2,2026-02-06T01:40:00Z,Dallas Mavericks,San Antonio Spurs,betmgm,225,-275,6.5,-105,-6.5,-115,229.5,-110,-110
+2026-02-05,NBA,5a8b449155f22260aabd2f130cbbe7b1,2026-02-06T03:10:00Z,Phoenix Suns,Golden State Warriors,betmgm,-250,200,-6.5,-102,6.5,-118,215.5,-105,-115
+2026-02-05,NBA,29d21b1015a4f76d386601af48083a64,2026-02-06T03:10:00Z,Los Angeles Lakers,Philadelphia 76ers,betmgm,-185,150,,,,,234.5,-110,-110
