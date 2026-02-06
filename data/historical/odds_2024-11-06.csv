@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-11-06,NHL,d48223d79cf677c9fd1c0d1a4663385d,2024-11-07T00:00:00Z,Washington Capitals,Nashville Predators,betmgm,-120,100,-1.5,200,1.5,-250,6.0,-115,-105
+2024-11-06,NHL,d48223d79cf677c9fd1c0d1a4663385d,2024-11-07T00:00:00Z,Washington Capitals,Nashville Predators,caesars,-120,100,-1.5,205,1.5,-250,6.0,-115,-105
+2024-11-06,NHL,bbbdad8ca7da439e69cf021aeed1ad5e,2024-11-07T01:00:00Z,Chicago Blackhawks,Detroit Red Wings,caesars,100,-120,1.5,-250,-1.5,205,6.0,-120,100
+2024-11-06,NHL,bbbdad8ca7da439e69cf021aeed1ad5e,2024-11-07T01:00:00Z,Chicago Blackhawks,Detroit Red Wings,betmgm,105,-125,1.5,-250,-1.5,200,6.0,-120,100
+2024-11-06,NHL,ec2dfed84bb75c82b42727eb673202c2,2024-11-07T01:30:00Z,Edmonton Oilers,Vegas Golden Knights,caesars,-135,115,-1.5,185,1.5,-225,6.5,-110,-110
+2024-11-06,NHL,ec2dfed84bb75c82b42727eb673202c2,2024-11-07T01:30:00Z,Edmonton Oilers,Vegas Golden Knights,betmgm,-145,120,-1.5,170,1.5,-210,6.5,-110,-110

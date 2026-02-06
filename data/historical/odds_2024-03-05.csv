@@ -1,0 +1,19 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-05,NHL,67515162e89fd2f54916062cd8e26f19,2024-03-06T00:00:00Z,Pittsburgh Penguins,Columbus Blue Jackets,betmgm,-225,185,-1.5,105,1.5,-125,6.5,-115,-105
+2024-03-05,NHL,67515162e89fd2f54916062cd8e26f19,2024-03-06T00:00:00Z,Pittsburgh Penguins,Columbus Blue Jackets,caesars,-235,192,-1.5,105,1.5,-125,6.5,-115,-105
+2024-03-05,NHL,445d86e3dcab85c83b5ae60ffa342416,2024-03-06T00:00:00Z,New Jersey Devils,Florida Panthers,betmgm,105,-125,1.5,-250,-1.5,190,6.5,-115,-105
+2024-03-05,NHL,445d86e3dcab85c83b5ae60ffa342416,2024-03-06T00:00:00Z,New Jersey Devils,Florida Panthers,caesars,110,-130,1.5,-225,-1.5,185,6.5,-115,-105
+2024-03-05,NHL,a25ab899402b7415ea99bfc650a18280,2024-03-06T00:30:00Z,Boston Bruins,Edmonton Oilers,betmgm,105,-125,1.5,-225,-1.5,180,6.0,-120,100
+2024-03-05,NHL,a25ab899402b7415ea99bfc650a18280,2024-03-06T00:30:00Z,Boston Bruins,Edmonton Oilers,caesars,105,-125,1.5,-235,-1.5,192,6.0,-120,100
+2024-03-05,NHL,6d05cda6f8f5811213641f78bed07fd3,2024-03-06T00:30:00Z,New York Islanders,St Louis Blues,betmgm,-185,150,-1.5,140,1.5,-165,6.0,-110,-110
+2024-03-05,NHL,6d05cda6f8f5811213641f78bed07fd3,2024-03-06T00:30:00Z,New York Islanders,St Louis Blues,caesars,-190,158,-1.5,126,1.5,-150,6.0,-110,-110
+2024-03-05,NHL,21fd76c00f18ab1115afc8de066136d0,2024-03-06T01:00:00Z,Nashville Predators,Montréal Canadiens,caesars,-225,185,-1.5,115,1.5,-135,6.0,-120,100
+2024-03-05,NHL,21fd76c00f18ab1115afc8de066136d0,2024-03-06T01:00:00Z,Nashville Predators,Montréal Canadiens,betmgm,-225,180,-1.5,110,1.5,-135,6.0,-120,100
+2024-03-05,NHL,4e67166cbb7503ac14397a61234a21b3,2024-03-06T01:00:00Z,Winnipeg Jets,Seattle Kraken,betmgm,-175,145,-1.5,145,1.5,-175,5.5,-105,-115
+2024-03-05,NHL,4e67166cbb7503ac14397a61234a21b3,2024-03-06T01:00:00Z,Winnipeg Jets,Seattle Kraken,caesars,-170,143,-1.5,150,1.5,-178,5.5,-105,-115
+2024-03-05,NHL,69f620882ae2feda10e2aff2873d18ab,2024-03-06T02:00:00Z,Arizona Coyotes,Chicago Blackhawks,betmgm,-250,190,-1.5,115,1.5,-135,6.0,-110,-110
+2024-03-05,NHL,69f620882ae2feda10e2aff2873d18ab,2024-03-06T02:00:00Z,Arizona Coyotes,Chicago Blackhawks,caesars,-250,205,-1.5,110,1.5,-130,6.0,-110,-110
+2024-03-05,NHL,315776dd4d94c10836290c2b92420782,2024-03-06T03:30:00Z,San Jose Sharks,Dallas Stars,caesars,320,-420,1.5,130,-1.5,-155,6.0,-115,-105
+2024-03-05,NHL,315776dd4d94c10836290c2b92420782,2024-03-06T03:30:00Z,San Jose Sharks,Dallas Stars,betmgm,310,-400,1.5,125,-1.5,-150,6.0,-115,-105
+2024-03-05,NHL,343e5d8d40f66dd6c662dc2fb628d578,2024-03-06T03:30:00Z,Los Angeles Kings,Vancouver Canucks,caesars,-110,-110,1.5,-267,-1.5,215,6.0,100,-120
+2024-03-05,NHL,343e5d8d40f66dd6c662dc2fb628d578,2024-03-06T03:30:00Z,Los Angeles Kings,Vancouver Canucks,betmgm,-110,-110,-1.5,210,1.5,-275,6.0,100,-120

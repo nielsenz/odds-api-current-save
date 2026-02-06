@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-10,NHL,e089ac754d12413d6b443b549a9a84c5,2025-01-11T00:00:00Z,Carolina Hurricanes,Vancouver Canucks,betmgm,-165,140,-1.5,150,1.5,-185,6.0,-105,-115
+2025-01-10,NHL,e089ac754d12413d6b443b549a9a84c5,2025-01-11T00:00:00Z,Carolina Hurricanes,Vancouver Canucks,caesars,-165,140,-1.5,150,1.5,-178,6.0,-105,-115
+2025-01-10,NHL,70a8a7b38700abf41a201b63ddb55fe8,2025-01-11T00:00:00Z,Detroit Red Wings,Chicago Blackhawks,caesars,-180,152,-1.5,140,1.5,-165,6.0,100,-120
+2025-01-10,NHL,70a8a7b38700abf41a201b63ddb55fe8,2025-01-11T00:00:00Z,Detroit Red Wings,Chicago Blackhawks,betmgm,-185,150,-1.5,140,1.5,-165,6.0,-110,-110
+2025-01-10,NHL,a1e910d4ec8e61ea52980ff4d0b83f48,2025-01-11T00:00:00Z,Washington Capitals,Montréal Canadiens,caesars,-220,180,-1.5,115,1.5,-135,6.0,-110,-110
+2025-01-10,NHL,a1e910d4ec8e61ea52980ff4d0b83f48,2025-01-11T00:00:00Z,Washington Capitals,Montréal Canadiens,betmgm,-225,185,-1.5,120,1.5,-145,6.0,-110,-110
+2025-01-10,NHL,ebcd9ea845549c007288c80d77a86bb9,2025-01-11T01:00:00Z,Winnipeg Jets,Los Angeles Kings,betmgm,-125,105,-1.5,195,1.5,-250,5.5,100,-120
+2025-01-10,NHL,ebcd9ea845549c007288c80d77a86bb9,2025-01-11T01:00:00Z,Winnipeg Jets,Los Angeles Kings,caesars,-120,100,-1.5,205,1.5,-250,5.5,-105,-115
+2025-01-10,NHL,238de0ca9adb2bce4f77e53fc4613a70,2025-01-11T02:00:00Z,Utah Hockey Club,San Jose Sharks,caesars,-285,228,-1.5,-110,1.5,-110,6.0,-120,100
+2025-01-10,NHL,238de0ca9adb2bce4f77e53fc4613a70,2025-01-11T02:00:00Z,Utah Hockey Club,San Jose Sharks,betmgm,-275,220,-1.5,-105,1.5,-115,6.0,-120,100

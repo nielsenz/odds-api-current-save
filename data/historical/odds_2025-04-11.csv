@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-04-11,NHL,0f280ecceb6e2b86d137785d5b807ff9,2025-04-11T23:00:00Z,Tampa Bay Lightning,Detroit Red Wings,betmgm,-300,240,-1.5,-118,1.5,-102,6.0,-115,-105
+2025-04-11,NHL,0f280ecceb6e2b86d137785d5b807ff9,2025-04-11T23:00:00Z,Tampa Bay Lightning,Detroit Red Wings,caesars,-305,240,-1.5,-115,1.5,-105,6.0,-115,-105
+2025-04-11,NHL,d198551c4933af0119268f7a8c0758d6,2025-04-11T23:00:00Z,Ottawa Senators,Montréal Canadiens,betmgm,-140,118,-1.5,170,1.5,-210,6.0,100,-120
+2025-04-11,NHL,d198551c4933af0119268f7a8c0758d6,2025-04-11T23:00:00Z,Ottawa Senators,Montréal Canadiens,caesars,-135,115,-1.5,170,1.5,-205,5.5,-135,115
+2025-04-11,NHL,4918fab4fd51ae9c60d49c9067965a4d,2025-04-11T23:00:00Z,New Jersey Devils,Pittsburgh Penguins,betmgm,-200,165,-1.5,125,1.5,-150,6.0,-105,-115
+2025-04-11,NHL,4918fab4fd51ae9c60d49c9067965a4d,2025-04-11T23:00:00Z,New Jersey Devils,Pittsburgh Penguins,caesars,-195,162,-1.5,130,1.5,-155,6.0,-105,-115
+2025-04-11,NHL,43b909cea2360da6a601c1d69a92bd92,2025-04-12T01:30:00Z,Edmonton Oilers,San Jose Sharks,betmgm,-425,325,-1.5,-155,1.5,130,6.5,-145,110
+2025-04-11,NHL,43b909cea2360da6a601c1d69a92bd92,2025-04-12T01:30:00Z,Edmonton Oilers,San Jose Sharks,caesars,-430,328,-1.5,-155,1.5,130,6.5,-140,118
+2025-04-11,NHL,fe44663d4568c468e0625622cf09b9a1,2025-04-12T02:00:00Z,Calgary Flames,Minnesota Wild,betmgm,105,-125,1.5,-250,-1.5,200,5.5,-110,-110
+2025-04-11,NHL,fe44663d4568c468e0625622cf09b9a1,2025-04-12T02:00:00Z,Calgary Flames,Minnesota Wild,caesars,105,-125,1.5,-250,-1.5,205,5.5,-115,-105

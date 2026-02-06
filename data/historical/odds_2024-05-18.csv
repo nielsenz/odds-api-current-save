@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-05-18,NHL,d81e3511d8112dc197da043183f9b403,2024-05-19T00:10:00Z,Edmonton Oilers,Vancouver Canucks,betmgm,-190,155,-1.5,130,1.5,-155,6.0,-120,100
+2024-05-18,NHL,d81e3511d8112dc197da043183f9b403,2024-05-19T00:10:00Z,Edmonton Oilers,Vancouver Canucks,caesars,-190,158,-1.5,130,1.5,-155,6.0,-120,100
+2024-05-18,NHL,25d3242ce2eb6cadfe3e2bda8e8b639b,2024-05-23T00:00:00Z,New York Rangers,Florida Panthers,betmgm,-110,-110,1.5,-300,-1.5,210,5.5,100,-120
+2024-05-18,NHL,25d3242ce2eb6cadfe3e2bda8e8b639b,2024-05-23T00:00:00Z,New York Rangers,Florida Panthers,caesars,-110,-110,-1.5,215,1.5,-267,5.5,100,-120

@@ -1,0 +1,17 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-12-07,NHL,3cc465becbbfd5fec2119ec6266d3b0a,2025-12-07T18:10:00Z,Philadelphia Flyers,Colorado Avalanche,caesars,135,-160,1.5,-180,-1.5,152,6.0,-120,100
+2025-12-07,NHL,3cc465becbbfd5fec2119ec6266d3b0a,2025-12-07T18:10:00Z,Philadelphia Flyers,Colorado Avalanche,betmgm,130,-155,1.5,-185,-1.5,150,6.0,-120,100
+2025-12-07,NHL,fa9574fc4e3119cc280983e181370ee6,2025-12-07T22:10:00Z,Carolina Hurricanes,San Jose Sharks,caesars,-335,260,-1.5,-120,1.5,100,6.0,-120,100
+2025-12-07,NHL,fa9574fc4e3119cc280983e181370ee6,2025-12-07T22:10:00Z,Carolina Hurricanes,San Jose Sharks,betmgm,-300,240,-1.5,-125,1.5,105,6.0,-120,100
+2025-12-07,NHL,a7ff1dcb127f54e32fdcc8f2929b1d23,2025-12-07T22:10:00Z,Florida Panthers,New York Islanders,caesars,-165,140,-1.5,158,1.5,-190,6.0,-120,100
+2025-12-07,NHL,a7ff1dcb127f54e32fdcc8f2929b1d23,2025-12-07T22:10:00Z,Florida Panthers,New York Islanders,betmgm,-160,135,-1.5,145,1.5,-175,6.0,-120,100
+2025-12-07,NHL,3388fb49af335a026f595dd08af92be8,2025-12-07T23:10:00Z,Dallas Stars,Pittsburgh Penguins,caesars,-170,143,-1.5,143,1.5,-170,6.0,-120,100
+2025-12-07,NHL,3388fb49af335a026f595dd08af92be8,2025-12-07T23:10:00Z,Dallas Stars,Pittsburgh Penguins,betmgm,-170,140,-1.5,140,1.5,-170,6.0,-120,100
+2025-12-07,NHL,00e0f9a7c3c61e25df9ab047e44864e4,2025-12-08T00:10:00Z,Washington Capitals,Columbus Blue Jackets,caesars,-190,158,-1.5,140,1.5,-165,6.5,100,-120
+2025-12-07,NHL,00e0f9a7c3c61e25df9ab047e44864e4,2025-12-08T00:10:00Z,Washington Capitals,Columbus Blue Jackets,betmgm,-185,150,-1.5,130,1.5,-155,6.5,100,-120
+2025-12-07,NHL,4b8e702504e8756829a68a10ec7b418c,2025-12-08T00:10:00Z,Montréal Canadiens,St Louis Blues,caesars,-140,118,-1.5,180,1.5,-220,5.5,-120,100
+2025-12-07,NHL,4b8e702504e8756829a68a10ec7b418c,2025-12-08T00:10:00Z,Montréal Canadiens,St Louis Blues,betmgm,-135,115,-1.5,180,1.5,-220,6.0,-102,-118
+2025-12-07,NHL,02cc3e6bd0bf43875ce638751d869a5b,2025-12-08T00:10:00Z,New York Rangers,Vegas Golden Knights,caesars,143,-170,1.5,-170,-1.5,143,5.5,-135,115
+2025-12-07,NHL,02cc3e6bd0bf43875ce638751d869a5b,2025-12-08T00:10:00Z,New York Rangers,Vegas Golden Knights,betmgm,140,-170,1.5,-170,-1.5,140,6.0,-105,-115
+2025-12-07,NHL,21776aee6ef072fd014f43ee23cfa22c,2025-12-08T01:10:00Z,Anaheim Ducks,Chicago Blackhawks,caesars,-195,162,-1.5,122,1.5,-145,6.5,-120,100
+2025-12-07,NHL,21776aee6ef072fd014f43ee23cfa22c,2025-12-08T01:10:00Z,Anaheim Ducks,Chicago Blackhawks,betmgm,-190,155,-1.5,120,1.5,-145,6.5,-120,100

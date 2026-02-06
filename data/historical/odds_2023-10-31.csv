@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-10-31,NHL,358a099f74eca30337fd4f5c047cc124,2023-11-01T00:00:00Z,Toronto Maple Leafs,Los Angeles Kings,caesars,-155,130,-1.5,158,1.5,-190,6.5,-140,118
+2023-10-31,NHL,358a099f74eca30337fd4f5c047cc124,2023-11-01T00:00:00Z,Toronto Maple Leafs,Los Angeles Kings,betmgm,-155,130,-1.5,150,1.5,-185,6.5,-135,110
+2023-10-31,NHL,5c44ee502e54c3458e3122670704e577,2023-11-01T02:00:00Z,Vancouver Canucks,Nashville Predators,caesars,-135,115,-1.5,180,1.5,-220,6.0,100,-120
+2023-10-31,NHL,5c44ee502e54c3458e3122670704e577,2023-11-01T02:00:00Z,Vancouver Canucks,Nashville Predators,betmgm,-135,110,-1.5,180,1.5,-225,6.0,100,-120
+2023-10-31,NHL,23579455d46a8cb479626f47bf1c4304,2023-11-01T23:00:00Z,Philadelphia Flyers,Buffalo Sabres,caesars,-110,-110,1.5,-240,-1.5,196,6.5,-135,115
+2023-10-31,NHL,0656c2c1c9b2fdcbc0c919d1f4f6af04,2023-11-02T00:30:00Z,Calgary Flames,Dallas Stars,caesars,115,-135,1.5,-220,-1.5,180,6.0,100,-120
+2023-10-31,NHL,04d1a4e69085023a3cb0d2c58ea1bab3,2023-11-02T01:30:00Z,Colorado Avalanche,St Louis Blues,caesars,-267,215,-1.5,100,1.5,-120,6.5,100,-120
+2023-10-31,NHL,a4c81463a07dcf1841cd4f6561c2649a,2023-11-02T02:00:00Z,Anaheim Ducks,Arizona Coyotes,caesars,105,-125,1.5,-235,-1.5,192,6.5,-105,-115

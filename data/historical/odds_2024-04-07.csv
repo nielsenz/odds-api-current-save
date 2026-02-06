@@ -1,0 +1,19 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-04-07,NHL,dfc8d3f564662b280cc2ccf2a2854ef6,2024-04-07T17:00:00Z,Detroit Red Wings,Buffalo Sabres,betmgm,-125,105,-1.5,195,1.5,-250,6.5,-105,-115
+2024-04-07,NHL,dfc8d3f564662b280cc2ccf2a2854ef6,2024-04-07T17:00:00Z,Detroit Red Wings,Buffalo Sabres,caesars,-125,105,-1.5,185,1.5,-225,6.5,-110,-110
+2024-04-07,NHL,de8af9c7d7cda1ab56332963d6fa7afc,2024-04-07T19:30:00Z,Chicago Blackhawks,Minnesota Wild,betmgm,170,-210,1.5,-145,-1.5,120,5.5,-120,100
+2024-04-07,NHL,de8af9c7d7cda1ab56332963d6fa7afc,2024-04-07T19:30:00Z,Chicago Blackhawks,Minnesota Wild,caesars,170,-205,1.5,-145,-1.5,122,5.5,-130,110
+2024-04-07,NHL,c78302abd27d5902b8c68d74f60168b2,2024-04-07T21:00:00Z,Carolina Hurricanes,Columbus Blue Jackets,betmgm,-550,400,-2.5,-115,2.5,-105,6.0,-135,100
+2024-04-07,NHL,c78302abd27d5902b8c68d74f60168b2,2024-04-07T21:00:00Z,Carolina Hurricanes,Columbus Blue Jackets,caesars,-550,400,-1.5,-195,1.5,162,6.0,-125,105
+2024-04-07,NHL,f5dcce486b5eafaf974254e51a664952,2024-04-07T22:00:00Z,San Jose Sharks,Arizona Coyotes,betmgm,180,-225,1.5,-140,-1.5,115,6.0,-115,-105
+2024-04-07,NHL,f5dcce486b5eafaf974254e51a664952,2024-04-07T22:00:00Z,San Jose Sharks,Arizona Coyotes,caesars,185,-225,1.5,-135,-1.5,115,6.0,-115,-105
+2024-04-07,NHL,86d8a1929dde1bb8eefd4eb2ac75edac,2024-04-07T22:00:00Z,Washington Capitals,Ottawa Senators,betmgm,-145,120,-1.5,170,1.5,-210,6.0,-120,100
+2024-04-07,NHL,86d8a1929dde1bb8eefd4eb2ac75edac,2024-04-07T22:00:00Z,Washington Capitals,Ottawa Senators,caesars,-140,118,-1.5,175,1.5,-210,6.0,-120,100
+2024-04-07,NHL,b961ba3aab0a2cac11841f3c64c7f78f,2024-04-07T23:00:00Z,New York Rangers,Montréal Canadiens,betmgm,-375,290,-1.5,-135,1.5,110,6.0,-115,-105
+2024-04-07,NHL,b961ba3aab0a2cac11841f3c64c7f78f,2024-04-07T23:00:00Z,New York Rangers,Montréal Canadiens,caesars,-385,300,-1.5,-145,1.5,122,6.0,-115,-105
+2024-04-07,NHL,9e91baa63dde4ee3813601f65a6c81c1,2024-04-07T23:00:00Z,New Jersey Devils,Nashville Predators,betmgm,-110,-110,-1.5,200,1.5,-250,6.5,-105,-115
+2024-04-07,NHL,9e91baa63dde4ee3813601f65a6c81c1,2024-04-07T23:00:00Z,New Jersey Devils,Nashville Predators,caesars,110,-130,1.5,-267,-1.5,215,6.5,-105,-115
+2024-04-07,NHL,34dba14879745b9bba7d8bc8478fbe71,2024-04-08T00:00:00Z,Anaheim Ducks,St Louis Blues,betmgm,125,-150,1.5,-200,-1.5,165,5.5,-120,100
+2024-04-07,NHL,34dba14879745b9bba7d8bc8478fbe71,2024-04-08T00:00:00Z,Anaheim Ducks,St Louis Blues,caesars,126,-150,1.5,-195,-1.5,162,5.5,-120,100
+2024-04-07,NHL,75d424d06ed0896090f5bbd07bc64e87,2024-04-08T02:00:00Z,Colorado Avalanche,Dallas Stars,betmgm,-120,100,-1.5,195,1.5,-250,6.0,-120,100
+2024-04-07,NHL,75d424d06ed0896090f5bbd07bc64e87,2024-04-08T02:00:00Z,Colorado Avalanche,Dallas Stars,caesars,-125,105,-1.5,196,1.5,-240,6.0,-125,105

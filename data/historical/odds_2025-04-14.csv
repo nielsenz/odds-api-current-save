@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-04-14,NHL,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14T23:00:00Z,Montréal Canadiens,Chicago Blackhawks,betmgm,-275,220,-1.5,-105,1.5,-115,6.0,-115,-105
+2025-04-14,NHL,ed5f71c2486b0bdf246ea323ee2e6572,2025-04-14T23:00:00Z,Montréal Canadiens,Chicago Blackhawks,caesars,-285,228,-1.5,-110,1.5,-110,6.0,-115,-105
+2025-04-14,NHL,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14T23:00:00Z,Detroit Red Wings,Dallas Stars,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-110,-110
+2025-04-14,NHL,9f74bfdd0ea3d4298be5bc35573f3e65,2025-04-14T23:00:00Z,Detroit Red Wings,Dallas Stars,caesars,-105,-115,1.5,-250,-1.5,205,6.0,-110,-110
+2025-04-14,NHL,4e4237be53302b0e12fe2199bba601f7,2025-04-14T23:00:00Z,Florida Panthers,New York Rangers,betmgm,-165,140,-1.5,150,1.5,-185,5.5,-118,-102
+2025-04-14,NHL,4e4237be53302b0e12fe2199bba601f7,2025-04-14T23:00:00Z,Florida Panthers,New York Rangers,caesars,-170,143,-1.5,150,1.5,-178,5.5,-115,-105
+2025-04-14,NHL,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-15T00:00:00Z,Nashville Predators,Utah Hockey Club,betmgm,145,-175,1.5,-175,-1.5,145,6.0,-120,100
+2025-04-14,NHL,43e03293d0f40f55b8e65d3e86fbfdca,2025-04-15T00:00:00Z,Nashville Predators,Utah Hockey Club,caesars,140,-165,1.5,-178,-1.5,150,6.0,-120,100
+2025-04-14,NHL,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-15T02:00:00Z,Edmonton Oilers,Los Angeles Kings,betmgm,-110,-110,-1.5,220,1.5,-275,5.5,-110,-110
+2025-04-14,NHL,5c64dd4c2a733b174e7b0fef26c1258f,2025-04-15T02:00:00Z,Edmonton Oilers,Los Angeles Kings,caesars,-110,-110,-1.5,222,1.5,-278,5.5,-110,-110
+2025-04-14,NHL,de1e996b36af8e55c6f41414925ae404,2025-04-15T02:00:00Z,Vancouver Canucks,San Jose Sharks,betmgm,-325,260,-1.5,-115,1.5,-105,6.0,100,-120
+2025-04-14,NHL,de1e996b36af8e55c6f41414925ae404,2025-04-15T02:00:00Z,Vancouver Canucks,San Jose Sharks,caesars,-320,250,-1.5,-120,1.5,100,6.0,-105,-115

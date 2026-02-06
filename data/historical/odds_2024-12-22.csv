@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-12-22,NHL,97edd5f090f4b98ef4a13305f3d7e2c6,2024-12-22T17:40:00Z,New York Rangers,Carolina Hurricanes,caesars,130,-155,1.5,-195,-1.5,162,6.0,110,-130
+2024-12-22,NHL,97edd5f090f4b98ef4a13305f3d7e2c6,2024-12-22T17:40:00Z,New York Rangers,Carolina Hurricanes,betmgm,130,-155,1.5,-200,-1.5,165,6.0,100,-120
+2024-12-22,NHL,e127dde6224d3b8145477849f1fdc410,2024-12-22T22:10:00Z,Utah Hockey Club,Anaheim Ducks,caesars,-225,185,-1.5,115,1.5,-135,6.0,-110,-110
+2024-12-22,NHL,e127dde6224d3b8145477849f1fdc410,2024-12-22T22:10:00Z,Utah Hockey Club,Anaheim Ducks,betmgm,-225,185,-1.5,115,1.5,-135,6.0,-110,-110
+2024-12-22,NHL,cb34304fa375db9df1297a6d1949f17c,2024-12-22T22:10:00Z,Tampa Bay Lightning,Florida Panthers,caesars,-105,-115,1.5,-267,-1.5,215,6.5,100,-120
+2024-12-22,NHL,cb34304fa375db9df1297a6d1949f17c,2024-12-22T22:10:00Z,Tampa Bay Lightning,Florida Panthers,betmgm,-105,-115,1.5,-250,-1.5,200,6.5,100,-120
+2024-12-22,NHL,dee29291ff7eae7d5fbeb94d7fb53610,2024-12-22T22:10:00Z,Washington Capitals,Los Angeles Kings,betmgm,-160,135,-1.5,155,1.5,-190,5.5,-105,-115
+2024-12-22,NHL,dee29291ff7eae7d5fbeb94d7fb53610,2024-12-22T22:10:00Z,Washington Capitals,Los Angeles Kings,caesars,-160,135,-1.5,170,1.5,-205,5.5,-105,-115
+2024-12-22,NHL,812768da32fbc63cccd0b5b630c8bcfd,2024-12-23T01:10:00Z,Colorado Avalanche,Seattle Kraken,betmgm,-275,220,-1.5,100,1.5,-120,6.0,-105,-115
+2024-12-22,NHL,812768da32fbc63cccd0b5b630c8bcfd,2024-12-23T01:10:00Z,Colorado Avalanche,Seattle Kraken,caesars,-267,215,-1.5,100,1.5,-120,6.0,-110,-110
+2024-12-22,NHL,8c86056de96780c267074196d13e5e14,2024-12-23T01:10:00Z,Edmonton Oilers,Ottawa Senators,betmgm,-185,150,-1.5,135,1.5,-160,6.0,-115,-105
+2024-12-22,NHL,8c86056de96780c267074196d13e5e14,2024-12-23T01:10:00Z,Edmonton Oilers,Ottawa Senators,caesars,-190,158,-1.5,135,1.5,-160,6.0,-115,-105

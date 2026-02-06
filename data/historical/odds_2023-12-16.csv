@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-12-16,NHL,0682ed9250f55741acc40a2fa2570818,2023-12-16T19:00:00Z,Minnesota Wild,Vancouver Canucks,caesars,-115,-105,-1.5,215,1.5,-267,6.0,-125,105
+2023-12-16,NHL,0682ed9250f55741acc40a2fa2570818,2023-12-16T19:00:00Z,Minnesota Wild,Vancouver Canucks,betmgm,-115,-105,-1.5,200,1.5,-250,6.5,100,-120
+2023-12-16,NHL,40aeb0638649a98135ff9123ae0da19b,2023-12-17T00:00:00Z,Boston Bruins,New York Rangers,betmgm,-120,100,-1.5,200,1.5,-250,5.5,-120,100
+2023-12-16,NHL,40aeb0638649a98135ff9123ae0da19b,2023-12-17T00:00:00Z,Boston Bruins,New York Rangers,caesars,-120,100,-1.5,210,1.5,-260,5.5,-120,100
+2023-12-16,NHL,266172952fce656d6348e985264f84c9,2023-12-17T00:00:00Z,Winnipeg Jets,Colorado Avalanche,caesars,-105,-115,1.5,-250,-1.5,205,6.0,-115,-105
+2023-12-16,NHL,266172952fce656d6348e985264f84c9,2023-12-17T00:00:00Z,Winnipeg Jets,Colorado Avalanche,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-115,-105
+2023-12-16,NHL,bd88e7b8207ecb510ff45776b4f16d60,2023-12-17T00:00:00Z,Columbus Blue Jackets,New Jersey Devils,caesars,185,-225,1.5,-130,-1.5,110,6.5,-135,115
+2023-12-16,NHL,bd88e7b8207ecb510ff45776b4f16d60,2023-12-17T00:00:00Z,Columbus Blue Jackets,New Jersey Devils,betmgm,180,-225,1.5,-135,-1.5,110,7.0,110,-135
+2023-12-16,NHL,7db8fe8c9ecdfa0d4a9b492283a4834a,2023-12-17T00:00:00Z,Philadelphia Flyers,Detroit Red Wings,betmgm,-130,105,-1.5,185,1.5,-225,6.0,-110,-110
+2023-12-16,NHL,7db8fe8c9ecdfa0d4a9b492283a4834a,2023-12-17T00:00:00Z,Philadelphia Flyers,Detroit Red Wings,caesars,-125,105,-1.5,196,1.5,-240,6.0,-105,-115
+2023-12-16,NHL,2894d80b1a41739d25309345e8166837,2023-12-17T00:00:00Z,Montréal Canadiens,New York Islanders,betmgm,105,-125,1.5,-225,-1.5,185,6.0,-115,-105
+2023-12-16,NHL,2894d80b1a41739d25309345e8166837,2023-12-17T00:00:00Z,Montréal Canadiens,New York Islanders,caesars,105,-125,1.5,-240,-1.5,196,6.0,-115,-105
+2023-12-16,NHL,f3476a6a5feb1628b36ff7ec067409e4,2023-12-17T00:00:00Z,Toronto Maple Leafs,Pittsburgh Penguins,caesars,-130,110,-1.5,175,1.5,-210,6.5,-130,110
+2023-12-16,NHL,f3476a6a5feb1628b36ff7ec067409e4,2023-12-17T00:00:00Z,Toronto Maple Leafs,Pittsburgh Penguins,betmgm,-135,110,-1.5,170,1.5,-210,6.5,-135,110
+2023-12-16,NHL,ab7264169b127f46ecac1b65e16851d8,2023-12-17T01:00:00Z,St Louis Blues,Dallas Stars,betmgm,115,-140,1.5,-210,-1.5,170,6.5,100,-120
+2023-12-16,NHL,ab7264169b127f46ecac1b65e16851d8,2023-12-17T01:00:00Z,St Louis Blues,Dallas Stars,caesars,118,-140,1.5,-205,-1.5,170,6.5,-105,-115
+2023-12-16,NHL,e76a433eab248bf86e9c7089a9271222,2023-12-17T01:00:00Z,Nashville Predators,Washington Capitals,betmgm,-140,115,-1.5,170,1.5,-210,6.0,-120,100
+2023-12-16,NHL,e76a433eab248bf86e9c7089a9271222,2023-12-17T01:00:00Z,Nashville Predators,Washington Capitals,caesars,-135,115,-1.5,180,1.5,-220,6.0,-120,100
+2023-12-16,NHL,8c81054cc38770dedb49662fce85fc5d,2023-12-17T02:00:00Z,Arizona Coyotes,Buffalo Sabres,betmgm,-115,-105,-1.5,195,1.5,-250,6.5,-115,-105
+2023-12-16,NHL,8c81054cc38770dedb49662fce85fc5d,2023-12-17T02:00:00Z,Arizona Coyotes,Buffalo Sabres,caesars,-115,-105,-1.5,205,1.5,-250,6.5,-115,-105
+2023-12-16,NHL,046e4c8a337cbe954d7e7c729b3b723c,2023-12-17T03:00:00Z,Calgary Flames,Tampa Bay Lightning,betmgm,-110,-110,1.5,-250,-1.5,200,6.5,-120,100
+2023-12-16,NHL,046e4c8a337cbe954d7e7c729b3b723c,2023-12-17T03:00:00Z,Calgary Flames,Tampa Bay Lightning,caesars,-110,-110,-1.5,210,1.5,-260,6.5,-120,100
+2023-12-16,NHL,95aa9ed89960e1980ac98a62ed7cc6e1,2023-12-17T03:00:00Z,Edmonton Oilers,Florida Panthers,caesars,-150,126,-1.5,170,1.5,-205,6.5,-145,122
+2023-12-16,NHL,95aa9ed89960e1980ac98a62ed7cc6e1,2023-12-17T03:00:00Z,Edmonton Oilers,Florida Panthers,betmgm,-145,120,-1.5,155,1.5,-190,7.0,105,-130
+2023-12-16,NHL,df91ff04331916563491b3f1d837c906,2023-12-17T03:00:00Z,Seattle Kraken,Los Angeles Kings,caesars,130,-155,1.5,-205,-1.5,170,6.0,105,-125
+2023-12-16,NHL,df91ff04331916563491b3f1d837c906,2023-12-17T03:00:00Z,Seattle Kraken,Los Angeles Kings,betmgm,125,-150,1.5,-200,-1.5,165,6.0,100,-120

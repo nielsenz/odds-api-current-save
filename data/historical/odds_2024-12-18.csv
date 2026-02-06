@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-12-18,NHL,d4f7472cc0ac97e8b37c961e5bdce2e5,2024-12-19T00:00:00Z,Detroit Red Wings,Philadelphia Flyers,caesars,-115,-105,-1.5,215,1.5,-267,6.0,-105,-115
+2024-12-18,NHL,d4f7472cc0ac97e8b37c961e5bdce2e5,2024-12-19T00:00:00Z,Detroit Red Wings,Philadelphia Flyers,betmgm,-115,-105,-1.5,220,1.5,-275,6.0,-110,-110
+2024-12-18,NHL,157ebfc7686264a1ffbff6b9448028ab,2024-12-19T00:30:00Z,Dallas Stars,Toronto Maple Leafs,betmgm,-135,115,-1.5,180,1.5,-225,6.0,100,-120
+2024-12-18,NHL,157ebfc7686264a1ffbff6b9448028ab,2024-12-19T00:30:00Z,Dallas Stars,Toronto Maple Leafs,caesars,-135,115,-1.5,185,1.5,-225,5.5,-125,105
+2024-12-18,NHL,f69742064e8bca89bdea8b97f849f6b9,2024-12-19T02:30:00Z,Minnesota Wild,Florida Panthers,betmgm,130,-155,1.5,-210,-1.5,170,5.5,-105,-115
+2024-12-18,NHL,f69742064e8bca89bdea8b97f849f6b9,2024-12-19T02:30:00Z,Minnesota Wild,Florida Panthers,caesars,130,-155,1.5,-205,-1.5,170,5.5,-105,-115
+2024-12-18,NHL,ecc152a9b8730229d56e3f92daf5ff40,2024-12-19T03:00:00Z,Anaheim Ducks,Winnipeg Jets,betmgm,145,-175,1.5,-165,-1.5,140,6.0,-110,-110
+2024-12-18,NHL,ecc152a9b8730229d56e3f92daf5ff40,2024-12-19T03:00:00Z,Anaheim Ducks,Winnipeg Jets,caesars,143,-170,1.5,-190,-1.5,158,6.0,-110,-110
+2024-12-18,NHL,af03e241b32bac1d4a2b153a62d0a6ac,2024-12-19T03:00:00Z,Utah Hockey Club,Vancouver Canucks,betmgm,-125,105,-1.5,195,1.5,-250,6.0,100,-120
+2024-12-18,NHL,af03e241b32bac1d4a2b153a62d0a6ac,2024-12-19T03:00:00Z,Utah Hockey Club,Vancouver Canucks,caesars,-125,105,-1.5,205,1.5,-250,5.5,-125,105

@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-08,NHL,c0057a66ad0633e11130f836fda1d99a,2024-03-09T02:00:00Z,Arizona Coyotes,Detroit Red Wings,betmgm,115,-135,1.5,-210,-1.5,170,6.5,-110,-110
+2024-03-08,NHL,c0057a66ad0633e11130f836fda1d99a,2024-03-09T02:00:00Z,Arizona Coyotes,Detroit Red Wings,caesars,122,-145,1.5,-210,-1.5,175,6.5,-110,-110
+2024-03-08,NHL,56976203af851755e91e7bc91b9c3c6d,2024-03-09T02:00:00Z,Colorado Avalanche,Minnesota Wild,betmgm,-225,180,-1.5,110,1.5,-135,6.5,-110,-110
+2024-03-08,NHL,56976203af851755e91e7bc91b9c3c6d,2024-03-09T02:00:00Z,Colorado Avalanche,Minnesota Wild,caesars,-225,185,-1.5,110,1.5,-130,6.5,-110,-110
+2024-03-08,NHL,efdf1684a7c0c05a233be82ee390ef83,2024-03-09T03:00:00Z,Anaheim Ducks,Dallas Stars,betmgm,230,-300,1.5,100,-1.5,-120,6.0,-120,100
+2024-03-08,NHL,efdf1684a7c0c05a233be82ee390ef83,2024-03-09T03:00:00Z,Anaheim Ducks,Dallas Stars,caesars,260,-335,1.5,100,-1.5,-120,6.5,105,-125
+2024-03-08,NHL,9c474db7650f906f1c478e0f95480135,2024-03-09T03:00:00Z,Seattle Kraken,Winnipeg Jets,betmgm,105,-125,1.5,-250,-1.5,200,5.5,-115,-105
+2024-03-08,NHL,9c474db7650f906f1c478e0f95480135,2024-03-09T03:00:00Z,Seattle Kraken,Winnipeg Jets,caesars,100,-120,1.5,-250,-1.5,205,5.5,-110,-110

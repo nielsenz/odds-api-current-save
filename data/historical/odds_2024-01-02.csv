@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-01-02,NHL,2f87a95c62d3d381d97d5a0f23ee63b1,2024-01-03T00:00:00Z,Columbus Blue Jackets,Boston Bruins,caesars,192,-235,1.5,-130,-1.5,110,6.5,-105,-115
+2024-01-02,NHL,2f87a95c62d3d381d97d5a0f23ee63b1,2024-01-03T00:00:00Z,Columbus Blue Jackets,Boston Bruins,betmgm,200,-250,1.5,-130,-1.5,105,6.5,100,-120
+2024-01-02,NHL,356e3fa89a88685f750947e77363c3b1,2024-01-03T00:00:00Z,New York Rangers,Carolina Hurricanes,caesars,-125,105,-1.5,205,1.5,-250,6.0,100,-120
+2024-01-02,NHL,356e3fa89a88685f750947e77363c3b1,2024-01-03T00:00:00Z,New York Rangers,Carolina Hurricanes,betmgm,-125,105,-1.5,185,1.5,-225,6.0,100,-120
+2024-01-02,NHL,7136b8901b26b0d6e7bcca2c6aec51d1,2024-01-03T00:30:00Z,Pittsburgh Penguins,Washington Capitals,caesars,-178,150,-1.5,140,1.5,-165,6.0,100,-120
+2024-01-02,NHL,7136b8901b26b0d6e7bcca2c6aec51d1,2024-01-03T00:30:00Z,Pittsburgh Penguins,Washington Capitals,betmgm,-175,145,-1.5,145,1.5,-175,6.0,100,-120
+2024-01-02,NHL,732ddc60c388a08e145576a5d1cc32f2,2024-01-03T01:00:00Z,Minnesota Wild,Calgary Flames,caesars,-110,-110,-1.5,215,1.5,-267,6.0,-115,-105
+2024-01-02,NHL,732ddc60c388a08e145576a5d1cc32f2,2024-01-03T01:00:00Z,Minnesota Wild,Calgary Flames,betmgm,-110,-110,1.5,-250,-1.5,200,6.0,-110,-110
+2024-01-02,NHL,e375aaf210a6179e325aea7c1ebdb5c8,2024-01-03T01:00:00Z,Nashville Predators,Chicago Blackhawks,caesars,-267,215,-1.5,-105,1.5,-115,6.5,100,-120
+2024-01-02,NHL,e375aaf210a6179e325aea7c1ebdb5c8,2024-01-03T01:00:00Z,Nashville Predators,Chicago Blackhawks,betmgm,-275,220,-1.5,-105,1.5,-115,6.5,100,-120
+2024-01-02,NHL,20417ba16bb264a35c9ef8439ada4720,2024-01-03T01:00:00Z,Dallas Stars,Montréal Canadiens,caesars,-305,240,-1.5,-115,1.5,-105,6.5,-110,-110
+2024-01-02,NHL,20417ba16bb264a35c9ef8439ada4720,2024-01-03T01:00:00Z,Dallas Stars,Montréal Canadiens,betmgm,-300,240,-1.5,-110,1.5,-110,6.5,-105,-115
+2024-01-02,NHL,6efed635e653fdcf7df40a87692ab73a,2024-01-03T01:00:00Z,Winnipeg Jets,Tampa Bay Lightning,caesars,-135,115,-1.5,180,1.5,-220,6.0,-120,100
+2024-01-02,NHL,6efed635e653fdcf7df40a87692ab73a,2024-01-03T01:00:00Z,Winnipeg Jets,Tampa Bay Lightning,betmgm,-135,115,-1.5,180,1.5,-225,6.0,-120,100
+2024-01-02,NHL,55ed2a29967ea89fae17a41ee117607c,2024-01-03T02:00:00Z,Arizona Coyotes,Florida Panthers,caesars,140,-165,1.5,-170,-1.5,143,6.0,-110,-110
+2024-01-02,NHL,55ed2a29967ea89fae17a41ee117607c,2024-01-03T02:00:00Z,Arizona Coyotes,Florida Panthers,betmgm,140,-165,1.5,-175,-1.5,145,6.0,-110,-110
+2024-01-02,NHL,e4c1d3624992dee05f31400e4320ad5b,2024-01-03T02:00:00Z,Colorado Avalanche,New York Islanders,caesars,-178,150,-1.5,143,1.5,-170,6.0,-125,105
+2024-01-02,NHL,e4c1d3624992dee05f31400e4320ad5b,2024-01-03T02:00:00Z,Colorado Avalanche,New York Islanders,betmgm,-175,145,-1.5,135,1.5,-160,6.5,100,-120
+2024-01-02,NHL,42ab1ecb1fc58165e344078dc2563528,2024-01-03T02:00:00Z,Edmonton Oilers,Philadelphia Flyers,caesars,-175,148,-1.5,140,1.5,-165,6.5,-115,-105
+2024-01-02,NHL,42ab1ecb1fc58165e344078dc2563528,2024-01-03T02:00:00Z,Edmonton Oilers,Philadelphia Flyers,betmgm,-175,145,-1.5,135,1.5,-160,6.5,-115,-105
+2024-01-02,NHL,c823c8210ff337cf47c512bfd2df4a11,2024-01-03T03:00:00Z,Vancouver Canucks,Ottawa Senators,caesars,-145,122,-1.5,158,1.5,-190,6.5,-130,110
+2024-01-02,NHL,c823c8210ff337cf47c512bfd2df4a11,2024-01-03T03:00:00Z,Vancouver Canucks,Ottawa Senators,betmgm,-145,120,-1.5,155,1.5,-190,6.5,-130,105
+2024-01-02,NHL,2aab7a64fd2e8aa16be19a0082b6ee6a,2024-01-03T03:30:00Z,San Jose Sharks,Detroit Red Wings,caesars,158,-190,1.5,-160,-1.5,135,6.5,-125,105
+2024-01-02,NHL,2aab7a64fd2e8aa16be19a0082b6ee6a,2024-01-03T03:30:00Z,San Jose Sharks,Detroit Red Wings,betmgm,150,-185,1.5,-160,-1.5,135,6.5,-130,105
+2024-01-02,NHL,c362da0f743a0acea6dcb2cd59b1c601,2024-01-03T03:30:00Z,Los Angeles Kings,Toronto Maple Leafs,caesars,-135,115,-1.5,180,1.5,-220,6.5,-120,100
+2024-01-02,NHL,c362da0f743a0acea6dcb2cd59b1c601,2024-01-03T03:30:00Z,Los Angeles Kings,Toronto Maple Leafs,betmgm,-130,110,-1.5,170,1.5,-210,6.5,-115,-105

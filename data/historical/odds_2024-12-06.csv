@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-12-06,NHL,81e076f82bf2c187e4a6875d1dcfb9e9,2024-12-07T00:00:00Z,New Jersey Devils,Seattle Kraken,caesars,-267,215,-1.5,-105,1.5,-115,6.0,-110,-110
+2024-12-06,NHL,81e076f82bf2c187e4a6875d1dcfb9e9,2024-12-07T00:00:00Z,New Jersey Devils,Seattle Kraken,betmgm,-275,220,-1.5,-105,1.5,-115,6.0,-110,-110
+2024-12-06,NHL,841ae88fe2318d66b7b5f177009d7f25,2024-12-07T00:00:00Z,Toronto Maple Leafs,Washington Capitals,caesars,-145,122,-1.5,162,1.5,-195,6.0,-120,100
+2024-12-06,NHL,841ae88fe2318d66b7b5f177009d7f25,2024-12-07T00:00:00Z,Toronto Maple Leafs,Washington Capitals,betmgm,-145,120,-1.5,170,1.5,-210,6.0,-120,100
+2024-12-06,NHL,efe5f64f2d3e50fcc9e17d60e89b0b03,2024-12-07T00:30:00Z,New York Rangers,Pittsburgh Penguins,caesars,-190,158,-1.5,130,1.5,-155,6.5,-120,100
+2024-12-06,NHL,efe5f64f2d3e50fcc9e17d60e89b0b03,2024-12-07T00:30:00Z,New York Rangers,Pittsburgh Penguins,betmgm,-185,150,-1.5,130,1.5,-155,6.5,-120,100
+2024-12-06,NHL,6ca3e9c372885283f3223b45f80afcb9,2024-12-07T03:00:00Z,Anaheim Ducks,Minnesota Wild,caesars,170,-205,1.5,-140,-1.5,118,5.5,-125,105
+2024-12-06,NHL,6ca3e9c372885283f3223b45f80afcb9,2024-12-07T03:00:00Z,Anaheim Ducks,Minnesota Wild,betmgm,165,-200,1.5,-150,-1.5,125,6.0,100,-120
+2024-12-06,NHL,f70e8da5ddcc6692634252c44b727608,2024-12-07T03:00:00Z,Vancouver Canucks,Columbus Blue Jackets,caesars,-235,192,-1.5,110,1.5,-130,6.0,-120,100
+2024-12-06,NHL,f70e8da5ddcc6692634252c44b727608,2024-12-07T03:00:00Z,Vancouver Canucks,Columbus Blue Jackets,betmgm,-225,180,-1.5,105,1.5,-125,6.0,-120,100
+2024-12-06,NHL,fe482cdbabfec82468360b49d3a8e925,2024-12-07T03:00:00Z,Vegas Golden Knights,Dallas Stars,caesars,100,-120,1.5,-250,-1.5,205,6.0,-125,105
+2024-12-06,NHL,fe482cdbabfec82468360b49d3a8e925,2024-12-07T03:00:00Z,Vegas Golden Knights,Dallas Stars,betmgm,100,-120,1.5,-250,-1.5,200,6.5,100,-120

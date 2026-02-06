@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-12-30,NHL,8295b240b0f6ff2fb05e2d538b8d6653,2024-12-31T00:00:00Z,Florida Panthers,New York Rangers,betmgm,-210,170,-1.5,120,1.5,-145,6.0,-110,-110
+2024-12-30,NHL,d17c6ce4147ba6fa457097fb74596e72,2024-12-31T00:30:00Z,Winnipeg Jets,Nashville Predators,betmgm,-120,100,-1.5,200,1.5,-250,6.0,-105,-115
+2024-12-30,NHL,d172475cd20920b7adfc712a44429759,2024-12-31T01:00:00Z,Seattle Kraken,Utah Hockey Club,betmgm,120,-140,1.5,-225,-1.5,180,6.0,-115,-105
+2024-12-30,NHL,5d98242aa5b528a77fe3e216d82bfdcc,2024-12-31T22:00:00Z,Chicago Blackhawks,St Louis Blues,betmgm,115,-135,1.5,-225,-1.5,185,5.5,-110,-110

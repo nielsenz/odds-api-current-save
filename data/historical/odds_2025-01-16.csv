@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-16,NHL,874b121edc96c29d7f3351abbd8b89d8,2025-01-17T00:00:00Z,Tampa Bay Lightning,Anaheim Ducks,caesars,-335,260,-1.5,-115,1.5,-105,6.0,-125,105
+2025-01-16,NHL,874b121edc96c29d7f3351abbd8b89d8,2025-01-17T00:00:00Z,Tampa Bay Lightning,Anaheim Ducks,betmgm,-300,240,-1.5,-120,1.5,100,6.5,100,-120
+2025-01-16,NHL,5432cf9b42b41bbee107a5245e24f159,2025-01-17T00:00:00Z,Columbus Blue Jackets,San Jose Sharks,caesars,-178,150,-1.5,143,1.5,-170,6.0,-115,-105
+2025-01-16,NHL,5432cf9b42b41bbee107a5245e24f159,2025-01-17T00:00:00Z,Columbus Blue Jackets,San Jose Sharks,betmgm,-175,145,-1.5,140,1.5,-165,6.0,-115,-105
+2025-01-16,NHL,fedfa2b85db342576050e02a1ae0e116,2025-01-17T00:00:00Z,Florida Panthers,Detroit Red Wings,caesars,-240,196,-1.5,110,1.5,-130,5.5,-110,-110
+2025-01-16,NHL,fedfa2b85db342576050e02a1ae0e116,2025-01-17T00:00:00Z,Florida Panthers,Detroit Red Wings,betmgm,-250,200,-1.5,105,1.5,-125,5.5,-110,-110
+2025-01-16,NHL,8abca4300fad0a05a8e632cea3438038,2025-01-17T00:00:00Z,Toronto Maple Leafs,New Jersey Devils,caesars,110,-130,1.5,-240,-1.5,196,5.5,-115,-105
+2025-01-16,NHL,8abca4300fad0a05a8e632cea3438038,2025-01-17T00:00:00Z,Toronto Maple Leafs,New Jersey Devils,betmgm,110,-130,1.5,-250,-1.5,200,5.5,-115,-105
+2025-01-16,NHL,591896580785b51ce6bc47ead3adf3df,2025-01-17T00:00:00Z,Ottawa Senators,Washington Capitals,caesars,-115,-105,-1.5,222,1.5,-278,5.5,-110,-110
+2025-01-16,NHL,591896580785b51ce6bc47ead3adf3df,2025-01-17T00:00:00Z,Ottawa Senators,Washington Capitals,betmgm,-110,-110,-1.5,220,1.5,-275,5.5,-110,-110
+2025-01-16,NHL,0ab1e4913d761cc5b7cd6fd28307ac12,2025-01-17T00:30:00Z,New York Islanders,Philadelphia Flyers,caesars,-140,118,-1.5,180,1.5,-220,5.5,-115,-105
+2025-01-16,NHL,0ab1e4913d761cc5b7cd6fd28307ac12,2025-01-17T00:30:00Z,New York Islanders,Philadelphia Flyers,betmgm,-135,115,-1.5,180,1.5,-225,5.5,-115,-105
+2025-01-16,NHL,b08e8ec69fee51401f02535b558fb175,2025-01-17T01:00:00Z,St Louis Blues,Calgary Flames,caesars,-135,115,-1.5,185,1.5,-225,5.5,-110,-110
+2025-01-16,NHL,b08e8ec69fee51401f02535b558fb175,2025-01-17T01:00:00Z,St Louis Blues,Calgary Flames,betmgm,-135,115,-1.5,185,1.5,-225,5.5,-110,-110
+2025-01-16,NHL,89a6126048760923084e95fca71eabeb,2025-01-17T01:00:00Z,Nashville Predators,Chicago Blackhawks,caesars,-260,210,-1.5,100,1.5,-120,6.0,-110,-110
+2025-01-16,NHL,89a6126048760923084e95fca71eabeb,2025-01-17T01:00:00Z,Nashville Predators,Chicago Blackhawks,betmgm,-275,220,-1.5,100,1.5,-120,6.0,-110,-110
+2025-01-16,NHL,1b8e3e3a67da5245cdd7985f94ed772f,2025-01-17T01:00:00Z,Dallas Stars,Montréal Canadiens,caesars,-240,196,-1.5,110,1.5,-130,6.0,-110,-110
+2025-01-16,NHL,1b8e3e3a67da5245cdd7985f94ed772f,2025-01-17T01:00:00Z,Dallas Stars,Montréal Canadiens,betmgm,-250,200,-1.5,110,1.5,-130,6.0,-110,-110
+2025-01-16,NHL,66a8b45350f44ab4cd568dd3b56eeab4,2025-01-17T01:00:00Z,Winnipeg Jets,Seattle Kraken,caesars,-225,185,-1.5,118,1.5,-140,5.5,100,-120
+2025-01-16,NHL,66a8b45350f44ab4cd568dd3b56eeab4,2025-01-17T01:00:00Z,Winnipeg Jets,Seattle Kraken,betmgm,-225,185,-1.5,120,1.5,-140,5.5,100,-120
+2025-01-16,NHL,381a6dabf618ffcc5417f7ccefba2958,2025-01-17T02:00:00Z,Utah Hockey Club,New York Rangers,caesars,-105,-115,1.5,-260,-1.5,210,6.0,-105,-115
+2025-01-16,NHL,381a6dabf618ffcc5417f7ccefba2958,2025-01-17T02:00:00Z,Utah Hockey Club,New York Rangers,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-105,-115
+2025-01-16,NHL,5e1121f3376c47c6afc0b4afb8fbb71e,2025-01-17T02:30:00Z,Colorado Avalanche,Edmonton Oilers,caesars,-125,105,-1.5,205,1.5,-250,6.5,-105,-115
+2025-01-16,NHL,5e1121f3376c47c6afc0b4afb8fbb71e,2025-01-17T02:30:00Z,Colorado Avalanche,Edmonton Oilers,betmgm,-120,100,-1.5,200,1.5,-250,6.5,-105,-115
+2025-01-16,NHL,5545a1e17e7325beea46099d1a13705a,2025-01-17T03:00:00Z,Vancouver Canucks,Los Angeles Kings,caesars,100,-120,1.5,-267,-1.5,215,5.5,115,-135
+2025-01-16,NHL,5545a1e17e7325beea46099d1a13705a,2025-01-17T03:00:00Z,Vancouver Canucks,Los Angeles Kings,betmgm,100,-120,1.5,-275,-1.5,220,5.5,115,-135

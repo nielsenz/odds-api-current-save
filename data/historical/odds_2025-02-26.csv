@@ -1,0 +1,8 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-02-26,NHL,0aa2ec1c0f5e5f73dd4d5de69a9c5cda,2025-02-27T00:00:00Z,Ottawa Senators,Winnipeg Jets,caesars,118,-140,1.5,-235,-1.5,192,5.5,105,-125
+2025-02-26,NHL,0aa2ec1c0f5e5f73dd4d5de69a9c5cda,2025-02-27T00:00:00Z,Ottawa Senators,Winnipeg Jets,betmgm,120,-140,1.5,-220,-1.5,180,5.5,100,-120
+2025-02-26,NHL,c56564be1baf962a95ff5dfadd767a83,2025-02-27T02:30:00Z,Colorado Avalanche,New Jersey Devils,caesars,-160,135,-1.5,162,1.5,-195,5.5,-120,100
+2025-02-26,NHL,c56564be1baf962a95ff5dfadd767a83,2025-02-27T02:30:00Z,Colorado Avalanche,New Jersey Devils,betmgm,-155,130,-1.5,165,1.5,-200,5.5,-120,100
+2025-02-26,NHL,8559e341dfb69d90a8764337755446a7,2025-02-27T03:00:00Z,Los Angeles Kings,Vancouver Canucks,caesars,-180,152,-1.5,140,1.5,-165,5.5,118,-140
+2025-02-26,NHL,8559e341dfb69d90a8764337755446a7,2025-02-27T03:00:00Z,Los Angeles Kings,Vancouver Canucks,betmgm,-180,150,-1.5,145,1.5,-175,5.5,120,-140
+2025-02-26,NHL,24259d94ce86fabcc2469501e99fe896,2025-03-01T20:00:00Z,Columbus Blue Jackets,Detroit Red Wings,caesars,100,-120,1.5,-235,-1.5,192,6.0,-105,-115

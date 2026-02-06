@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-10-14,NHL,cbdf1bbb7a5257e1c0beabc197c95e2f,2024-10-14T17:00:00Z,Boston Bruins,Florida Panthers,betmgm,-130,110,-1.5,180,1.5,-225,5.5,-115,-105
+2024-10-14,NHL,cbdf1bbb7a5257e1c0beabc197c95e2f,2024-10-14T17:00:00Z,Boston Bruins,Florida Panthers,caesars,-130,110,-1.5,196,1.5,-240,5.5,-115,-105
+2024-10-14,NHL,45055ba50c8b56223d7b3699568ffd74,2024-10-14T17:00:00Z,Ottawa Senators,Los Angeles Kings,caesars,-115,-105,-1.5,210,1.5,-260,6.0,-110,-110
+2024-10-14,NHL,45055ba50c8b56223d7b3699568ffd74,2024-10-14T17:00:00Z,Ottawa Senators,Los Angeles Kings,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-110,-110
+2024-10-14,NHL,56d221c9fd04bb9ee50b8c7c5b9f0efa,2024-10-14T17:00:00Z,New Jersey Devils,Utah Hockey Club,caesars,-155,130,-1.5,158,1.5,-190,6.5,-115,-105
+2024-10-14,NHL,56d221c9fd04bb9ee50b8c7c5b9f0efa,2024-10-14T17:00:00Z,New Jersey Devils,Utah Hockey Club,betmgm,-155,130,-1.5,150,1.5,-185,6.5,-115,-105
+2024-10-14,NHL,8afe89096f1b29f12dccae46be8c783a,2024-10-14T23:00:00Z,New York Rangers,Detroit Red Wings,caesars,-225,185,-1.5,115,1.5,-135,6.5,100,-120
+2024-10-14,NHL,8afe89096f1b29f12dccae46be8c783a,2024-10-14T23:00:00Z,New York Rangers,Detroit Red Wings,betmgm,-200,165,-1.5,120,1.5,-145,6.5,100,-120
+2024-10-14,NHL,4c8d6b234faa7ee2fb4f230bb29c0357,2024-10-14T23:30:00Z,Montréal Canadiens,Pittsburgh Penguins,caesars,118,-140,1.5,-220,-1.5,180,6.0,-120,100
+2024-10-14,NHL,4c8d6b234faa7ee2fb4f230bb29c0357,2024-10-14T23:30:00Z,Montréal Canadiens,Pittsburgh Penguins,betmgm,120,-140,1.5,-200,-1.5,165,6.0,-120,100
+2024-10-14,NHL,d9b36762d6c466391b623bcb0a16cc41,2024-10-15T01:00:00Z,Colorado Avalanche,New York Islanders,caesars,-160,135,-1.5,150,1.5,-178,6.5,-105,-115
+2024-10-14,NHL,d9b36762d6c466391b623bcb0a16cc41,2024-10-15T01:00:00Z,Colorado Avalanche,New York Islanders,betmgm,-165,140,-1.5,140,1.5,-165,6.5,-105,-115

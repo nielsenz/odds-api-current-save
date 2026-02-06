@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-02-24,NHL,481b686aecf7189a4429e3032248d3f3,2025-02-25T00:30:00Z,Winnipeg Jets,San Jose Sharks,caesars,-480,360,-1.5,-178,1.5,150,6.0,100,-120
+2025-02-24,NHL,481b686aecf7189a4429e3032248d3f3,2025-02-25T00:30:00Z,Winnipeg Jets,San Jose Sharks,betmgm,-475,350,-2.5,105,2.5,-125,6.0,-102,-118
+2025-02-24,NHL,3bc95ce4ed76b11e80c0587f7aa24be4,2025-02-25T03:30:00Z,Los Angeles Kings,Vegas Golden Knights,caesars,-105,-115,1.5,-285,-1.5,228,5.5,-110,-110
+2025-02-24,NHL,3bc95ce4ed76b11e80c0587f7aa24be4,2025-02-25T03:30:00Z,Los Angeles Kings,Vegas Golden Knights,betmgm,100,-120,1.5,-250,-1.5,200,5.5,-110,-110

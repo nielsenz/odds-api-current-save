@@ -1,0 +1,19 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-04-17,NHL,4fb337641c06260bc8a311774dc2ee50,2025-04-17T23:00:00Z,Buffalo Sabres,Philadelphia Flyers,betmgm,-150,125,-1.5,165,1.5,-200,6.5,100,-120
+2025-04-17,NHL,4fb337641c06260bc8a311774dc2ee50,2025-04-17T23:00:00Z,Buffalo Sabres,Philadelphia Flyers,caesars,-155,130,-1.5,158,1.5,-190,6.5,100,-120
+2025-04-17,NHL,afe2d85c363aa7de6a00d44e69edb7c7,2025-04-17T23:00:00Z,Ottawa Senators,Carolina Hurricanes,betmgm,-130,110,-1.5,180,1.5,-220,5.5,-120,100
+2025-04-17,NHL,afe2d85c363aa7de6a00d44e69edb7c7,2025-04-17T23:00:00Z,Ottawa Senators,Carolina Hurricanes,caesars,-130,110,-1.5,196,1.5,-240,5.5,-120,100
+2025-04-17,NHL,bc95b3d0c16c46c0ad909a13cfc3dfad,2025-04-17T23:00:00Z,Columbus Blue Jackets,New York Islanders,betmgm,-155,130,-1.5,150,1.5,-185,6.5,-105,-115
+2025-04-17,NHL,bc95b3d0c16c46c0ad909a13cfc3dfad,2025-04-17T23:00:00Z,Columbus Blue Jackets,New York Islanders,caesars,-160,135,-1.5,158,1.5,-190,6.5,-105,-115
+2025-04-17,NHL,0ef6359520503b6fe645737236cf0ced,2025-04-17T23:00:00Z,Toronto Maple Leafs,Detroit Red Wings,betmgm,-160,135,-1.5,150,1.5,-185,6.0,100,-120
+2025-04-17,NHL,0ef6359520503b6fe645737236cf0ced,2025-04-17T23:00:00Z,Toronto Maple Leafs,Detroit Red Wings,caesars,-165,140,-1.5,158,1.5,-190,6.0,-105,-115
+2025-04-17,NHL,372d59e82c2ce9fb9e5176981becd804,2025-04-17T23:00:00Z,New York Rangers,Tampa Bay Lightning,betmgm,-110,-110,-1.5,200,1.5,-250,6.5,-110,-110
+2025-04-17,NHL,372d59e82c2ce9fb9e5176981becd804,2025-04-17T23:00:00Z,New York Rangers,Tampa Bay Lightning,caesars,-110,-110,-1.5,210,1.5,-260,6.5,-115,-105
+2025-04-17,NHL,6093a60fd429e1ef3307ec50897fb8a3,2025-04-17T23:00:00Z,Pittsburgh Penguins,Washington Capitals,betmgm,-102,-118,1.5,-235,-1.5,195,6.0,-115,-105
+2025-04-17,NHL,6093a60fd429e1ef3307ec50897fb8a3,2025-04-17T23:00:00Z,Pittsburgh Penguins,Washington Capitals,caesars,-110,-110,-1.5,215,1.5,-267,6.0,-120,100
+2025-04-17,NHL,8579c803aac3c94767e2d7eec62b614b,2025-04-18T01:30:00Z,Los Angeles Kings,Calgary Flames,betmgm,-160,135,-1.5,155,1.5,-190,5.5,-118,-102
+2025-04-17,NHL,8579c803aac3c94767e2d7eec62b614b,2025-04-18T01:30:00Z,Los Angeles Kings,Calgary Flames,caesars,-160,135,-1.5,162,1.5,-195,5.5,-115,-105
+2025-04-17,NHL,2687324e6fff98923dc6ae359e7ccd75,2025-04-19T22:10:00Z,Winnipeg Jets,St Louis Blues,caesars,-178,150,-1.5,158,1.5,-190,5.5,130,-155
+2025-04-17,NHL,2687324e6fff98923dc6ae359e7ccd75,2025-04-19T22:10:00Z,Winnipeg Jets,St Louis Blues,betmgm,-180,150,-1.5,155,1.5,-185,5.0,-140,118
+2025-04-17,NHL,309221c1c1899aef25b2738c7a6a7546,2025-04-20T00:40:00Z,Dallas Stars,Colorado Avalanche,caesars,105,-125,1.5,-260,-1.5,210,5.5,-120,100
+2025-04-17,NHL,309221c1c1899aef25b2738c7a6a7546,2025-04-20T00:40:00Z,Dallas Stars,Colorado Avalanche,betmgm,105,-125,1.5,-250,-1.5,200,5.5,-120,100

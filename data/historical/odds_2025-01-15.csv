@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-15,NHL,ddf2f7e5e77a0e385cad0cbe970a9fea,2025-01-15T23:00:00Z,Buffalo Sabres,Carolina Hurricanes,caesars,158,-190,1.5,-155,-1.5,130,6.0,100,-120
+2025-01-15,NHL,ddf2f7e5e77a0e385cad0cbe970a9fea,2025-01-15T23:00:00Z,Buffalo Sabres,Carolina Hurricanes,betmgm,155,-190,1.5,-160,-1.5,135,6.0,100,-120
+2025-01-15,NHL,cf2c75904e9a02a343cd1ab44f241525,2025-01-16T01:30:00Z,Minnesota Wild,Edmonton Oilers,caesars,185,-225,1.5,-135,-1.5,115,6.0,-105,-115
+2025-01-15,NHL,cf2c75904e9a02a343cd1ab44f241525,2025-01-16T01:30:00Z,Minnesota Wild,Edmonton Oilers,betmgm,185,-225,1.5,-135,-1.5,115,6.0,-105,-115

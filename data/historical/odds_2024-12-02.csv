@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-12-02,NHL,23d2c45977bfe96f81f7696164173aca,2024-12-03T00:00:00Z,New York Rangers,New Jersey Devils,betmgm,110,-130,1.5,-250,-1.5,200,6.5,-110,-110
+2024-12-02,NHL,23d2c45977bfe96f81f7696164173aca,2024-12-03T00:00:00Z,New York Rangers,New Jersey Devils,caesars,110,-130,1.5,-235,-1.5,192,6.5,-110,-110
+2024-12-02,NHL,ac3b53d344969339c55cdfe1fac3ffd3,2024-12-03T00:30:00Z,Toronto Maple Leafs,Chicago Blackhawks,caesars,-430,328,-1.5,-160,1.5,135,6.0,-105,-115
+2024-12-02,NHL,ac3b53d344969339c55cdfe1fac3ffd3,2024-12-03T00:30:00Z,Toronto Maple Leafs,Chicago Blackhawks,betmgm,-400,310,-2.5,125,2.5,-150,6.0,-105,-115
+2024-12-02,NHL,dfcec4e256137573270af7e9d9df9039,2024-12-03T02:00:00Z,Utah Hockey Club,Dallas Stars,betmgm,115,-135,1.5,-225,-1.5,185,6.5,-105,-115
+2024-12-02,NHL,dfcec4e256137573270af7e9d9df9039,2024-12-03T02:00:00Z,Utah Hockey Club,Dallas Stars,caesars,115,-135,1.5,-220,-1.5,180,6.5,-105,-115

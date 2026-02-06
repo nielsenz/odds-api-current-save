@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-05-02,NHL,930f8188d2ad3ab66366b44c032f3cd9,2024-05-03T00:10:00Z,Toronto Maple Leafs,Boston Bruins,caesars,100,-120,1.5,-267,-1.5,215,5.5,-115,-105
+2024-05-02,NHL,930f8188d2ad3ab66366b44c032f3cd9,2024-05-03T00:10:00Z,Toronto Maple Leafs,Boston Bruins,betmgm,100,-120,1.5,-250,-1.5,200,5.5,-115,-105
+2024-05-02,NHL,e91be789ec7229f76f285f0fce198379,2024-05-03T23:10:00Z,Nashville Predators,Vancouver Canucks,caesars,-130,110,-1.5,205,1.5,-250,5.5,-105,-115
+2024-05-02,NHL,e91be789ec7229f76f285f0fce198379,2024-05-03T23:10:00Z,Nashville Predators,Vancouver Canucks,betmgm,-130,110,-1.5,190,1.5,-250,5.5,-105,-115
+2024-05-02,NHL,7d535576e4ae419127a2ae64768d99c7,2024-05-04T02:10:00Z,Vegas Golden Knights,Dallas Stars,betmgm,-105,-115,1.5,-275,-1.5,220,5.5,-120,100
+2024-05-02,NHL,7d535576e4ae419127a2ae64768d99c7,2024-05-04T02:10:00Z,Vegas Golden Knights,Dallas Stars,caesars,-105,-115,1.5,-267,-1.5,215,5.5,-120,100
+2024-05-02,NHL,2727d13076c4b42fa7f1da115ba2dbc7,2024-05-05T23:10:00Z,New York Rangers,Carolina Hurricanes,betmgm,-105,-115,1.5,-275,-1.5,220,5.5,-105,-115
+2024-05-02,NHL,2727d13076c4b42fa7f1da115ba2dbc7,2024-05-05T23:10:00Z,New York Rangers,Carolina Hurricanes,caesars,100,-120,1.5,-267,-1.5,215,5.5,-105,-115

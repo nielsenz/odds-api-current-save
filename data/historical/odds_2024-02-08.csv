@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-02-08,NHL,ae26947df42f296981a64806541cb7bb,2024-02-09T00:00:00Z,Boston Bruins,Vancouver Canucks,caesars,-130,110,-1.5,180,1.5,-220,6.0,-130,110
+2024-02-08,NHL,ae26947df42f296981a64806541cb7bb,2024-02-09T00:00:00Z,Boston Bruins,Vancouver Canucks,betmgm,-135,110,-1.5,170,1.5,-210,6.0,-120,100
+2024-02-08,NHL,64034ab673a2c1ed1477a949484727b0,2024-02-09T00:00:00Z,New Jersey Devils,Calgary Flames,caesars,-140,118,-1.5,170,1.5,-205,6.5,-115,-105
+2024-02-08,NHL,64034ab673a2c1ed1477a949484727b0,2024-02-09T00:00:00Z,New Jersey Devils,Calgary Flames,betmgm,-145,120,-1.5,165,1.5,-200,6.5,-115,-105
+2024-02-08,NHL,083c9ed51af7ffce9712bc3d83e120cb,2024-02-09T00:00:00Z,Carolina Hurricanes,Colorado Avalanche,caesars,-135,115,-1.5,180,1.5,-220,6.5,105,-125
+2024-02-08,NHL,083c9ed51af7ffce9712bc3d83e120cb,2024-02-09T00:00:00Z,Carolina Hurricanes,Colorado Avalanche,betmgm,-135,110,-1.5,170,1.5,-210,6.5,100,-120
+2024-02-08,NHL,ba2b4395fffd221da1da197f75f51e39,2024-02-09T00:00:00Z,Florida Panthers,Washington Capitals,caesars,-278,222,-1.5,-105,1.5,-115,6.0,-120,100
+2024-02-08,NHL,ba2b4395fffd221da1da197f75f51e39,2024-02-09T00:00:00Z,Florida Panthers,Washington Capitals,betmgm,-275,220,-1.5,-110,1.5,-110,6.0,-120,100
+2024-02-08,NHL,b5c98e4e0a55be70b57b892576cb476e,2024-02-09T00:00:00Z,Philadelphia Flyers,Winnipeg Jets,caesars,118,-140,1.5,-220,-1.5,180,5.5,-110,-110
+2024-02-08,NHL,b5c98e4e0a55be70b57b892576cb476e,2024-02-09T00:00:00Z,Philadelphia Flyers,Winnipeg Jets,betmgm,115,-140,1.5,-225,-1.5,180,5.5,-110,-110
+2024-02-08,NHL,fcdaec3b1fb4de2ae8122fdd34c0add9,2024-02-09T01:00:00Z,New York Islanders,Tampa Bay Lightning,caesars,-140,118,-1.5,170,1.5,-205,6.5,-110,-110
+2024-02-08,NHL,fcdaec3b1fb4de2ae8122fdd34c0add9,2024-02-09T01:00:00Z,New York Islanders,Tampa Bay Lightning,betmgm,-145,120,-1.5,165,1.5,-200,6.5,-110,-110
+2024-02-08,NHL,6c6b3fc7efb661181bbbcd9f670d72fe,2024-02-09T02:00:00Z,Arizona Coyotes,Vegas Golden Knights,caesars,118,-140,1.5,-210,-1.5,175,5.5,-115,-105
+2024-02-08,NHL,6c6b3fc7efb661181bbbcd9f670d72fe,2024-02-09T02:00:00Z,Arizona Coyotes,Vegas Golden Knights,betmgm,115,-140,1.5,-210,-1.5,170,5.5,-115,-105

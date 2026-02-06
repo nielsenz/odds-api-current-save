@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-03,NHL,c82f22cb23af81e77b1e5c3e48852656,2025-03-03T23:30:00Z,Washington Capitals,Ottawa Senators,betmgm,-145,120,-1.5,165,1.5,-200,5.5,-120,100
+2025-03-03,NHL,c82f22cb23af81e77b1e5c3e48852656,2025-03-03T23:30:00Z,Washington Capitals,Ottawa Senators,caesars,-145,122,-1.5,175,1.5,-210,5.5,-120,100
+2025-03-03,NHL,f58f948e9704be1dfee923ac6fb6a1d7,2025-03-04T00:00:00Z,Montréal Canadiens,Buffalo Sabres,betmgm,-110,-110,-1.5,200,1.5,-250,6.5,100,-120
+2025-03-03,NHL,f58f948e9704be1dfee923ac6fb6a1d7,2025-03-04T00:00:00Z,Montréal Canadiens,Buffalo Sabres,caesars,-110,-110,-1.5,215,1.5,-267,6.5,100,-120
+2025-03-03,NHL,06e9549407b0ac1b3d7f2bf44b9515bd,2025-03-04T00:00:00Z,Florida Panthers,Tampa Bay Lightning,betmgm,-160,135,-1.5,155,1.5,-190,5.5,-120,100
+2025-03-03,NHL,06e9549407b0ac1b3d7f2bf44b9515bd,2025-03-04T00:00:00Z,Florida Panthers,Tampa Bay Lightning,caesars,-160,135,-1.5,170,1.5,-205,5.5,-120,100
+2025-03-03,NHL,09077b1ef72829d37950445383e81803,2025-03-04T00:00:00Z,New York Rangers,New York Islanders,betmgm,-120,100,-1.5,195,1.5,-235,6.0,100,-120
+2025-03-03,NHL,09077b1ef72829d37950445383e81803,2025-03-04T00:00:00Z,New York Rangers,New York Islanders,caesars,-115,-105,-1.5,215,1.5,-267,6.0,100,-120
+2025-03-03,NHL,a18ccf810509cdc9bba2a58bf6df99a4,2025-03-04T00:30:00Z,Toronto Maple Leafs,San Jose Sharks,betmgm,-375,290,-1.5,-140,1.5,115,6.0,-120,100
+2025-03-03,NHL,a18ccf810509cdc9bba2a58bf6df99a4,2025-03-04T00:30:00Z,Toronto Maple Leafs,San Jose Sharks,caesars,-355,278,-1.5,-130,1.5,110,6.0,-120,100
+2025-03-03,NHL,526d6be08ef61cd2f66e5dcd063a0c96,2025-03-04T01:30:00Z,Chicago Blackhawks,Los Angeles Kings,caesars,205,-250,1.5,-130,-1.5,110,5.5,-120,100
+2025-03-03,NHL,526d6be08ef61cd2f66e5dcd063a0c96,2025-03-04T01:30:00Z,Chicago Blackhawks,Los Angeles Kings,betmgm,200,-250,1.5,-125,-1.5,105,5.5,-120,100

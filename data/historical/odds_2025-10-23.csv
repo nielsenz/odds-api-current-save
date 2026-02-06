@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-10-23,NHL,20d3b380e4e4f6676322734c522860d8,2025-10-23T22:55:00Z,Tampa Bay Lightning,Chicago Blackhawks,caesars,-335,260,-1.5,-125,1.5,105,6.0,-115,-105
+2025-10-23,NHL,20d3b380e4e4f6676322734c522860d8,2025-10-23T22:55:00Z,Tampa Bay Lightning,Chicago Blackhawks,betmgm,-300,240,-1.5,-125,1.5,105,6.0,-115,-105
+2025-10-23,NHL,932b60ef150e5352f2ba9f3face5237a,2025-10-23T23:10:00Z,Boston Bruins,Anaheim Ducks,caesars,-115,-105,-1.5,210,1.5,-260,6.5,-110,-110
+2025-10-23,NHL,932b60ef150e5352f2ba9f3face5237a,2025-10-23T23:10:00Z,Boston Bruins,Anaheim Ducks,betmgm,-115,-105,-1.5,200,1.5,-250,6.5,-105,-115
+2025-10-23,NHL,0431b93c9dcfa7d70e59152c1c012b50,2025-10-23T23:10:00Z,New York Islanders,Detroit Red Wings,caesars,-135,115,-1.5,180,1.5,-220,6.0,-115,-105
+2025-10-23,NHL,0431b93c9dcfa7d70e59152c1c012b50,2025-10-23T23:10:00Z,New York Islanders,Detroit Red Wings,betmgm,-140,115,-1.5,170,1.5,-210,6.0,-115,-105
+2025-10-23,NHL,eca8bee3b4f31a8b022209bdb7100c87,2025-10-23T23:10:00Z,Florida Panthers,Pittsburgh Penguins,caesars,-195,162,-1.5,130,1.5,-155,6.0,-110,-110
+2025-10-23,NHL,eca8bee3b4f31a8b022209bdb7100c87,2025-10-23T23:10:00Z,Florida Panthers,Pittsburgh Penguins,betmgm,-200,165,-1.5,118,1.5,-145,6.0,-110,-110
+2025-10-23,NHL,2a7d9d89888b43c204f36c59cb23d3ce,2025-10-23T23:10:00Z,New York Rangers,San Jose Sharks,caesars,-267,215,-1.5,-110,1.5,-110,6.0,-115,-105
+2025-10-23,NHL,2a7d9d89888b43c204f36c59cb23d3ce,2025-10-23T23:10:00Z,New York Rangers,San Jose Sharks,betmgm,-275,225,-1.5,-115,1.5,-105,6.0,-120,100
+2025-10-23,NHL,a5ed925de85957193da30d32c930b087,2025-10-23T23:10:00Z,Ottawa Senators,Philadelphia Flyers,caesars,-160,135,-1.5,158,1.5,-190,5.5,-130,110
+2025-10-23,NHL,a5ed925de85957193da30d32c930b087,2025-10-23T23:10:00Z,Ottawa Senators,Philadelphia Flyers,betmgm,-160,135,-1.5,145,1.5,-175,6.0,-110,-110
+2025-10-23,NHL,770232a38d5b13389bda9e01fe4c13d8,2025-10-24T00:10:00Z,Nashville Predators,Vancouver Canucks,caesars,-115,-105,-1.5,215,1.5,-267,6.0,100,-120
+2025-10-23,NHL,770232a38d5b13389bda9e01fe4c13d8,2025-10-24T00:10:00Z,Nashville Predators,Vancouver Canucks,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-105,-115
+2025-10-23,NHL,cc067617794fc76192e455801e82a608,2025-10-24T00:10:00Z,Winnipeg Jets,Seattle Kraken,caesars,-235,192,-1.5,115,1.5,-135,5.5,-120,100
+2025-10-23,NHL,cc067617794fc76192e455801e82a608,2025-10-24T00:10:00Z,Winnipeg Jets,Seattle Kraken,betmgm,-225,185,-1.5,105,1.5,-130,5.5,-115,-105
+2025-10-23,NHL,16309a54e490e0a665b0a51384ecab3f,2025-10-24T00:10:00Z,St Louis Blues,Utah Mammoth,caesars,-120,100,-1.5,210,1.5,-260,5.5,-120,100
+2025-10-23,NHL,16309a54e490e0a665b0a51384ecab3f,2025-10-24T00:10:00Z,St Louis Blues,Utah Mammoth,betmgm,-120,100,-1.5,195,1.5,-235,6.0,100,-120
+2025-10-23,NHL,4aac5b9ad152c1637f8edbb4ebfc8509,2025-10-24T01:10:00Z,Colorado Avalanche,Carolina Hurricanes,caesars,-135,115,-1.5,185,1.5,-225,6.0,-110,-110
+2025-10-23,NHL,4aac5b9ad152c1637f8edbb4ebfc8509,2025-10-24T01:10:00Z,Colorado Avalanche,Carolina Hurricanes,betmgm,-135,110,-1.5,180,1.5,-220,6.0,-110,-110
+2025-10-23,NHL,d112210944eb7e6232d81cb5936fb5e6,2025-10-24T01:10:00Z,Dallas Stars,Los Angeles Kings,caesars,-145,122,-1.5,170,1.5,-205,5.5,-125,105
+2025-10-23,NHL,d112210944eb7e6232d81cb5936fb5e6,2025-10-24T01:10:00Z,Dallas Stars,Los Angeles Kings,betmgm,-150,125,-1.5,155,1.5,-190,6.0,100,-120
+2025-10-23,NHL,c7f5d69401953d66bc49c6b795d58a9a,2025-10-24T01:10:00Z,Edmonton Oilers,Montréal Canadiens,betmgm,-225,185,-1.5,105,1.5,-130,6.0,-115,-105
+2025-10-23,NHL,c7f5d69401953d66bc49c6b795d58a9a,2025-10-24T01:10:00Z,Edmonton Oilers,Montréal Canadiens,caesars,-235,192,-1.5,110,1.5,-130,6.0,-115,-105
+2025-10-23,NHL,d5fa6ab9525569925fadcd1427dd371f,2025-10-24T23:00:00Z,Buffalo Sabres,Toronto Maple Leafs,caesars,105,-125,1.5,-220,-1.5,180,6.5,110,-130
+2025-10-23,NHL,7988a350f9bdbfc02bc977488e4b8fdd,2025-10-24T23:00:00Z,Columbus Blue Jackets,Washington Capitals,caesars,100,-120,1.5,-250,-1.5,205,6.5,105,-125

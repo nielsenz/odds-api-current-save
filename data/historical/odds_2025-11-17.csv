@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-17,NHL,6163923c75ccb4b63b81a9da88c5383f,2025-11-18T00:10:00Z,Boston Bruins,Carolina Hurricanes,caesars,158,-190,1.5,-160,-1.5,135,6.5,100,-120
+2025-11-17,NHL,6163923c75ccb4b63b81a9da88c5383f,2025-11-18T00:10:00Z,Boston Bruins,Carolina Hurricanes,betmgm,155,-190,1.5,-150,-1.5,125,6.5,100,-120
+2025-11-17,NHL,46786832318bce38de2004994026ce66,2025-11-18T00:10:00Z,Buffalo Sabres,Edmonton Oilers,caesars,135,-160,1.5,-190,-1.5,158,6.5,-125,105
+2025-11-17,NHL,46786832318bce38de2004994026ce66,2025-11-18T00:10:00Z,Buffalo Sabres,Edmonton Oilers,betmgm,135,-160,1.5,-175,-1.5,145,6.5,-120,100
+2025-11-17,NHL,a05fc26e6fd5d6f212d550234fb8bbf3,2025-11-18T00:10:00Z,Florida Panthers,Vancouver Canucks,betmgm,-275,220,-1.5,-110,1.5,-110,6.5,100,-120
+2025-11-17,NHL,a05fc26e6fd5d6f212d550234fb8bbf3,2025-11-18T00:10:00Z,Florida Panthers,Vancouver Canucks,caesars,-267,215,-1.5,-110,1.5,-110,6.0,-130,110
+2025-11-17,NHL,45d54dc6c11d254fd1b64ba6967ef453,2025-11-18T00:10:00Z,Washington Capitals,Los Angeles Kings,caesars,-125,105,-1.5,192,1.5,-235,5.5,-115,-105
+2025-11-17,NHL,45d54dc6c11d254fd1b64ba6967ef453,2025-11-18T00:10:00Z,Washington Capitals,Los Angeles Kings,betmgm,-125,105,-1.5,195,1.5,-235,5.5,-110,-110
+2025-11-17,NHL,72b652d1685844741164b7b4ef3ac292,2025-11-18T00:40:00Z,Columbus Blue Jackets,Montréal Canadiens,caesars,-125,105,-1.5,185,1.5,-225,6.5,-105,-115
+2025-11-17,NHL,72b652d1685844741164b7b4ef3ac292,2025-11-18T00:40:00Z,Columbus Blue Jackets,Montréal Canadiens,betmgm,-125,105,-1.5,185,1.5,-225,6.5,100,-120
+2025-11-17,NHL,2392382b14879de3de2792928377422b,2025-11-18T03:10:00Z,Anaheim Ducks,Utah Mammoth,caesars,-105,-115,1.5,-225,-1.5,185,6.5,-110,-110
+2025-11-17,NHL,2392382b14879de3de2792928377422b,2025-11-18T03:10:00Z,Anaheim Ducks,Utah Mammoth,betmgm,-105,-115,1.5,-250,-1.5,200,6.5,-110,-110

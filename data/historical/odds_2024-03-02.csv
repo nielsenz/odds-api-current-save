@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-02,NHL,5b94e21ca4aea2498db058958781de9a,2024-03-02T17:30:00Z,Carolina Hurricanes,Winnipeg Jets,betmgm,-150,125,-1.5,170,1.5,-210,5.5,-105,-115
+2024-03-02,NHL,5b94e21ca4aea2498db058958781de9a,2024-03-02T17:30:00Z,Carolina Hurricanes,Winnipeg Jets,caesars,-155,130,-1.5,180,1.5,-220,5.5,-105,-115
+2024-03-02,NHL,187dd0bfc8a84c1f6c9d5c80fe6d87e0,2024-03-02T20:00:00Z,Detroit Red Wings,Florida Panthers,betmgm,140,-165,1.5,-175,-1.5,145,6.5,-105,-115
+2024-03-02,NHL,187dd0bfc8a84c1f6c9d5c80fe6d87e0,2024-03-02T20:00:00Z,Detroit Red Wings,Florida Panthers,caesars,140,-165,1.5,-178,-1.5,150,6.5,-105,-115
+2024-03-02,NHL,fb641f4794a764398dac6994f3be57b0,2024-03-02T21:00:00Z,Seattle Kraken,Edmonton Oilers,betmgm,135,-160,1.5,-185,-1.5,150,6.5,-105,-115
+2024-03-02,NHL,fb641f4794a764398dac6994f3be57b0,2024-03-02T21:00:00Z,Seattle Kraken,Edmonton Oilers,caesars,135,-160,1.5,-190,-1.5,158,6.5,-105,-115
+2024-03-02,NHL,631898945aa38ff3a4db2ae99eeb2f4e,2024-03-02T23:00:00Z,Nashville Predators,Colorado Avalanche,betmgm,115,-135,1.5,-210,-1.5,170,6.5,-105,-115
+2024-03-02,NHL,631898945aa38ff3a4db2ae99eeb2f4e,2024-03-02T23:00:00Z,Nashville Predators,Colorado Avalanche,caesars,115,-135,1.5,-210,-1.5,175,6.5,-105,-115
+2024-03-02,NHL,525531f86050e666f4f37b1f0a60921c,2024-03-02T23:00:00Z,St Louis Blues,Minnesota Wild,betmgm,105,-125,1.5,-250,-1.5,190,6.0,-115,-105
+2024-03-02,NHL,525531f86050e666f4f37b1f0a60921c,2024-03-02T23:00:00Z,St Louis Blues,Minnesota Wild,caesars,105,-125,1.5,-235,-1.5,192,6.0,-115,-105
+2024-03-02,NHL,6d30d233dcf42f04e2e68b4da4a1f969,2024-03-03T00:00:00Z,Buffalo Sabres,Vegas Golden Knights,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-110,-110
+2024-03-02,NHL,6d30d233dcf42f04e2e68b4da4a1f969,2024-03-03T00:00:00Z,Buffalo Sabres,Vegas Golden Knights,caesars,-105,-115,1.5,-260,-1.5,210,6.0,-115,-105
+2024-03-02,NHL,6289f1ac7dca53797fad045eac22427c,2024-03-03T00:00:00Z,Tampa Bay Lightning,Montréal Canadiens,caesars,-267,215,-1.5,-110,1.5,-110,6.5,-115,-105
+2024-03-02,NHL,6289f1ac7dca53797fad045eac22427c,2024-03-03T00:00:00Z,Tampa Bay Lightning,Montréal Canadiens,betmgm,-275,220,-1.5,-105,1.5,-115,6.5,-115,-105
+2024-03-02,NHL,1a19e25ec46c92a19159805ef9a92a95,2024-03-03T00:00:00Z,Toronto Maple Leafs,New York Rangers,caesars,-130,110,-1.5,192,1.5,-235,6.5,100,-120
+2024-03-02,NHL,1a19e25ec46c92a19159805ef9a92a95,2024-03-03T00:00:00Z,Toronto Maple Leafs,New York Rangers,betmgm,-125,105,-1.5,195,1.5,-250,6.5,100,-120
+2024-03-02,NHL,f04a5a9c96842d08c3ba730afa44cf74,2024-03-03T00:00:00Z,Philadelphia Flyers,Ottawa Senators,betmgm,-130,110,-1.5,180,1.5,-225,6.5,-120,100
+2024-03-02,NHL,f04a5a9c96842d08c3ba730afa44cf74,2024-03-03T00:00:00Z,Philadelphia Flyers,Ottawa Senators,caesars,-130,110,-1.5,185,1.5,-225,6.5,-120,100
+2024-03-02,NHL,5b2022a85e0294fe8fecaabd6788c9fb,2024-03-03T00:30:00Z,New York Islanders,Boston Bruins,caesars,105,-125,1.5,-240,-1.5,196,5.5,-125,105
+2024-03-02,NHL,5b2022a85e0294fe8fecaabd6788c9fb,2024-03-03T00:30:00Z,New York Islanders,Boston Bruins,betmgm,105,-125,1.5,-250,-1.5,190,5.5,-120,100
+2024-03-02,NHL,2e6baeb0d48469aa4c76172ce3662841,2024-03-03T01:00:00Z,Chicago Blackhawks,Columbus Blue Jackets,caesars,115,-135,1.5,-220,-1.5,180,6.0,-120,100
+2024-03-02,NHL,2e6baeb0d48469aa4c76172ce3662841,2024-03-03T01:00:00Z,Chicago Blackhawks,Columbus Blue Jackets,betmgm,115,-135,1.5,-225,-1.5,180,6.0,-120,100
+2024-03-02,NHL,830b58122e982304cb23456d2160f034,2024-03-03T01:00:00Z,Dallas Stars,San Jose Sharks,caesars,-550,400,-1.5,-190,1.5,158,6.5,100,-120
+2024-03-02,NHL,830b58122e982304cb23456d2160f034,2024-03-03T01:00:00Z,Dallas Stars,San Jose Sharks,betmgm,-500,375,-2.5,100,2.5,-120,6.5,100,-120
+2024-03-02,NHL,b3e661ba6cad2325576474fe8c07ce83,2024-03-03T03:00:00Z,Calgary Flames,Pittsburgh Penguins,caesars,-125,105,-1.5,205,1.5,-250,6.0,-110,-110
+2024-03-02,NHL,b3e661ba6cad2325576474fe8c07ce83,2024-03-03T03:00:00Z,Calgary Flames,Pittsburgh Penguins,betmgm,-125,105,-1.5,195,1.5,-250,6.0,-110,-110

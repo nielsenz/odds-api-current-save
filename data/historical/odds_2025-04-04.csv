@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-04-04,NHL,88c9da229f43d539ef7df6351bac4914,2025-04-04T23:00:00Z,Detroit Red Wings,Carolina Hurricanes,betmgm,165,-200,1.5,-155,-1.5,130,6.0,100,-120
+2025-04-04,NHL,88c9da229f43d539ef7df6351bac4914,2025-04-04T23:00:00Z,Detroit Red Wings,Carolina Hurricanes,caesars,162,-195,1.5,-155,-1.5,130,6.0,100,-120
+2025-04-04,NHL,45b2abccd1c5eafc72847abc2288c4e3,2025-04-04T23:00:00Z,Washington Capitals,Chicago Blackhawks,betmgm,-400,310,-1.5,-150,1.5,125,6.5,-118,-102
+2025-04-04,NHL,45b2abccd1c5eafc72847abc2288c4e3,2025-04-04T23:00:00Z,Washington Capitals,Chicago Blackhawks,caesars,-385,300,-1.5,-140,1.5,118,6.5,-120,100
+2025-04-04,NHL,733ca09dd175b26f7c3e0d01b1d82a17,2025-04-04T23:30:00Z,New York Islanders,Minnesota Wild,betmgm,-125,105,-1.5,200,1.5,-250,5.5,-105,-115
+2025-04-04,NHL,733ca09dd175b26f7c3e0d01b1d82a17,2025-04-04T23:30:00Z,New York Islanders,Minnesota Wild,caesars,-125,105,-1.5,205,1.5,-250,5.5,-105,-115

@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-08,NHL,bf74012278f2195feb2ecbc8980ae9b3,2025-01-09T00:30:00Z,Chicago Blackhawks,Colorado Avalanche,caesars,205,-250,1.5,-125,-1.5,105,6.5,-110,-110
+2025-01-08,NHL,bf74012278f2195feb2ecbc8980ae9b3,2025-01-09T00:30:00Z,Chicago Blackhawks,Colorado Avalanche,betmgm,200,-250,1.5,-125,-1.5,105,6.5,-105,-115
+2025-01-08,NHL,d1631b0d75b0637d453a05d5dc9be98a,2025-01-09T00:30:00Z,Washington Capitals,Vancouver Canucks,caesars,-190,158,-1.5,130,1.5,-155,6.0,100,-120
+2025-01-08,NHL,d1631b0d75b0637d453a05d5dc9be98a,2025-01-09T00:30:00Z,Washington Capitals,Vancouver Canucks,betmgm,-190,155,-1.5,130,1.5,-155,6.0,100,-120
+2025-01-08,NHL,88c7bcb4c8453c33f23482a49fc6dbfe,2025-01-09T03:00:00Z,Utah Hockey Club,Florida Panthers,caesars,115,-135,1.5,-225,-1.5,185,6.0,-105,-115
+2025-01-08,NHL,88c7bcb4c8453c33f23482a49fc6dbfe,2025-01-09T03:00:00Z,Utah Hockey Club,Florida Panthers,betmgm,115,-135,1.5,-225,-1.5,180,6.0,-105,-115
+2025-01-08,NHL,7c0a03ea0b11ff0edfaa40ba9b84b18f,2025-01-09T03:30:00Z,Los Angeles Kings,Calgary Flames,caesars,-240,196,-1.5,110,1.5,-130,5.5,-115,-105
+2025-01-08,NHL,7c0a03ea0b11ff0edfaa40ba9b84b18f,2025-01-09T03:30:00Z,Los Angeles Kings,Calgary Flames,betmgm,-250,200,-1.5,110,1.5,-130,5.5,-115,-105

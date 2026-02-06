@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-09,NHL,7ee0b403bfe61e15d3896b7b262864ed,2024-03-09T17:30:00Z,Buffalo Sabres,Edmonton Oilers,betmgm,150,-185,1.5,-160,-1.5,135,6.5,100,-120
+2024-03-09,NHL,7ee0b403bfe61e15d3896b7b262864ed,2024-03-09T17:30:00Z,Buffalo Sabres,Edmonton Oilers,caesars,143,-170,1.5,-170,-1.5,143,6.5,100,-120
+2024-03-09,NHL,46615c70c8cb2809d1a550e989c26e47,2024-03-09T17:30:00Z,New Jersey Devils,Carolina Hurricanes,betmgm,125,-150,1.5,-200,-1.5,165,6.5,100,-120
+2024-03-09,NHL,46615c70c8cb2809d1a550e989c26e47,2024-03-09T17:30:00Z,New Jersey Devils,Carolina Hurricanes,caesars,135,-160,1.5,-195,-1.5,162,6.5,100,-120
+2024-03-09,NHL,1360f09be2aca0a75bca15c5d4e3b6db,2024-03-09T17:30:00Z,Columbus Blue Jackets,Nashville Predators,betmgm,145,-175,1.5,-165,-1.5,140,6.5,-120,100
+2024-03-09,NHL,1360f09be2aca0a75bca15c5d4e3b6db,2024-03-09T17:30:00Z,Columbus Blue Jackets,Nashville Predators,caesars,148,-175,1.5,-170,-1.5,143,6.5,-120,100
+2024-03-09,NHL,0f02cc0c14f099d3b9888d1788e1ccd5,2024-03-09T20:00:00Z,Boston Bruins,Pittsburgh Penguins,betmgm,-200,165,-1.5,140,1.5,-165,5.5,-135,100
+2024-03-09,NHL,0f02cc0c14f099d3b9888d1788e1ccd5,2024-03-09T20:00:00Z,Boston Bruins,Pittsburgh Penguins,caesars,-195,162,-1.5,135,1.5,-160,6.0,105,-125
+2024-03-09,NHL,7bcf6febd87b157dd779c195cad5258b,2024-03-09T21:00:00Z,Florida Panthers,Calgary Flames,betmgm,-225,180,-1.5,115,1.5,-140,6.0,-110,-110
+2024-03-09,NHL,7bcf6febd87b157dd779c195cad5258b,2024-03-09T21:00:00Z,Florida Panthers,Calgary Flames,caesars,-235,192,-1.5,115,1.5,-135,6.0,-120,100
+2024-03-09,NHL,cc1b6c8bb58ca58cc629ca52d9b1f04a,2024-03-10T00:00:00Z,Washington Capitals,Chicago Blackhawks,betmgm,-225,180,-1.5,110,1.5,-135,6.0,-105,-115
+2024-03-09,NHL,cc1b6c8bb58ca58cc629ca52d9b1f04a,2024-03-10T00:00:00Z,Washington Capitals,Chicago Blackhawks,caesars,-235,192,-1.5,105,1.5,-125,6.0,-105,-115
+2024-03-09,NHL,61f373f6b5db96b21ca1170932129f5c,2024-03-10T00:00:00Z,Montréal Canadiens,Toronto Maple Leafs,betmgm,165,-200,1.5,-150,-1.5,125,6.5,-115,-105
+2024-03-09,NHL,61f373f6b5db96b21ca1170932129f5c,2024-03-10T00:00:00Z,Montréal Canadiens,Toronto Maple Leafs,caesars,158,-190,1.5,-155,-1.5,130,6.5,-115,-105
+2024-03-09,NHL,6778284ca1d8867cf2edb973033cab90,2024-03-10T00:00:00Z,San Jose Sharks,Ottawa Senators,betmgm,180,-225,1.5,-135,-1.5,110,6.5,-125,105
+2024-03-09,NHL,6778284ca1d8867cf2edb973033cab90,2024-03-10T00:00:00Z,San Jose Sharks,Ottawa Senators,caesars,180,-220,1.5,-135,-1.5,115,6.5,-125,105
+2024-03-09,NHL,11ad19457f6b9c218f345f640f8bd5db,2024-03-10T00:00:00Z,Tampa Bay Lightning,Philadelphia Flyers,betmgm,-145,120,-1.5,155,1.5,-190,6.5,100,-120
+2024-03-09,NHL,11ad19457f6b9c218f345f640f8bd5db,2024-03-10T00:00:00Z,Tampa Bay Lightning,Philadelphia Flyers,caesars,-140,118,-1.5,170,1.5,-205,6.5,100,-120
+2024-03-09,NHL,51554699f8fd229746155af6b358b38f,2024-03-10T00:30:00Z,New York Rangers,St Louis Blues,betmgm,-225,180,-1.5,120,1.5,-145,5.5,-135,100
+2024-03-09,NHL,51554699f8fd229746155af6b358b38f,2024-03-10T00:30:00Z,New York Rangers,St Louis Blues,caesars,-235,192,-1.5,118,1.5,-140,6.0,105,-125
+2024-03-09,NHL,8a101dee4855f427c66e1c88dfacc8f1,2024-03-10T03:00:00Z,Vegas Golden Knights,Detroit Red Wings,betmgm,-200,165,-1.5,125,1.5,-155,6.5,100,-120
+2024-03-09,NHL,8a101dee4855f427c66e1c88dfacc8f1,2024-03-10T03:00:00Z,Vegas Golden Knights,Detroit Red Wings,caesars,-205,170,-1.5,130,1.5,-155,6.5,100,-120
+2024-03-09,NHL,53237b7f8ba5ad1eee5ab5fe4d0a79c4,2024-03-10T03:00:00Z,Vancouver Canucks,Winnipeg Jets,betmgm,-145,120,-1.5,170,1.5,-210,5.5,-120,100
+2024-03-09,NHL,53237b7f8ba5ad1eee5ab5fe4d0a79c4,2024-03-10T03:00:00Z,Vancouver Canucks,Winnipeg Jets,caesars,-140,118,-1.5,180,1.5,-220,5.5,-120,100
+2024-03-09,NHL,b4f33f684dccf30ed2ac21cbfc413bed,2024-03-10T03:30:00Z,Los Angeles Kings,Dallas Stars,betmgm,-120,100,-1.5,200,1.5,-250,6.0,-115,-105
+2024-03-09,NHL,b4f33f684dccf30ed2ac21cbfc413bed,2024-03-10T03:30:00Z,Los Angeles Kings,Dallas Stars,caesars,-120,100,-1.5,210,1.5,-260,6.0,-115,-105

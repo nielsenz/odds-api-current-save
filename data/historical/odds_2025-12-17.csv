@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-12-17,NHL,b32681a645193226aa78e32a80d782dd,2025-12-18T00:10:00Z,Florida Panthers,Los Angeles Kings,betmgm,-145,118,-1.5,170,1.5,-210,5.5,-118,-102
+2025-12-17,NHL,b32681a645193226aa78e32a80d782dd,2025-12-18T00:10:00Z,Florida Panthers,Los Angeles Kings,caesars,-145,122,-1.5,175,1.5,-210,5.5,-120,100
+2025-12-17,NHL,5ba327a174863a724ce8dade2ffd10d3,2025-12-18T00:40:00Z,Detroit Red Wings,Utah Mammoth,betmgm,-125,105,-1.5,185,1.5,-225,6.0,-118,-102
+2025-12-17,NHL,5ba327a174863a724ce8dade2ffd10d3,2025-12-18T00:40:00Z,Detroit Red Wings,Utah Mammoth,caesars,-125,105,-1.5,196,1.5,-240,6.0,-120,100
+2025-12-17,NHL,1f777fc1203b4bc00c54fc6b816030a1,2025-12-18T01:10:00Z,Nashville Predators,Carolina Hurricanes,betmgm,150,-185,1.5,-160,-1.5,135,6.0,-118,-102
+2025-12-17,NHL,1f777fc1203b4bc00c54fc6b816030a1,2025-12-18T01:10:00Z,Nashville Predators,Carolina Hurricanes,caesars,158,-190,1.5,-165,-1.5,140,6.0,-115,-105
+2025-12-17,NHL,3b8f1cb6275a2a64b2309a4754c99a0f,2025-12-18T01:10:00Z,St Louis Blues,Winnipeg Jets,betmgm,125,-150,1.5,-200,-1.5,165,5.5,-110,-110
+2025-12-17,NHL,3b8f1cb6275a2a64b2309a4754c99a0f,2025-12-18T01:10:00Z,St Louis Blues,Winnipeg Jets,caesars,122,-145,1.5,-210,-1.5,175,5.5,-110,-110
+2025-12-17,NHL,977e2d27188bf727b2d515b50e47eb51,2025-12-18T03:10:00Z,Vegas Golden Knights,New Jersey Devils,betmgm,-185,150,-1.5,135,1.5,-165,5.5,-102,-118
+2025-12-17,NHL,977e2d27188bf727b2d515b50e47eb51,2025-12-18T03:10:00Z,Vegas Golden Knights,New Jersey Devils,caesars,-190,158,-1.5,143,1.5,-170,5.5,-105,-115

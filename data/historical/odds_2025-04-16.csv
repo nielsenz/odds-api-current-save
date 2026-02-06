@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-04-16,NHL,55c5bbd398f206d8fb77bde3fd1b0f4c,2025-04-16T23:10:00Z,Winnipeg Jets,Anaheim Ducks,betmgm,-275,225,-1.5,-105,1.5,-115,6.0,100,-120
+2025-04-16,NHL,55c5bbd398f206d8fb77bde3fd1b0f4c,2025-04-16T23:10:00Z,Winnipeg Jets,Anaheim Ducks,caesars,-278,222,-1.5,-110,1.5,-110,6.0,100,-120
+2025-04-16,NHL,ac04a1d8db1d91e0d1e0322e99113bd4,2025-04-16T23:10:00Z,Montréal Canadiens,Carolina Hurricanes,betmgm,-120,100,-1.5,200,1.5,-250,6.0,-105,-115
+2025-04-16,NHL,ac04a1d8db1d91e0d1e0322e99113bd4,2025-04-16T23:10:00Z,Montréal Canadiens,Carolina Hurricanes,caesars,-125,105,-1.5,205,1.5,-250,6.0,-105,-115
+2025-04-16,NHL,dad42114a81f6cbf5e6713046c2f4a36,2025-04-16T23:40:00Z,New Jersey Devils,Detroit Red Wings,betmgm,-105,-115,1.5,-285,-1.5,210,5.5,-118,-102
+2025-04-16,NHL,dad42114a81f6cbf5e6713046c2f4a36,2025-04-16T23:40:00Z,New Jersey Devils,Detroit Red Wings,caesars,-105,-115,1.5,-267,-1.5,215,5.5,-115,-105
+2025-04-16,NHL,a79b3939c435c872acefc3329372d41e,2025-04-17T00:10:00Z,Nashville Predators,Dallas Stars,betmgm,140,-165,1.5,-185,-1.5,150,6.5,100,-120
+2025-04-16,NHL,a79b3939c435c872acefc3329372d41e,2025-04-17T00:10:00Z,Nashville Predators,Dallas Stars,caesars,135,-160,1.5,-178,-1.5,150,6.5,100,-120
+2025-04-16,NHL,c21f96046b445d5323f1d476b54a0136,2025-04-17T02:10:00Z,Vancouver Canucks,Vegas Golden Knights,betmgm,-102,-118,1.5,-250,-1.5,200,5.5,-110,-110
+2025-04-16,NHL,c21f96046b445d5323f1d476b54a0136,2025-04-17T02:10:00Z,Vancouver Canucks,Vegas Golden Knights,caesars,-105,-115,1.5,-267,-1.5,215,5.5,-110,-110
+2025-04-16,NHL,dbe7c854490ae0ea660f789904e7b3b4,2025-04-17T02:40:00Z,San Jose Sharks,Edmonton Oilers,betmgm,185,-220,1.5,-135,-1.5,110,6.5,-120,100
+2025-04-16,NHL,dbe7c854490ae0ea660f789904e7b3b4,2025-04-17T02:40:00Z,San Jose Sharks,Edmonton Oilers,caesars,185,-225,1.5,-135,-1.5,115,6.5,-120,100

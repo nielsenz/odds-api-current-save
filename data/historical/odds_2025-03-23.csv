@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-23,NHL,6157dce9782836060e4447f81b7e8674,2025-03-23T19:10:00Z,Winnipeg Jets,Buffalo Sabres,betmgm,-325,260,-1.5,-120,1.5,100,6.0,100,-120
+2025-03-23,NHL,6157dce9782836060e4447f81b7e8674,2025-03-23T19:10:00Z,Winnipeg Jets,Buffalo Sabres,caesars,-355,278,-1.5,-130,1.5,110,6.0,-105,-115
+2025-03-23,NHL,1301a0a691e25c8271cd53361c0ecd1d,2025-03-23T19:10:00Z,Chicago Blackhawks,Philadelphia Flyers,betmgm,120,-145,1.5,-225,-1.5,185,5.5,100,-120
+2025-03-23,NHL,1301a0a691e25c8271cd53361c0ecd1d,2025-03-23T19:10:00Z,Chicago Blackhawks,Philadelphia Flyers,caesars,118,-140,1.5,-210,-1.5,175,5.5,-105,-115
+2025-03-23,NHL,2213fb10f1f7747dd547ce49c3f8e736,2025-03-23T22:10:00Z,Florida Panthers,Pittsburgh Penguins,betmgm,-275,220,-1.5,-102,1.5,-118,6.0,100,-120
+2025-03-23,NHL,2213fb10f1f7747dd547ce49c3f8e736,2025-03-23T22:10:00Z,Florida Panthers,Pittsburgh Penguins,caesars,-260,210,-1.5,100,1.5,-120,5.5,-125,105
+2025-03-23,NHL,5a05f4767af001a4fd40e49ac3c89205,2025-03-23T22:10:00Z,St Louis Blues,Nashville Predators,betmgm,-180,150,-1.5,140,1.5,-170,5.5,100,-120
+2025-03-23,NHL,5a05f4767af001a4fd40e49ac3c89205,2025-03-23T22:10:00Z,St Louis Blues,Nashville Predators,caesars,-178,150,-1.5,143,1.5,-170,5.5,105,-125
+2025-03-23,NHL,e966501f7888bd99fde71c9734b2405e,2025-03-24T00:10:00Z,Anaheim Ducks,Carolina Hurricanes,betmgm,185,-225,1.5,-135,-1.5,115,5.5,-120,100
+2025-03-23,NHL,e966501f7888bd99fde71c9734b2405e,2025-03-24T00:10:00Z,Anaheim Ducks,Carolina Hurricanes,caesars,185,-225,1.5,-130,-1.5,110,6.0,110,-130
+2025-03-23,NHL,b41654c9f18219736912ff8c6ea401c0,2025-03-24T00:10:00Z,Vegas Golden Knights,Tampa Bay Lightning,betmgm,-125,105,-1.5,190,1.5,-235,6.0,-115,-105
+2025-03-23,NHL,b41654c9f18219736912ff8c6ea401c0,2025-03-24T00:10:00Z,Vegas Golden Knights,Tampa Bay Lightning,caesars,-120,100,-1.5,196,1.5,-240,6.0,-115,-105
+2025-03-23,NHL,4a7e785cd87979c805dc101999b31248,2025-03-24T01:10:00Z,Los Angeles Kings,Boston Bruins,betmgm,-275,220,-1.5,105,1.5,-125,5.5,110,-130
+2025-03-23,NHL,4a7e785cd87979c805dc101999b31248,2025-03-24T01:10:00Z,Los Angeles Kings,Boston Bruins,caesars,-267,215,-1.5,100,1.5,-120,5.5,110,-130

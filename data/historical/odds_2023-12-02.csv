@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-12-02,NHL,679071992735741aa6e7fb82bf15590c,2023-12-02T19:00:00Z,Dallas Stars,Tampa Bay Lightning,caesars,-150,126,-1.5,150,1.5,-178,6.0,-120,100
+2023-12-02,NHL,679071992735741aa6e7fb82bf15590c,2023-12-02T19:00:00Z,Dallas Stars,Tampa Bay Lightning,betmgm,-160,135,-1.5,145,1.5,-175,6.0,-120,100
+2023-12-02,NHL,1ec394cc89654cd2cb7c4324e2077cb4,2023-12-02T20:00:00Z,Winnipeg Jets,Chicago Blackhawks,caesars,-305,240,-1.5,-110,1.5,-110,6.0,-120,100
+2023-12-02,NHL,1ec394cc89654cd2cb7c4324e2077cb4,2023-12-02T20:00:00Z,Winnipeg Jets,Chicago Blackhawks,betmgm,-300,240,-1.5,-120,1.5,100,6.0,-115,-105
+2023-12-02,NHL,7b1a663692131951060b0093373ea0bb,2023-12-02T21:30:00Z,Nashville Predators,New York Rangers,caesars,122,-145,1.5,-215,-1.5,178,6.0,-105,-115
+2023-12-02,NHL,7b1a663692131951060b0093373ea0bb,2023-12-02T21:30:00Z,Nashville Predators,New York Rangers,betmgm,110,-135,1.5,-225,-1.5,180,6.0,-105,-115
+2023-12-02,NHL,ad80dcd9bf52f1e9888181b95b10c122,2023-12-02T23:00:00Z,Florida Panthers,New York Islanders,caesars,-170,143,-1.5,143,1.5,-170,6.0,-120,100
+2023-12-02,NHL,ad80dcd9bf52f1e9888181b95b10c122,2023-12-02T23:00:00Z,Florida Panthers,New York Islanders,betmgm,-175,145,-1.5,135,1.5,-165,6.0,-120,100
+2023-12-02,NHL,7e15790e7b1819c480954121ad3644d0,2023-12-03T00:00:00Z,Toronto Maple Leafs,Boston Bruins,caesars,-105,-115,1.5,-267,-1.5,215,6.0,-105,-115
+2023-12-02,NHL,7e15790e7b1819c480954121ad3644d0,2023-12-03T00:00:00Z,Toronto Maple Leafs,Boston Bruins,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-110,-110
+2023-12-02,NHL,dca016d38db7b2484341816c435cba86,2023-12-03T00:00:00Z,Carolina Hurricanes,Buffalo Sabres,caesars,-250,205,-1.5,105,1.5,-125,6.5,-110,-110
+2023-12-02,NHL,dca016d38db7b2484341816c435cba86,2023-12-03T00:00:00Z,Carolina Hurricanes,Buffalo Sabres,betmgm,-250,200,-1.5,-105,1.5,-115,6.5,-110,-110
+2023-12-02,NHL,788cd7883414c082973a9cf64ecf502b,2023-12-03T00:00:00Z,Montréal Canadiens,Detroit Red Wings,caesars,135,-160,1.5,-195,-1.5,162,6.5,-105,-115
+2023-12-02,NHL,788cd7883414c082973a9cf64ecf502b,2023-12-03T00:00:00Z,Montréal Canadiens,Detroit Red Wings,betmgm,120,-145,1.5,-200,-1.5,165,6.5,-105,-115
+2023-12-02,NHL,d1c87bc725134128bc5ce41add711fed,2023-12-03T00:00:00Z,Ottawa Senators,Seattle Kraken,betmgm,-125,105,-1.5,185,1.5,-225,6.5,-110,-110
+2023-12-02,NHL,d1c87bc725134128bc5ce41add711fed,2023-12-03T00:00:00Z,Ottawa Senators,Seattle Kraken,caesars,-120,100,-1.5,205,1.5,-250,6.5,-110,-110
+2023-12-02,NHL,18287a4a6b8ef4d99e19fe43769b2737,2023-12-03T00:00:00Z,Pittsburgh Penguins,Philadelphia Flyers,caesars,-170,143,-1.5,143,1.5,-170,6.5,-105,-115
+2023-12-02,NHL,18287a4a6b8ef4d99e19fe43769b2737,2023-12-03T00:00:00Z,Pittsburgh Penguins,Philadelphia Flyers,betmgm,-175,145,-1.5,135,1.5,-160,6.5,-105,-115
+2023-12-02,NHL,f6bf32925b26193ac8285a667c98a962,2023-12-03T02:00:00Z,Arizona Coyotes,St Louis Blues,caesars,-125,105,-1.5,196,1.5,-240,6.5,-105,-115
+2023-12-02,NHL,f6bf32925b26193ac8285a667c98a962,2023-12-03T02:00:00Z,Arizona Coyotes,St Louis Blues,betmgm,-130,105,-1.5,180,1.5,-225,6.5,-105,-115
+2023-12-02,NHL,988f099ad199dbe0ca772b40467e0346,2023-12-03T03:00:00Z,Anaheim Ducks,Colorado Avalanche,betmgm,185,-225,1.5,-125,-1.5,105,6.5,-105,-115
+2023-12-02,NHL,988f099ad199dbe0ca772b40467e0346,2023-12-03T03:00:00Z,Anaheim Ducks,Colorado Avalanche,caesars,196,-240,1.5,-115,-1.5,-105,6.5,-105,-115
+2023-12-02,NHL,683b9f7032fc3a6d2a8ddd1dfeb617a1,2023-12-03T03:00:00Z,Calgary Flames,Vancouver Canucks,caesars,-125,105,-1.5,196,1.5,-240,6.5,-110,-110
+2023-12-02,NHL,683b9f7032fc3a6d2a8ddd1dfeb617a1,2023-12-03T03:00:00Z,Calgary Flames,Vancouver Canucks,betmgm,-125,105,-1.5,185,1.5,-225,6.5,-110,-110
+2023-12-02,NHL,ae976283901fb066236a53db6ed089ba,2023-12-03T03:00:00Z,Vegas Golden Knights,Washington Capitals,caesars,-195,162,-1.5,140,1.5,-165,6.0,100,-120
+2023-12-02,NHL,ae976283901fb066236a53db6ed089ba,2023-12-03T03:00:00Z,Vegas Golden Knights,Washington Capitals,betmgm,-190,155,-1.5,125,1.5,-155,6.0,100,-120

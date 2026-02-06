@@ -1,0 +1,4 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-01-17,NHL,0072331e02eb0512769109d90ceb3aed,2024-01-18T00:00:00Z,Florida Panthers,Detroit Red Wings,betmgm,-210,170,-1.5,115,1.5,-140,6.5,-115,-105
+2024-01-17,NHL,735f831fc3a50dff1e045f5c1ab9cd9c,2024-01-18T00:00:00Z,New Jersey Devils,Montréal Canadiens,betmgm,-185,150,-1.5,135,1.5,-160,6.5,100,-120
+2024-01-17,NHL,c9b4e903f451775cc210c14503de80cd,2024-01-18T00:30:00Z,Buffalo Sabres,Chicago Blackhawks,betmgm,-300,240,-1.5,-110,1.5,-110,6.0,-110,-110

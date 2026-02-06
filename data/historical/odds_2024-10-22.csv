@@ -1,0 +1,17 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-10-22,NHL,ba8a12e189b3d636ffb43be5cc4fa940,2024-10-22T22:00:00Z,Philadelphia Flyers,Washington Capitals,betmgm,-125,105,-1.5,200,1.5,-250,6.0,100,-120
+2024-10-22,NHL,27746bc4e76936d45f41638c2c820188,2024-10-22T22:30:00Z,Florida Panthers,Minnesota Wild,betmgm,-145,120,-1.5,170,1.5,-210,6.0,100,-120
+2024-10-22,NHL,8f42cc0a1a14454a4efed3a3babc0e2e,2024-10-22T22:45:00Z,New Jersey Devils,Tampa Bay Lightning,betmgm,-150,125,-1.5,155,1.5,-190,6.5,-120,100
+2024-10-22,NHL,eedd0fd3a82fa882999ead1a9afff464,2024-10-22T23:00:00Z,Buffalo Sabres,Dallas Stars,betmgm,125,-150,1.5,-200,-1.5,165,6.0,100,-120
+2024-10-22,NHL,3092127f989e15b0fef7f3c3d53a0f84,2024-10-22T23:15:00Z,Montréal Canadiens,New York Rangers,betmgm,200,-250,1.5,-130,-1.5,110,6.0,-115,-105
+2024-10-22,NHL,a008650f541f617eb383e659cd568783,2024-10-22T23:30:00Z,Columbus Blue Jackets,Toronto Maple Leafs,betmgm,170,-210,1.5,-140,-1.5,115,6.5,-115,-105
+2024-10-22,NHL,36098d04ed728f13fc1369acb969f65a,2024-10-22T23:45:00Z,New York Islanders,Detroit Red Wings,betmgm,-165,140,-1.5,145,1.5,-175,6.0,-120,100
+2024-10-22,NHL,34a1c512e7ed395074072e7e67c7aa41,2024-10-23T00:00:00Z,St Louis Blues,Winnipeg Jets,betmgm,120,-145,1.5,-210,-1.5,170,5.5,-120,100
+2024-10-22,NHL,69d93baab9c353ad17989c63d6025c99,2024-10-23T00:15:00Z,Chicago Blackhawks,Vancouver Canucks,betmgm,150,-185,1.5,-165,-1.5,140,6.0,-105,-115
+2024-10-22,NHL,f776f3d8296c63156eced3577b83aa24,2024-10-23T00:30:00Z,Seattle Kraken,Colorado Avalanche,betmgm,105,-125,1.5,-250,-1.5,200,6.5,-105,-115
+2024-10-22,NHL,c92efebbc42fbb72f3a87d781278ac04,2024-10-23T00:45:00Z,Nashville Predators,Boston Bruins,betmgm,-135,115,-1.5,180,1.5,-225,6.0,-110,-110
+2024-10-22,NHL,2a2a55019c073fe1002ef323c7589bca,2024-10-23T01:00:00Z,Edmonton Oilers,Carolina Hurricanes,betmgm,-130,110,-1.5,185,1.5,-225,6.5,100,-120
+2024-10-22,NHL,3e87222ad607d014ddf601bb7c5f9b03,2024-10-23T01:15:00Z,Utah Hockey Club,Ottawa Senators,betmgm,-110,-110,1.5,-250,-1.5,200,6.5,-110,-110
+2024-10-22,NHL,56eda3b51b4eb1875c2ce1a037a23e88,2024-10-23T01:30:00Z,Calgary Flames,Pittsburgh Penguins,betmgm,-120,100,-1.5,200,1.5,-250,6.5,-115,-105
+2024-10-22,NHL,a11f084845e738c4c362ab8adc592c98,2024-10-23T02:15:00Z,Anaheim Ducks,San Jose Sharks,betmgm,-160,135,-1.5,155,1.5,-190,6.0,100,-120
+2024-10-22,NHL,e3a3662ba276acf34c1a0442d4ea4458,2024-10-23T03:00:00Z,Vegas Golden Knights,Los Angeles Kings,betmgm,-125,105,-1.5,200,1.5,-250,5.5,-115,-105

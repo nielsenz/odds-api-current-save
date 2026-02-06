@@ -1,0 +1,16 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-10,NHL,30ff1822089da57e62b2496ac44f1b7f,2025-11-11T00:00:00Z,New York Rangers,Nashville Predators,caesars,-190,158,-1.5,140,1.5,-165,5.5,-120,100
+2025-11-10,NHL,30ff1822089da57e62b2496ac44f1b7f,2025-11-11T00:00:00Z,New York Rangers,Nashville Predators,betmgm,-175,145,-1.5,140,1.5,-170,5.5,-115,-105
+2025-11-10,NHL,c64c0dc723efb4666359efe8f71eb2be,2025-11-11T00:00:00Z,New Jersey Devils,New York Islanders,caesars,-155,130,-1.5,158,1.5,-190,6.0,-120,100
+2025-11-10,NHL,c64c0dc723efb4666359efe8f71eb2be,2025-11-11T00:00:00Z,New Jersey Devils,New York Islanders,betmgm,-150,125,-1.5,154,1.5,-190,6.0,-120,100
+2025-11-10,NHL,9c306a928d9f407e4e980fcc54dd3192,2025-11-11T01:30:00Z,Edmonton Oilers,Columbus Blue Jackets,caesars,-170,143,-1.5,140,1.5,-165,6.5,-130,110
+2025-11-10,NHL,9c306a928d9f407e4e980fcc54dd3192,2025-11-11T01:30:00Z,Edmonton Oilers,Columbus Blue Jackets,betmgm,-170,140,-1.5,135,1.5,-160,6.5,-130,105
+2025-11-10,NHL,cae9375c2dfdc84c610cd4a6234753c2,2025-11-11T03:00:00Z,Vegas Golden Knights,Florida Panthers,caesars,-140,118,-1.5,180,1.5,-220,6.0,-110,-110
+2025-11-10,NHL,cae9375c2dfdc84c610cd4a6234753c2,2025-11-11T03:00:00Z,Vegas Golden Knights,Florida Panthers,betmgm,-145,120,-1.5,170,1.5,-210,6.0,-105,-115
+2025-11-10,NHL,1f71adcb4cb9848b376b2e89082e3a46,2025-11-12T00:10:00Z,Boston Bruins,Toronto Maple Leafs,caesars,115,-135,1.5,-220,-1.5,180,6.5,100,-120
+2025-11-10,NHL,890f8b230a1d48f05093187787a22feb,2025-11-12T00:10:00Z,Carolina Hurricanes,Washington Capitals,caesars,-165,140,-1.5,150,1.5,-178,6.0,-110,-110
+2025-11-10,NHL,df45976b99b32afacf379373d2ca343e,2025-11-12T00:10:00Z,Ottawa Senators,Dallas Stars,caesars,-105,-115,1.5,-250,-1.5,205,6.0,-110,-110
+2025-11-10,NHL,6a073081b7c2a34bfe7d82caf6929120,2025-11-12T01:10:00Z,St Louis Blues,Calgary Flames,caesars,-145,122,-1.5,170,1.5,-205,5.5,-125,105
+2025-11-10,NHL,bb122a3c7699ca263d86cef2b6e4f443,2025-11-12T01:10:00Z,Minnesota Wild,San Jose Sharks,caesars,-220,180,-1.5,110,1.5,-130,6.5,100,-120
+2025-11-10,NHL,85e29b41b391f1cdcdc5f5b0945fe362,2025-11-12T03:10:00Z,Seattle Kraken,Columbus Blue Jackets,caesars,-120,100,-1.5,205,1.5,-250,6.5,105,-125
+2025-11-10,NHL,5df6af196400dc9f41ae30a8c0d551e1,2025-11-12T03:10:00Z,Vancouver Canucks,Winnipeg Jets,caesars,100,-120,1.5,-260,-1.5,210,5.5,-120,100

@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-04-03,NHL,fe480ecc57a30bafcf3d447a2169e270,2024-04-03T23:00:00Z,New York Rangers,New Jersey Devils,betmgm,-200,165,-1.5,120,1.5,-145,6.5,-110,-110
+2024-04-03,NHL,fe480ecc57a30bafcf3d447a2169e270,2024-04-03T23:00:00Z,New York Rangers,New Jersey Devils,caesars,-195,162,-1.5,122,1.5,-145,6.5,-110,-110
+2024-04-03,NHL,bfba28490669d0c5cf1a3e1ab3a8d6ad,2024-04-03T23:00:00Z,Toronto Maple Leafs,Tampa Bay Lightning,caesars,-120,100,-1.5,196,1.5,-240,6.5,-120,100
+2024-04-03,NHL,bfba28490669d0c5cf1a3e1ab3a8d6ad,2024-04-03T23:00:00Z,Toronto Maple Leafs,Tampa Bay Lightning,betmgm,-120,100,-1.5,190,1.5,-250,6.5,-115,-105
+2024-04-03,NHL,526d90a93ad22152a0667b862d2fe36d,2024-04-04T01:30:00Z,Dallas Stars,Edmonton Oilers,caesars,-125,105,-1.5,196,1.5,-240,6.5,-105,-115
+2024-04-03,NHL,526d90a93ad22152a0667b862d2fe36d,2024-04-04T01:30:00Z,Dallas Stars,Edmonton Oilers,betmgm,-120,100,-1.5,195,1.5,-250,6.5,-105,-115
+2024-04-03,NHL,70a380824c6ddd4af511a954cabfb21f,2024-04-04T01:30:00Z,Los Angeles Kings,Seattle Kraken,caesars,-178,150,-1.5,140,1.5,-165,5.5,100,-120
+2024-04-03,NHL,70a380824c6ddd4af511a954cabfb21f,2024-04-04T01:30:00Z,Los Angeles Kings,Seattle Kraken,betmgm,-185,150,-1.5,135,1.5,-165,5.5,100,-120
+2024-04-03,NHL,179632ee75b9c51b69bb3d4738192041,2024-04-04T02:00:00Z,Arizona Coyotes,Vancouver Canucks,betmgm,130,-155,1.5,-190,-1.5,155,6.0,-120,100
+2024-04-03,NHL,179632ee75b9c51b69bb3d4738192041,2024-04-04T02:00:00Z,Arizona Coyotes,Vancouver Canucks,caesars,122,-145,1.5,-205,-1.5,170,6.0,-120,100

@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-11-18,NHL,dd87a342edf87fad4224372f62e1d364,2023-11-18T16:15:16Z,Ottawa Senators,Minnesota Wild,caesars,-110,-120,1.5,-280,-1.5,215,4.5,-150,120
+2023-11-18,NHL,dd87a342edf87fad4224372f62e1d364,2023-11-18T16:15:16Z,Ottawa Senators,Minnesota Wild,betmgm,-105,-120,1.5,-350,-1.5,230,4.5,-160,120
+2023-11-18,NHL,5b97053a4f0c29d3d3d7d71e4e16288d,2023-11-18T18:00:00Z,Philadelphia Flyers,Vegas Golden Knights,caesars,135,-160,1.5,-190,-1.5,158,6.0,-110,-110
+2023-11-18,NHL,5b97053a4f0c29d3d3d7d71e4e16288d,2023-11-18T18:00:00Z,Philadelphia Flyers,Vegas Golden Knights,betmgm,125,-155,1.5,-190,-1.5,155,6.0,-110,-110
+2023-11-18,NHL,ce5d78c4b8696dc4e1f63fa3eb85775c,2023-11-18T19:00:00Z,Nashville Predators,Chicago Blackhawks,caesars,-205,170,-1.5,130,1.5,-155,6.0,-125,105
+2023-11-18,NHL,ce5d78c4b8696dc4e1f63fa3eb85775c,2023-11-18T19:00:00Z,Nashville Predators,Chicago Blackhawks,betmgm,-210,170,-1.5,120,1.5,-145,6.5,100,-120
+2023-11-18,NHL,c8da073c76d7bc7d50a7b3e9eb56f3ee,2023-11-18T21:00:00Z,Tampa Bay Lightning,Edmonton Oilers,caesars,110,-130,1.5,-225,-1.5,185,7.0,-105,-115
+2023-11-18,NHL,c8da073c76d7bc7d50a7b3e9eb56f3ee,2023-11-18T21:00:00Z,Tampa Bay Lightning,Edmonton Oilers,betmgm,105,-125,1.5,-225,-1.5,180,7.0,100,-120
+2023-11-18,NHL,2a2221731af14432878aeff040ae0810,2023-11-19T00:00:00Z,Winnipeg Jets,Arizona Coyotes,betmgm,-155,125,-1.5,150,1.5,-185,6.5,-115,-105
+2023-11-18,NHL,2a2221731af14432878aeff040ae0810,2023-11-19T00:00:00Z,Winnipeg Jets,Arizona Coyotes,caesars,-160,135,-1.5,150,1.5,-178,6.5,-115,-105
+2023-11-18,NHL,796cab7523472cfafaa63458c81603ef,2023-11-19T00:00:00Z,Boston Bruins,Montréal Canadiens,caesars,-278,222,-1.5,-110,1.5,-110,6.0,-115,-105
+2023-11-18,NHL,796cab7523472cfafaa63458c81603ef,2023-11-19T00:00:00Z,Boston Bruins,Montréal Canadiens,betmgm,-275,225,-1.5,-110,1.5,-110,6.0,-115,-105
+2023-11-18,NHL,fb2e114d830ca4d4955efdc879a61796,2023-11-19T00:00:00Z,Calgary Flames,New York Islanders,caesars,-145,122,-1.5,175,1.5,-210,6.0,-105,-115
+2023-11-18,NHL,fb2e114d830ca4d4955efdc879a61796,2023-11-19T00:00:00Z,Calgary Flames,New York Islanders,betmgm,-150,125,-1.5,155,1.5,-190,6.0,-105,-115
+2023-11-18,NHL,1eb482d37106024ca71b2a8a4804893e,2023-11-19T00:00:00Z,Carolina Hurricanes,Pittsburgh Penguins,caesars,-170,143,-1.5,143,1.5,-170,6.5,-110,-110
+2023-11-18,NHL,1eb482d37106024ca71b2a8a4804893e,2023-11-19T00:00:00Z,Carolina Hurricanes,Pittsburgh Penguins,betmgm,-175,145,-1.5,135,1.5,-165,6.5,-110,-110
+2023-11-18,NHL,bbe483dbadf05acc69562006c23e83a9,2023-11-19T00:00:00Z,New Jersey Devils,New York Rangers,betmgm,-115,-105,-1.5,195,1.5,-250,6.5,-115,-105
+2023-11-18,NHL,bbe483dbadf05acc69562006c23e83a9,2023-11-19T00:00:00Z,New Jersey Devils,New York Rangers,caesars,-120,100,-1.5,215,1.5,-267,6.5,-115,-105
+2023-11-18,NHL,453d09a49f1a67b7db8caf4a5c5a37b4,2023-11-19T00:30:00Z,Washington Capitals,Columbus Blue Jackets,caesars,-160,135,-1.5,158,1.5,-190,6.5,100,-120
+2023-11-18,NHL,453d09a49f1a67b7db8caf4a5c5a37b4,2023-11-19T00:30:00Z,Washington Capitals,Columbus Blue Jackets,betmgm,-160,135,-1.5,145,1.5,-175,6.0,-120,100
+2023-11-18,NHL,31b617c5f3c9b5dad293ce99ff8f6bb9,2023-11-19T01:00:00Z,Dallas Stars,Colorado Avalanche,caesars,-130,110,-1.5,192,1.5,-235,6.0,-125,105
+2023-11-18,NHL,31b617c5f3c9b5dad293ce99ff8f6bb9,2023-11-19T01:00:00Z,Dallas Stars,Colorado Avalanche,betmgm,-135,110,-1.5,170,1.5,-210,6.5,100,-120
+2023-11-18,NHL,5b44b3ded25aea3bb1a98793da9eb5a9,2023-11-19T03:00:00Z,Vancouver Canucks,Seattle Kraken,caesars,-165,140,-1.5,150,1.5,-178,6.5,-110,-110
+2023-11-18,NHL,5b44b3ded25aea3bb1a98793da9eb5a9,2023-11-19T03:00:00Z,Vancouver Canucks,Seattle Kraken,betmgm,-165,140,-1.5,140,1.5,-165,6.5,-115,-105
+2023-11-18,NHL,f64c9105e4c6d0e0dc43125392de7c25,2023-11-19T03:30:00Z,Los Angeles Kings,St Louis Blues,caesars,-205,170,-1.5,118,1.5,-140,6.5,-105,-115
+2023-11-18,NHL,f64c9105e4c6d0e0dc43125392de7c25,2023-11-19T03:30:00Z,Los Angeles Kings,St Louis Blues,betmgm,-200,165,-1.5,120,1.5,-145,6.5,-105,-115

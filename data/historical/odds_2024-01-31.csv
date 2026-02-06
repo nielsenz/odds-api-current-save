@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-01-31,NHL,8a0f8f7804062af4e29a83d1f902efc7,2024-02-01T00:00:00Z,Detroit Red Wings,Ottawa Senators,betmgm,-115,-105,-1.5,195,1.5,-250,7.0,105,-125
+2024-01-31,NHL,8a0f8f7804062af4e29a83d1f902efc7,2024-02-01T00:00:00Z,Detroit Red Wings,Ottawa Senators,caesars,-115,-105,-1.5,196,1.5,-240,7.0,105,-125
+2024-01-31,NHL,bf2b66fb83b56cbd9aa7fbe0d9b46566,2024-02-01T00:30:00Z,Nashville Predators,Los Angeles Kings,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-105,-115
+2024-01-31,NHL,bf2b66fb83b56cbd9aa7fbe0d9b46566,2024-02-01T00:30:00Z,Nashville Predators,Los Angeles Kings,caesars,100,-120,1.5,-250,-1.5,205,6.0,-105,-115
+2024-01-31,NHL,649512039a07af352c5a52e86a20b0ae,2024-02-01T03:30:00Z,Anaheim Ducks,San Jose Sharks,betmgm,-175,145,-1.5,140,1.5,-165,6.0,-110,-110
+2024-01-31,NHL,649512039a07af352c5a52e86a20b0ae,2024-02-01T03:30:00Z,Anaheim Ducks,San Jose Sharks,caesars,-178,150,-1.5,140,1.5,-165,6.0,-110,-110

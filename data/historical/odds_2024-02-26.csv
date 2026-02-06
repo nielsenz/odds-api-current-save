@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-02-26,NHL,e874e76263fbe64073b353561787b43c,2024-02-27T00:00:00Z,Washington Capitals,Ottawa Senators,caesars,115,-135,1.5,-220,-1.5,180,6.5,-105,-115
+2024-02-26,NHL,e874e76263fbe64073b353561787b43c,2024-02-27T00:00:00Z,Washington Capitals,Ottawa Senators,betmgm,115,-135,1.5,-210,-1.5,170,6.5,-105,-115
+2024-02-26,NHL,f7d950f61c9a60ef536a67e770744160,2024-02-27T01:00:00Z,Dallas Stars,New York Islanders,caesars,-165,140,-1.5,143,1.5,-170,6.5,-110,-110
+2024-02-26,NHL,f7d950f61c9a60ef536a67e770744160,2024-02-27T01:00:00Z,Dallas Stars,New York Islanders,betmgm,-165,135,-1.5,145,1.5,-175,6.5,-110,-110
+2024-02-26,NHL,0084535894061363276a25aa92fb467c,2024-02-27T02:30:00Z,Edmonton Oilers,Los Angeles Kings,caesars,-155,130,-1.5,158,1.5,-190,6.5,-110,-110
+2024-02-26,NHL,0084535894061363276a25aa92fb467c,2024-02-27T02:30:00Z,Edmonton Oilers,Los Angeles Kings,betmgm,-155,130,-1.5,150,1.5,-185,6.5,-115,-105
+2024-02-26,NHL,4d03dbb2a4f45112f85820194e899079,2024-02-27T03:00:00Z,Seattle Kraken,Boston Bruins,caesars,122,-145,1.5,-210,-1.5,175,5.5,-120,100
+2024-02-26,NHL,4d03dbb2a4f45112f85820194e899079,2024-02-27T03:00:00Z,Seattle Kraken,Boston Bruins,betmgm,120,-145,1.5,-210,-1.5,170,5.5,-115,-105

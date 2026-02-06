@@ -1,0 +1,12 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-20,NHL,99c691dae63811e26816f590dff0511b,2024-03-20T23:30:00Z,Washington Capitals,Toronto Maple Leafs,betmgm,110,-130,1.5,-225,-1.5,185,6.0,-120,100
+2024-03-20,NHL,99c691dae63811e26816f590dff0511b,2024-03-20T23:30:00Z,Washington Capitals,Toronto Maple Leafs,caesars,105,-125,1.5,-220,-1.5,180,6.0,-120,100
+2024-03-20,NHL,7920b74cdae42578edd501dceaf68bbc,2024-03-21T00:00:00Z,Dallas Stars,Arizona Coyotes,betmgm,-300,240,-1.5,-115,1.5,-105,6.5,100,-120
+2024-03-20,NHL,7920b74cdae42578edd501dceaf68bbc,2024-03-21T00:00:00Z,Dallas Stars,Arizona Coyotes,caesars,-305,240,-1.5,-115,1.5,-105,6.5,100,-120
+2024-03-20,NHL,46e88a47cb718a6366a83a4017474031,2024-03-21T02:00:00Z,Los Angeles Kings,Minnesota Wild,betmgm,-155,130,-1.5,165,1.5,-200,5.5,-115,-105
+2024-03-20,NHL,46e88a47cb718a6366a83a4017474031,2024-03-21T02:00:00Z,Los Angeles Kings,Minnesota Wild,caesars,-155,130,-1.5,170,1.5,-205,5.5,-120,100
+2024-03-20,NHL,b33f30ad5541b19794da293edee78bd3,2024-03-21T23:00:00Z,Boston Bruins,New York Rangers,betmgm,-135,115,-1.5,185,1.5,-225,5.5,-115,-105
+2024-03-20,NHL,1f805fe0c16fd30d753e39ab412517cd,2024-03-21T23:00:00Z,Carolina Hurricanes,Philadelphia Flyers,betmgm,-225,180,-1.5,110,1.5,-135,6.0,-120,100
+2024-03-20,NHL,97a12a88703010863d0f2edc57df5a9a,2024-03-21T23:00:00Z,Detroit Red Wings,New York Islanders,betmgm,-115,-105,-1.5,195,1.5,-250,6.5,100,-120
+2024-03-20,NHL,cd2d174f70aa0f0125e8df03a2dd012d,2024-03-21T23:00:00Z,New Jersey Devils,Winnipeg Jets,betmgm,110,-130,1.5,-225,-1.5,185,6.0,-110,-110
+2024-03-20,NHL,03ba52b68b3e896872c67abaa862b2a1,2024-03-21T23:00:00Z,Ottawa Senators,St Louis Blues,betmgm,-130,110,-1.5,180,1.5,-225,6.5,-110,-110

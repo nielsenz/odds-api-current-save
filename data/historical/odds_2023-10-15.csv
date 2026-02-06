@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-10-15,NHL,cf4be85b3145f4b463e99f8eee0bd845,2023-10-15T23:00:00Z,Ottawa Senators,Tampa Bay Lightning,caesars,-120,100,-1.5,192,1.5,-235,7.0,-105,-115
+2023-10-15,NHL,cf4be85b3145f4b463e99f8eee0bd845,2023-10-15T23:00:00Z,Ottawa Senators,Tampa Bay Lightning,betmgm,-120,100,-1.5,185,1.5,-225,7.0,100,-120
+2023-10-15,NHL,2882f075f31fd3635337f565e546c589,2023-10-16T00:30:00Z,Anaheim Ducks,Carolina Hurricanes,caesars,240,-305,1.5,-105,-1.5,-115,6.0,-125,105
+2023-10-15,NHL,2882f075f31fd3635337f565e546c589,2023-10-16T00:30:00Z,Anaheim Ducks,Carolina Hurricanes,betmgm,240,-300,1.5,100,-1.5,-120,6.5,100,-120

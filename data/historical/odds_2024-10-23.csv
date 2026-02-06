@@ -1,0 +1,10 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-10-23,NHL,cb7e921a7ba7cbd9a065d9dddf5ac422,2024-10-23T23:30:00Z,Washington Capitals,Philadelphia Flyers,betmgm,-150,125,-1.5,165,1.5,-200,6.0,-110,-110
+2024-10-23,NHL,6e1d7a1947b16e2a9a7ad8ae73c2c684,2024-10-24T23:00:00Z,Boston Bruins,Dallas Stars,betmgm,100,-120,1.5,-250,-1.5,200,5.5,-110,-110
+2024-10-23,NHL,a9ecc86e083630bc41bac3d09dce3648,2024-10-24T23:00:00Z,Detroit Red Wings,New Jersey Devils,betmgm,125,-150,1.5,-200,-1.5,165,6.5,-115,-105
+2024-10-23,NHL,3298a8d4d42ce3829458ee02e41b413c,2024-10-24T23:00:00Z,Tampa Bay Lightning,Minnesota Wild,betmgm,-145,120,-1.5,165,1.5,-200,6.5,100,-120
+2024-10-23,NHL,3c03317d9a81d29a339d6ef5b7553934,2024-10-24T23:00:00Z,Toronto Maple Leafs,St Louis Blues,betmgm,-225,180,-1.5,115,1.5,-135,6.5,100,-120
+2024-10-23,NHL,b46a46cfb8aeb4fdbb25206fe974c8b2,2024-10-25T01:00:00Z,Calgary Flames,Carolina Hurricanes,betmgm,135,-160,1.5,-190,-1.5,155,6.0,-110,-110
+2024-10-23,NHL,d4478a22710e7293b1faeb01c627cf56,2024-10-25T01:00:00Z,Utah Hockey Club,Colorado Avalanche,betmgm,115,-135,1.5,-225,-1.5,180,6.5,-110,-110
+2024-10-23,NHL,3f49ad85f814ecf75c1e026dba12b65d,2024-10-25T02:00:00Z,Seattle Kraken,Winnipeg Jets,betmgm,115,-135,1.5,-225,-1.5,180,5.5,-120,100
+2024-10-23,NHL,897783d7fe3db48c8efa51fb7cb829e9,2024-10-25T02:30:00Z,Los Angeles Kings,San Jose Sharks,betmgm,-350,260,-1.5,-120,1.5,100,6.0,100,-120

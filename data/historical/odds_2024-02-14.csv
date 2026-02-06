@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-02-14,NHL,e67f83b58b98fb15c828dd773e707ad8,2024-02-15T00:30:00Z,Pittsburgh Penguins,Florida Panthers,betmgm,110,-130,1.5,-225,-1.5,185,6.0,-105,-115
+2024-02-14,NHL,e67f83b58b98fb15c828dd773e707ad8,2024-02-15T00:30:00Z,Pittsburgh Penguins,Florida Panthers,caesars,115,-135,1.5,-235,-1.5,192,6.0,-105,-115
+2024-02-14,NHL,4eaf665e92f6cc09903b6f367d231d57,2024-02-15T00:30:00Z,Winnipeg Jets,San Jose Sharks,betmgm,-450,350,-1.5,-160,1.5,135,5.5,-115,-105
+2024-02-14,NHL,4eaf665e92f6cc09903b6f367d231d57,2024-02-15T00:30:00Z,Winnipeg Jets,San Jose Sharks,caesars,-455,345,-1.5,-160,1.5,135,5.5,-110,-110
+2024-02-14,NHL,69d24b8915c8e663a4a3986e66363df5,2024-02-15T02:30:00Z,Arizona Coyotes,Minnesota Wild,betmgm,100,-120,1.5,-250,-1.5,195,6.0,-105,-115
+2024-02-14,NHL,69d24b8915c8e663a4a3986e66363df5,2024-02-15T02:30:00Z,Arizona Coyotes,Minnesota Wild,caesars,100,-120,1.5,-250,-1.5,205,6.0,-105,-115

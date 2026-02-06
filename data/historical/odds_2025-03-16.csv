@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-16,NHL,f9694955cc84546edcd8c0fa373a7127,2025-03-16T17:10:00Z,Detroit Red Wings,Vegas Golden Knights,betmgm,100,-120,1.5,-235,-1.5,195,6.0,-120,100
+2025-03-16,NHL,f9694955cc84546edcd8c0fa373a7127,2025-03-16T17:10:00Z,Detroit Red Wings,Vegas Golden Knights,caesars,105,-125,1.5,-225,-1.5,185,6.5,105,-125
+2025-03-16,NHL,fccb884c5bd7ce278119552aba926427,2025-03-16T19:40:00Z,Colorado Avalanche,Dallas Stars,betmgm,-140,120,-1.5,180,1.5,-220,6.0,100,-120
+2025-03-16,NHL,fccb884c5bd7ce278119552aba926427,2025-03-16T19:40:00Z,Colorado Avalanche,Dallas Stars,caesars,-140,118,-1.5,175,1.5,-210,6.0,-105,-115
+2025-03-16,NHL,fe8a705bdc4049ddf776108ca4206500,2025-03-16T23:10:00Z,New York Rangers,Edmonton Oilers,betmgm,140,-165,1.5,-185,-1.5,150,6.5,-115,-105
+2025-03-16,NHL,fe8a705bdc4049ddf776108ca4206500,2025-03-16T23:10:00Z,New York Rangers,Edmonton Oilers,caesars,140,-165,1.5,-178,-1.5,150,6.5,-115,-105
+2025-03-16,NHL,2f73cbde97f9c10b4064de8a6df15ffe,2025-03-16T23:40:00Z,New York Islanders,Florida Panthers,betmgm,130,-155,1.5,-210,-1.5,170,5.5,-105,-115
+2025-03-16,NHL,2f73cbde97f9c10b4064de8a6df15ffe,2025-03-16T23:40:00Z,New York Islanders,Florida Panthers,caesars,130,-155,1.5,-210,-1.5,175,5.5,-105,-115
+2025-03-16,NHL,a9036ce6d11353e31664041998014edb,2025-03-17T00:10:00Z,St Louis Blues,Anaheim Ducks,betmgm,-175,145,-1.5,145,1.5,-175,5.5,-120,100
+2025-03-16,NHL,a9036ce6d11353e31664041998014edb,2025-03-17T00:10:00Z,St Louis Blues,Anaheim Ducks,caesars,-170,143,-1.5,143,1.5,-170,5.5,-120,100
+2025-03-16,NHL,d390467a40d1f344ba2950593a1d9eeb,2025-03-17T00:10:00Z,Vancouver Canucks,Utah Hockey Club,betmgm,105,-125,1.5,-250,-1.5,200,5.5,-115,-105
+2025-03-16,NHL,d390467a40d1f344ba2950593a1d9eeb,2025-03-17T00:10:00Z,Vancouver Canucks,Utah Hockey Club,caesars,105,-125,1.5,-250,-1.5,205,5.5,-115,-105
+2025-03-16,NHL,80d3e18610d32424304f742b11bc87b1,2025-03-17T01:10:00Z,Seattle Kraken,Winnipeg Jets,betmgm,150,-180,1.5,-170,-1.5,140,5.5,-120,100
+2025-03-16,NHL,80d3e18610d32424304f742b11bc87b1,2025-03-17T01:10:00Z,Seattle Kraken,Winnipeg Jets,caesars,150,-178,1.5,-170,-1.5,143,5.5,-120,100

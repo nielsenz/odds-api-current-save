@@ -1,0 +1,17 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-09,NHL,fb6ce82184e4240d915d75f4b7e93c3b,2025-03-09T17:00:00Z,Philadelphia Flyers,New Jersey Devils,betmgm,125,-155,1.5,-190,-1.5,155,5.5,-105,-115
+2025-03-09,NHL,fb6ce82184e4240d915d75f4b7e93c3b,2025-03-09T17:00:00Z,Philadelphia Flyers,New Jersey Devils,caesars,135,-160,1.5,-180,-1.5,152,5.5,100,-120
+2025-03-09,NHL,f3dc489f8eda4b9e3c222fa1281d9770,2025-03-09T19:30:00Z,Minnesota Wild,Pittsburgh Penguins,caesars,-140,118,-1.5,175,1.5,-210,6.0,100,-120
+2025-03-09,NHL,f3dc489f8eda4b9e3c222fa1281d9770,2025-03-09T19:30:00Z,Minnesota Wild,Pittsburgh Penguins,betmgm,-140,115,-1.5,170,1.5,-210,6.0,100,-120
+2025-03-09,NHL,14dbd26e27ecd905a28aa89bd05a6cc1,2025-03-09T19:30:00Z,Washington Capitals,Seattle Kraken,caesars,-260,210,-1.5,-105,1.5,-115,6.0,100,-120
+2025-03-09,NHL,14dbd26e27ecd905a28aa89bd05a6cc1,2025-03-09T19:30:00Z,Washington Capitals,Seattle Kraken,betmgm,-275,225,-1.5,100,1.5,-120,6.0,100,-120
+2025-03-09,NHL,f8d2f98b76bcb2491bf5df9789dcc865,2025-03-09T21:00:00Z,Carolina Hurricanes,Winnipeg Jets,caesars,-130,110,-1.5,205,1.5,-250,5.5,-110,-110
+2025-03-09,NHL,f8d2f98b76bcb2491bf5df9789dcc865,2025-03-09T21:00:00Z,Carolina Hurricanes,Winnipeg Jets,betmgm,-130,110,-1.5,200,1.5,-250,5.5,-115,-105
+2025-03-09,NHL,2055babdac6fffb09cc8902b6fec8f5e,2025-03-09T22:00:00Z,New York Rangers,Columbus Blue Jackets,caesars,-135,115,-1.5,180,1.5,-220,6.5,-105,-115
+2025-03-09,NHL,2055babdac6fffb09cc8902b6fec8f5e,2025-03-09T22:00:00Z,New York Rangers,Columbus Blue Jackets,betmgm,-135,115,-1.5,170,1.5,-210,6.5,-105,-115
+2025-03-09,NHL,f2790a3cee948752528edca7133102e6,2025-03-10T00:00:00Z,Vegas Golden Knights,Los Angeles Kings,caesars,-195,162,-1.5,130,1.5,-155,5.5,-120,100
+2025-03-09,NHL,f2790a3cee948752528edca7133102e6,2025-03-10T00:00:00Z,Vegas Golden Knights,Los Angeles Kings,betmgm,-175,145,-1.5,145,1.5,-180,6.0,100,-120
+2025-03-09,NHL,d78103e3ed862dd9d65e0723c322797b,2025-03-10T01:00:00Z,Anaheim Ducks,New York Islanders,caesars,-105,-115,1.5,-267,-1.5,215,6.0,-105,-115
+2025-03-09,NHL,d78103e3ed862dd9d65e0723c322797b,2025-03-10T01:00:00Z,Anaheim Ducks,New York Islanders,betmgm,-102,-118,1.5,-250,-1.5,200,6.0,-102,-118
+2025-03-09,NHL,f868201d3efc919185661264f10b8535,2025-03-10T01:00:00Z,Vancouver Canucks,Dallas Stars,caesars,118,-140,1.5,-220,-1.5,180,5.5,-120,100
+2025-03-09,NHL,f868201d3efc919185661264f10b8535,2025-03-10T01:00:00Z,Vancouver Canucks,Dallas Stars,betmgm,120,-145,1.5,-210,-1.5,170,5.5,-120,100

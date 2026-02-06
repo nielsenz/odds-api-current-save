@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-11,NHL,680ad4b139a12cca1752d69fddbfd8a4,2025-03-11T23:10:00Z,Boston Bruins,Florida Panthers,caesars,175,-210,1.5,-160,-1.5,135,5.5,-105,-115
+2025-03-11,NHL,680ad4b139a12cca1752d69fddbfd8a4,2025-03-11T23:10:00Z,Boston Bruins,Florida Panthers,betmgm,170,-210,1.5,-150,-1.5,125,5.5,-105,-115
+2025-03-11,NHL,e86451452ca634f8ea391b328b002519,2025-03-11T23:10:00Z,New Jersey Devils,Columbus Blue Jackets,caesars,-160,135,-1.5,158,1.5,-190,5.5,-120,100
+2025-03-11,NHL,e86451452ca634f8ea391b328b002519,2025-03-11T23:10:00Z,New Jersey Devils,Columbus Blue Jackets,betmgm,-160,135,-1.5,150,1.5,-185,5.5,-120,100
+2025-03-11,NHL,31e346dde67b789c521949be04daaae8,2025-03-11T23:10:00Z,Philadelphia Flyers,Ottawa Senators,caesars,-105,-115,1.5,-267,-1.5,215,5.5,-110,-110
+2025-03-11,NHL,31e346dde67b789c521949be04daaae8,2025-03-11T23:10:00Z,Philadelphia Flyers,Ottawa Senators,betmgm,100,-120,1.5,-250,-1.5,200,5.5,-110,-110
+2025-03-11,NHL,d82cd215bc91fe923b6054cef532e21a,2025-03-11T23:10:00Z,Pittsburgh Penguins,Vegas Golden Knights,caesars,158,-190,1.5,-155,-1.5,130,6.5,105,-125
+2025-03-11,NHL,d82cd215bc91fe923b6054cef532e21a,2025-03-11T23:10:00Z,Pittsburgh Penguins,Vegas Golden Knights,betmgm,165,-200,1.5,-150,-1.5,125,6.0,-120,100
+2025-03-11,NHL,92665b12616442f3ecd4be0f276879c2,2025-03-11T23:40:00Z,Carolina Hurricanes,Tampa Bay Lightning,caesars,-135,115,-1.5,180,1.5,-220,5.5,-120,100
+2025-03-11,NHL,92665b12616442f3ecd4be0f276879c2,2025-03-11T23:40:00Z,Carolina Hurricanes,Tampa Bay Lightning,betmgm,-135,115,-1.5,180,1.5,-220,5.5,-120,100
+2025-03-11,NHL,6c1765cdc184abe7b0749e2ed7cd3a47,2025-03-12T00:10:00Z,Minnesota Wild,Colorado Avalanche,caesars,130,-155,1.5,-190,-1.5,158,5.5,-115,-105
+2025-03-11,NHL,6c1765cdc184abe7b0749e2ed7cd3a47,2025-03-12T00:10:00Z,Minnesota Wild,Colorado Avalanche,betmgm,130,-155,1.5,-200,-1.5,165,5.5,-115,-105
+2025-03-11,NHL,4bfe1e3bf129938d7685973f86273884,2025-03-12T00:10:00Z,Winnipeg Jets,New York Rangers,caesars,-190,158,-1.5,140,1.5,-165,6.0,100,-120
+2025-03-11,NHL,4bfe1e3bf129938d7685973f86273884,2025-03-12T00:10:00Z,Winnipeg Jets,New York Rangers,betmgm,-190,155,-1.5,135,1.5,-160,6.0,100,-120
+2025-03-11,NHL,1c8d71d2ff8eae7c825a13ae548947ef,2025-03-12T02:10:00Z,Anaheim Ducks,Washington Capitals,caesars,162,-195,1.5,-160,-1.5,135,6.0,-110,-110
+2025-03-11,NHL,1c8d71d2ff8eae7c825a13ae548947ef,2025-03-12T02:10:00Z,Anaheim Ducks,Washington Capitals,betmgm,165,-200,1.5,-150,-1.5,125,6.0,-110,-110
+2025-03-11,NHL,e06e25d8fb8316678dbd5f1efac2ca63,2025-03-12T02:10:00Z,Vancouver Canucks,Montréal Canadiens,betmgm,-145,120,-1.5,170,1.5,-210,5.5,-110,-110
+2025-03-11,NHL,e06e25d8fb8316678dbd5f1efac2ca63,2025-03-12T02:10:00Z,Vancouver Canucks,Montréal Canadiens,caesars,-145,122,-1.5,180,1.5,-220,5.5,-110,-110
+2025-03-11,NHL,17369518fa9868f4e8af677fbed0d27f,2025-03-12T02:40:00Z,Los Angeles Kings,New York Islanders,caesars,-190,158,-1.5,143,1.5,-170,5.5,100,-120
+2025-03-11,NHL,17369518fa9868f4e8af677fbed0d27f,2025-03-12T02:40:00Z,Los Angeles Kings,New York Islanders,betmgm,-190,155,-1.5,145,1.5,-175,5.5,100,-120
+2025-03-11,NHL,704d2342a11fb88830272009a8dffb60,2025-03-12T02:40:00Z,San Jose Sharks,Nashville Predators,caesars,140,-165,1.5,-170,-1.5,143,6.0,-120,100
+2025-03-11,NHL,704d2342a11fb88830272009a8dffb60,2025-03-12T02:40:00Z,San Jose Sharks,Nashville Predators,betmgm,140,-170,1.5,-175,-1.5,145,6.5,100,-120
+2025-03-11,NHL,631ca587b31bc92f904cd5f2293fbd88,2025-03-12T23:30:00Z,Detroit Red Wings,Buffalo Sabres,betmgm,-135,115,-1.5,185,1.5,-225,6.0,-115,-105
+2025-03-11,NHL,b534f2a53c05db69116764b3097973a9,2025-03-13T01:00:00Z,Calgary Flames,Vancouver Canucks,betmgm,-118,-102,-1.5,200,1.5,-250,5.5,-105,-115
+2025-03-11,NHL,220d5b628770404dfd4067c4ddbc9480,2025-03-13T02:00:00Z,Utah Hockey Club,Anaheim Ducks,betmgm,-235,190,-1.5,110,1.5,-130,6.0,-105,-115
+2025-03-11,NHL,d161138bce6f855d88b0479dfd613e31,2025-03-13T02:30:00Z,Seattle Kraken,Montréal Canadiens,betmgm,-145,120,-1.5,180,1.5,-220,5.5,-120,100

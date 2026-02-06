@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-27,NHL,52d03d9df55ce489443f96eba3cc05d3,2024-03-27T23:00:00Z,Buffalo Sabres,Ottawa Senators,betmgm,-145,120,-1.5,165,1.5,-200,6.5,-105,-115
+2024-03-27,NHL,52d03d9df55ce489443f96eba3cc05d3,2024-03-27T23:00:00Z,Buffalo Sabres,Ottawa Senators,caesars,-140,118,-1.5,170,1.5,-205,6.5,-105,-115
+2024-03-27,NHL,f29f72a5d507c64c69fe822e5620879f,2024-03-27T23:30:00Z,Tampa Bay Lightning,Boston Bruins,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-105,-115
+2024-03-27,NHL,f29f72a5d507c64c69fe822e5620879f,2024-03-27T23:30:00Z,Tampa Bay Lightning,Boston Bruins,caesars,-115,-105,-1.5,215,1.5,-267,6.0,-105,-115

@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-14,NHL,534946a43ead305dc7d5f9fa6916984b,2025-01-15T00:10:00Z,Washington Capitals,Anaheim Ducks,caesars,-267,215,-1.5,-105,1.5,-115,6.0,100,-120
+2025-01-14,NHL,534946a43ead305dc7d5f9fa6916984b,2025-01-15T00:10:00Z,Washington Capitals,Anaheim Ducks,betmgm,-275,220,-1.5,-105,1.5,-115,6.0,100,-120
+2025-01-14,NHL,c8b4d72d4f0d72ad0598434e53050f5a,2025-01-15T00:10:00Z,Boston Bruins,Tampa Bay Lightning,caesars,118,-140,1.5,-220,-1.5,180,5.5,-120,100
+2025-01-14,NHL,c8b4d72d4f0d72ad0598434e53050f5a,2025-01-15T00:10:00Z,Boston Bruins,Tampa Bay Lightning,betmgm,120,-140,1.5,-225,-1.5,180,5.5,-120,100
+2025-01-14,NHL,b169469d481fb7ed175c91d3cc640261,2025-01-15T00:10:00Z,Columbus Blue Jackets,Philadelphia Flyers,betmgm,-110,-110,1.5,-250,-1.5,190,6.5,-110,-110
+2025-01-14,NHL,b169469d481fb7ed175c91d3cc640261,2025-01-15T00:10:00Z,Columbus Blue Jackets,Philadelphia Flyers,caesars,-110,-110,-1.5,222,1.5,-278,6.5,-110,-110
+2025-01-14,NHL,ea7f764dcdbab8eef9c0864b1fd9f9cf,2025-01-15T00:10:00Z,Toronto Maple Leafs,Dallas Stars,caesars,-105,-115,1.5,-260,-1.5,210,5.5,-120,100
+2025-01-14,NHL,ea7f764dcdbab8eef9c0864b1fd9f9cf,2025-01-15T00:10:00Z,Toronto Maple Leafs,Dallas Stars,betmgm,-105,-115,-1.5,200,1.5,-250,5.5,-120,100
+2025-01-14,NHL,4844ed13245dd00c6e69a58ba830db0d,2025-01-15T00:10:00Z,Detroit Red Wings,San Jose Sharks,caesars,-195,162,-1.5,130,1.5,-155,5.5,-115,-105
+2025-01-14,NHL,4844ed13245dd00c6e69a58ba830db0d,2025-01-15T00:10:00Z,Detroit Red Wings,San Jose Sharks,betmgm,-200,165,-1.5,120,1.5,-145,5.5,-115,-105
+2025-01-14,NHL,517ef93b76b15e48705b4645a981f856,2025-01-15T00:10:00Z,Pittsburgh Penguins,Seattle Kraken,caesars,-140,118,-1.5,175,1.5,-210,6.0,-105,-115
+2025-01-14,NHL,517ef93b76b15e48705b4645a981f856,2025-01-15T00:10:00Z,Pittsburgh Penguins,Seattle Kraken,betmgm,-145,120,-1.5,165,1.5,-200,6.0,-115,-105
+2025-01-14,NHL,69bd722e3848ff24ec0b7cffc166e975,2025-01-15T00:40:00Z,New Jersey Devils,Florida Panthers,betmgm,-150,125,-1.5,165,1.5,-200,6.0,-110,-110
+2025-01-14,NHL,69bd722e3848ff24ec0b7cffc166e975,2025-01-15T00:40:00Z,New Jersey Devils,Florida Panthers,caesars,-160,135,-1.5,158,1.5,-190,6.0,-110,-110
+2025-01-14,NHL,1a7d978c0269991484878a2fe079b7b3,2025-01-15T00:40:00Z,New York Islanders,Ottawa Senators,caesars,-120,100,-1.5,210,1.5,-260,5.5,-115,-105
+2025-01-14,NHL,1a7d978c0269991484878a2fe079b7b3,2025-01-15T00:40:00Z,New York Islanders,Ottawa Senators,betmgm,-120,100,-1.5,195,1.5,-250,5.5,-115,-105
+2025-01-14,NHL,5c9f06d80ae8f9653815d50ff6b75e74,2025-01-15T01:10:00Z,St Louis Blues,Calgary Flames,betmgm,-165,140,-1.5,155,1.5,-185,5.5,-120,100
+2025-01-14,NHL,5c9f06d80ae8f9653815d50ff6b75e74,2025-01-15T01:10:00Z,St Louis Blues,Calgary Flames,caesars,-170,143,-1.5,150,1.5,-178,6.0,100,-120
+2025-01-14,NHL,88cfb6de98f6a634d87a8d204e94b60c,2025-01-15T01:10:00Z,Nashville Predators,Vegas Golden Knights,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-105,-115
+2025-01-14,NHL,88cfb6de98f6a634d87a8d204e94b60c,2025-01-15T01:10:00Z,Nashville Predators,Vegas Golden Knights,caesars,100,-120,1.5,-260,-1.5,210,6.0,-105,-115
+2025-01-14,NHL,6a58f1594528c7358b6821068270dd42,2025-01-15T01:10:00Z,Winnipeg Jets,Vancouver Canucks,caesars,-160,135,-1.5,158,1.5,-190,5.5,115,-135
+2025-01-14,NHL,6a58f1594528c7358b6821068270dd42,2025-01-15T01:10:00Z,Winnipeg Jets,Vancouver Canucks,betmgm,-160,135,-1.5,155,1.5,-190,5.5,115,-135
+2025-01-14,NHL,03788eabd9788768a698bbad186f3e3a,2025-01-15T02:10:00Z,Colorado Avalanche,New York Rangers,caesars,-160,135,-1.5,143,1.5,-170,6.5,-105,-115
+2025-01-14,NHL,03788eabd9788768a698bbad186f3e3a,2025-01-15T02:10:00Z,Colorado Avalanche,New York Rangers,betmgm,-165,140,-1.5,145,1.5,-175,6.5,-105,-115
+2025-01-14,NHL,2a0c4518e32a2a473ae361f7dbfad41d,2025-01-15T02:10:00Z,Utah Hockey Club,Montréal Canadiens,caesars,-155,130,-1.5,158,1.5,-190,6.0,-110,-110
+2025-01-14,NHL,2a0c4518e32a2a473ae361f7dbfad41d,2025-01-15T02:10:00Z,Utah Hockey Club,Montréal Canadiens,betmgm,-160,135,-1.5,155,1.5,-190,6.0,-110,-110

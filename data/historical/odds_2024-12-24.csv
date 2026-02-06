@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-12-24,NHL,8eb41095cd17d0872538eae96243ccc5,2024-12-28T00:00:00Z,Columbus Blue Jackets,Boston Bruins,caesars,140,-165,1.5,-190,-1.5,158,6.0,-110,-110
+2024-12-24,NHL,f3b11bf6918eaec55ff0c954ba1beafa,2024-12-28T00:00:00Z,Buffalo Sabres,Chicago Blackhawks,caesars,-178,150,-1.5,143,1.5,-170,6.0,-105,-115
+2024-12-24,NHL,d6db500dc03df53837de7e21d3f2f678,2024-12-28T00:00:00Z,New Jersey Devils,Carolina Hurricanes,caesars,-120,100,-1.5,205,1.5,-250,6.0,-110,-110
+2024-12-24,NHL,47a8710d63edbb6f02980ebc88b79d82,2024-12-28T00:00:00Z,Detroit Red Wings,Toronto Maple Leafs,caesars,140,-165,1.5,-190,-1.5,158,5.5,-135,115
+2024-12-24,NHL,9973711cc0af698ef578e60a6a68badf,2024-12-28T01:00:00Z,Dallas Stars,Minnesota Wild,caesars,-160,135,-1.5,150,1.5,-178,5.5,-130,110
+2024-12-24,NHL,de22bd20e93ccdedbfff5604872390d0,2024-12-28T01:00:00Z,St Louis Blues,Nashville Predators,caesars,100,-120,1.5,-250,-1.5,205,5.5,-110,-110
+2024-12-24,NHL,3737906169d278b82f4bb32e799ab26c,2024-12-28T02:30:00Z,Utah Hockey Club,Colorado Avalanche,caesars,115,-135,1.5,-220,-1.5,180,6.0,-120,100
+2024-12-24,NHL,fb26a2335022a64e99d9c2b1ebdcc65b,2024-12-28T03:30:00Z,San Jose Sharks,Vegas Golden Knights,caesars,205,-250,1.5,-130,-1.5,110,6.0,-110,-110

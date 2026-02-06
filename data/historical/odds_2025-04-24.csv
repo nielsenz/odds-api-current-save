@@ -1,0 +1,17 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-04-24,NHL,cce086ed584d6c104d05ac10ada69537,2025-04-24T22:30:00Z,Tampa Bay Lightning,Florida Panthers,betmgm,-125,105,-1.5,200,1.5,-250,5.5,-115,-105
+2025-04-24,NHL,cce086ed584d6c104d05ac10ada69537,2025-04-24T22:30:00Z,Tampa Bay Lightning,Florida Panthers,caesars,-130,110,-1.5,196,1.5,-240,5.5,-115,-105
+2025-04-24,NHL,9b9c40dc38b03871eae7a47794ccc8ef,2025-04-24T23:10:00Z,Ottawa Senators,Toronto Maple Leafs,betmgm,-125,105,-1.5,200,1.5,-250,5.5,-120,100
+2025-04-24,NHL,9b9c40dc38b03871eae7a47794ccc8ef,2025-04-24T23:10:00Z,Ottawa Senators,Toronto Maple Leafs,caesars,-130,110,-1.5,192,1.5,-235,5.5,-125,105
+2025-04-24,NHL,80dfc3485a65c542a8dddf61cfa76d19,2025-04-25T01:10:00Z,Minnesota Wild,Vegas Golden Knights,betmgm,125,-150,1.5,-210,-1.5,170,5.5,-120,100
+2025-04-24,NHL,80dfc3485a65c542a8dddf61cfa76d19,2025-04-25T01:10:00Z,Minnesota Wild,Vegas Golden Knights,caesars,143,-170,1.5,-190,-1.5,158,5.5,-115,-105
+2025-04-24,NHL,90e205638f1ea0d116987dc35ff3384a,2025-04-25T01:40:00Z,St Louis Blues,Winnipeg Jets,betmgm,100,-120,1.5,-285,-1.5,230,5.0,-130,110
+2025-04-24,NHL,90e205638f1ea0d116987dc35ff3384a,2025-04-25T01:40:00Z,St Louis Blues,Winnipeg Jets,caesars,100,-120,1.5,-278,-1.5,222,5.0,-140,118
+2025-04-24,NHL,033366301b61a19b4ebf4a2817aeb7c7,2025-04-25T23:10:00Z,Montréal Canadiens,Washington Capitals,betmgm,105,-125,1.5,-235,-1.5,190,5.5,-120,100
+2025-04-24,NHL,033366301b61a19b4ebf4a2817aeb7c7,2025-04-25T23:10:00Z,Montréal Canadiens,Washington Capitals,caesars,105,-125,1.5,-250,-1.5,205,5.5,-120,100
+2025-04-24,NHL,3eea308efd49b32e019f292bc3a6a50c,2025-04-26T00:10:00Z,New Jersey Devils,Carolina Hurricanes,betmgm,140,-165,1.5,-200,-1.5,165,5.5,105,-125
+2025-04-24,NHL,3eea308efd49b32e019f292bc3a6a50c,2025-04-26T00:10:00Z,New Jersey Devils,Carolina Hurricanes,caesars,140,-165,1.5,-190,-1.5,158,5.5,105,-125
+2025-04-24,NHL,620a9fe775b75e82adc203ebc808aeea,2025-04-26T02:10:00Z,Edmonton Oilers,Los Angeles Kings,betmgm,-135,115,-1.5,190,1.5,-235,6.0,-110,-110
+2025-04-24,NHL,620a9fe775b75e82adc203ebc808aeea,2025-04-26T02:10:00Z,Edmonton Oilers,Los Angeles Kings,caesars,-135,115,-1.5,192,1.5,-235,6.0,-110,-110
+2025-04-24,NHL,6de534a5a4fbc7c84959f6c9f9400e2c,2025-04-27T01:40:00Z,Colorado Avalanche,Dallas Stars,betmgm,-185,155,-1.5,140,1.5,-165,6.0,-130,100
+2025-04-24,NHL,6de534a5a4fbc7c84959f6c9f9400e2c,2025-04-27T01:40:00Z,Colorado Avalanche,Dallas Stars,caesars,-190,158,-1.5,140,1.5,-165,6.0,-120,100

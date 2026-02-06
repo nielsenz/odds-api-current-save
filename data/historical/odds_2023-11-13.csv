@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-11-13,NHL,ccd2f123ab5fedd2bc400c86113fd28d,2023-11-14T01:30:00Z,Edmonton Oilers,New York Islanders,caesars,-170,143,-1.5,143,1.5,-170,6.5,-105,-115
+2023-11-13,NHL,ccd2f123ab5fedd2bc400c86113fd28d,2023-11-14T01:30:00Z,Edmonton Oilers,New York Islanders,betmgm,-175,145,-1.5,135,1.5,-165,6.0,-120,100
+2023-11-13,NHL,19cda37a3e7fdd6248a942100067004f,2023-11-14T03:00:00Z,Seattle Kraken,Colorado Avalanche,caesars,122,-145,1.5,-205,-1.5,170,6.5,100,-120
+2023-11-13,NHL,19cda37a3e7fdd6248a942100067004f,2023-11-14T03:00:00Z,Seattle Kraken,Colorado Avalanche,betmgm,125,-150,1.5,-190,-1.5,155,6.5,100,-120
+2023-11-13,NHL,ee10dbe40c9d499c40fb91a580553712,2023-11-15T00:00:00Z,Buffalo Sabres,Boston Bruins,caesars,122,-145,1.5,-190,-1.5,158,6.5,105,-125
+2023-11-13,NHL,3be3ed1b4b5a5cdc4fe616ee33cac44b,2023-11-15T00:00:00Z,Montréal Canadiens,Calgary Flames,caesars,130,-155,1.5,-180,-1.5,152,6.5,-110,-110
+2023-11-13,NHL,e19dcda1a4d892a6059e38d79c1e2e52,2023-11-15T00:00:00Z,Columbus Blue Jackets,Pittsburgh Penguins,caesars,143,-170,1.5,-165,-1.5,140,6.5,-125,105
+2023-11-13,NHL,715c99e1807e18ace8496af593e7392b,2023-11-15T00:00:00Z,Washington Capitals,Vegas Golden Knights,caesars,140,-165,1.5,-178,-1.5,150,6.0,-110,-110
+2023-11-13,NHL,37d1d381ef6fed2e8c94c7c16f6476b3,2023-11-15T01:00:00Z,Dallas Stars,Arizona Coyotes,caesars,-220,180,-1.5,115,1.5,-135,6.0,-120,100
+2023-11-13,NHL,c4c1eebfc6f602ce79afeaac4f92cb7f,2023-11-15T01:00:00Z,Winnipeg Jets,New Jersey Devils,caesars,-125,105,-1.5,180,1.5,-220,6.5,-110,-110

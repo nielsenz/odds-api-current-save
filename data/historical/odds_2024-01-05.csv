@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-01-05,NHL,80b6bc56d6c360a2c25fce0c2d869d77,2024-01-06T00:00:00Z,Washington Capitals,Carolina Hurricanes,caesars,148,-175,1.5,-178,-1.5,150,6.0,-105,-115
+2024-01-05,NHL,80b6bc56d6c360a2c25fce0c2d869d77,2024-01-06T00:00:00Z,Washington Capitals,Carolina Hurricanes,betmgm,145,-175,1.5,-165,-1.5,140,6.0,-110,-110
+2024-01-05,NHL,eda664753e5227c547dba2bb7517a764,2024-01-06T00:00:00Z,New Jersey Devils,Chicago Blackhawks,caesars,-455,345,-1.5,-175,1.5,148,6.5,-120,100
+2024-01-05,NHL,eda664753e5227c547dba2bb7517a764,2024-01-06T00:00:00Z,New Jersey Devils,Chicago Blackhawks,betmgm,-450,340,-2.5,110,2.5,-130,6.5,-115,-105
+2024-01-05,NHL,fa551c3c5ceb2ee104fb5510cad5925a,2024-01-06T03:00:00Z,Anaheim Ducks,Winnipeg Jets,betmgm,150,-185,1.5,-160,-1.5,135,6.0,-110,-110
+2024-01-05,NHL,fa551c3c5ceb2ee104fb5510cad5925a,2024-01-06T03:00:00Z,Anaheim Ducks,Winnipeg Jets,caesars,162,-195,1.5,-165,-1.5,140,6.0,-105,-115

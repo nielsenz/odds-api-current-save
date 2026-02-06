@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-04-09,NHL,1504f3663b7b28926c38c5efff0377b8,2024-04-09T23:00:00Z,Boston Bruins,Carolina Hurricanes,betmgm,-105,-115,-1.5,210,1.5,-300,5.5,-110,-110
+2024-04-09,NHL,1504f3663b7b28926c38c5efff0377b8,2024-04-09T23:00:00Z,Boston Bruins,Carolina Hurricanes,caesars,-105,-115,1.5,-267,-1.5,215,5.5,-110,-110
+2024-04-09,NHL,bdc3c67c26574737a9e2cddccd3742c0,2024-04-09T23:00:00Z,Tampa Bay Lightning,Columbus Blue Jackets,betmgm,-350,280,-1.5,-135,1.5,115,6.5,-125,105
+2024-04-09,NHL,bdc3c67c26574737a9e2cddccd3742c0,2024-04-09T23:00:00Z,Tampa Bay Lightning,Columbus Blue Jackets,caesars,-350,275,-1.5,-135,1.5,115,6.5,-125,105
+2024-04-09,NHL,f186c34c39774cb8a3182d77949625d2,2024-04-09T23:00:00Z,Detroit Red Wings,Washington Capitals,betmgm,-155,130,-1.5,155,1.5,-190,6.0,-110,-110
+2024-04-09,NHL,f186c34c39774cb8a3182d77949625d2,2024-04-09T23:00:00Z,Detroit Red Wings,Washington Capitals,caesars,-155,130,-1.5,158,1.5,-190,6.0,-110,-110
+2024-04-09,NHL,426593eeb7e79d4f0fe128eb808dd412,2024-04-09T23:00:00Z,Florida Panthers,Ottawa Senators,betmgm,-250,200,-1.5,100,1.5,-120,6.5,100,-120
+2024-04-09,NHL,426593eeb7e79d4f0fe128eb808dd412,2024-04-09T23:00:00Z,Florida Panthers,Ottawa Senators,caesars,-250,205,-1.5,100,1.5,-120,6.0,-120,100
+2024-04-09,NHL,75b605c5d4f52b8ca632af0027e0d71d,2024-04-09T23:00:00Z,Montréal Canadiens,Philadelphia Flyers,betmgm,115,-135,1.5,-210,-1.5,170,6.0,-110,-110
+2024-04-09,NHL,75b605c5d4f52b8ca632af0027e0d71d,2024-04-09T23:00:00Z,Montréal Canadiens,Philadelphia Flyers,caesars,118,-140,1.5,-210,-1.5,175,6.0,-110,-110
+2024-04-09,NHL,cccb60b33f20177bd12ed476e4ec9bef,2024-04-09T23:00:00Z,New Jersey Devils,Toronto Maple Leafs,betmgm,110,-130,1.5,-225,-1.5,185,6.5,-110,-110
+2024-04-09,NHL,cccb60b33f20177bd12ed476e4ec9bef,2024-04-09T23:00:00Z,New Jersey Devils,Toronto Maple Leafs,caesars,110,-130,1.5,-220,-1.5,180,6.5,-110,-110
+2024-04-09,NHL,db51e6954e7c1e332686c8472f82290d,2024-04-09T23:00:00Z,New York Islanders,New York Rangers,betmgm,110,-130,1.5,-225,-1.5,185,5.5,-115,-105
+2024-04-09,NHL,db51e6954e7c1e332686c8472f82290d,2024-04-09T23:00:00Z,New York Islanders,New York Rangers,caesars,115,-135,1.5,-240,-1.5,196,5.5,-115,-105
+2024-04-09,NHL,8ebbcdabba8bc9bc2baf5691fdb6ecd1,2024-04-10T00:00:00Z,Dallas Stars,Buffalo Sabres,betmgm,-225,180,-1.5,110,1.5,-135,6.0,-120,100
+2024-04-09,NHL,8ebbcdabba8bc9bc2baf5691fdb6ecd1,2024-04-10T00:00:00Z,Dallas Stars,Buffalo Sabres,caesars,-225,185,-1.5,115,1.5,-135,6.0,-120,100
+2024-04-09,NHL,72930322927223e69c1eb7997e9a4b25,2024-04-10T00:00:00Z,Nashville Predators,Winnipeg Jets,betmgm,-110,-110,1.5,-275,-1.5,200,5.5,-120,100
+2024-04-09,NHL,72930322927223e69c1eb7997e9a4b25,2024-04-10T00:00:00Z,Nashville Predators,Winnipeg Jets,caesars,-110,-110,-1.5,228,1.5,-285,5.5,-120,100
+2024-04-09,NHL,86e55376580c740505bdf603b3e1db5e,2024-04-10T01:30:00Z,Colorado Avalanche,Minnesota Wild,betmgm,-200,165,-1.5,120,1.5,-145,6.5,-105,-115
+2024-04-09,NHL,86e55376580c740505bdf603b3e1db5e,2024-04-10T01:30:00Z,Colorado Avalanche,Minnesota Wild,caesars,-205,170,-1.5,118,1.5,-140,6.5,-105,-115
+2024-04-09,NHL,98c7516fed33de50688487fab5e6e74d,2024-04-10T02:00:00Z,Anaheim Ducks,Los Angeles Kings,betmgm,240,-300,1.5,-115,-1.5,-105,5.5,-120,100
+2024-04-09,NHL,98c7516fed33de50688487fab5e6e74d,2024-04-10T02:00:00Z,Anaheim Ducks,Los Angeles Kings,caesars,240,-305,1.5,-110,-1.5,-110,5.5,-120,100
+2024-04-09,NHL,ba3805d22768f4df05fa5f7c9f520e47,2024-04-10T02:00:00Z,Seattle Kraken,Arizona Coyotes,caesars,-145,122,-1.5,170,1.5,-205,6.0,100,-120
+2024-04-09,NHL,ba3805d22768f4df05fa5f7c9f520e47,2024-04-10T02:00:00Z,Seattle Kraken,Arizona Coyotes,betmgm,-145,120,-1.5,165,1.5,-200,6.0,100,-120
+2024-04-09,NHL,b9f77aaaccde83207e3aaebf2bb3c7e3,2024-04-10T02:30:00Z,San Jose Sharks,Calgary Flames,caesars,185,-225,1.5,-135,-1.5,115,6.0,-110,-110
+2024-04-09,NHL,b9f77aaaccde83207e3aaebf2bb3c7e3,2024-04-10T02:30:00Z,San Jose Sharks,Calgary Flames,betmgm,180,-225,1.5,-135,-1.5,110,6.0,-110,-110

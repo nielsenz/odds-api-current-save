@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-05-10,NHL,3c8b9a936d0d6bab6bef5d497aedde9f,2025-05-10T22:10:00Z,Carolina Hurricanes,Washington Capitals,betmgm,-235,190,-1.5,110,1.5,-135,5.5,-110,-110
+2025-05-10,NHL,3c8b9a936d0d6bab6bef5d497aedde9f,2025-05-10T22:10:00Z,Carolina Hurricanes,Washington Capitals,caesars,-250,205,-1.5,105,1.5,-125,5.5,-110,-110
+2025-05-10,NHL,0804798016d50211ab9298d8abf13aa5,2025-05-11T01:10:00Z,Edmonton Oilers,Vegas Golden Knights,betmgm,-130,110,-1.5,180,1.5,-220,6.5,-130,110
+2025-05-10,NHL,0804798016d50211ab9298d8abf13aa5,2025-05-11T01:10:00Z,Edmonton Oilers,Vegas Golden Knights,caesars,-115,-105,-1.5,196,1.5,-240,6.5,-130,110
+2025-05-10,NHL,e446e775f1df9cc4e9b29f933130dc0c,2025-05-11T20:40:00Z,Dallas Stars,Winnipeg Jets,betmgm,-145,120,-1.5,180,1.5,-220,5.5,-110,-110
+2025-05-10,NHL,e446e775f1df9cc4e9b29f933130dc0c,2025-05-11T20:40:00Z,Dallas Stars,Winnipeg Jets,caesars,-150,126,-1.5,178,1.5,-215,5.5,-110,-110
+2025-05-10,NHL,6cada66d468d55e85ee9628141e7ba4a,2025-05-11T23:40:00Z,Florida Panthers,Toronto Maple Leafs,betmgm,-200,165,-1.5,130,1.5,-155,6.0,-120,100
+2025-05-10,NHL,6cada66d468d55e85ee9628141e7ba4a,2025-05-11T23:40:00Z,Florida Panthers,Toronto Maple Leafs,caesars,-190,158,-1.5,135,1.5,-160,6.0,-115,-105

@@ -1,0 +1,6 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-12-15,NHL,fc5648f1088d8253a826a6fcfa9428ae,2025-12-16T00:00:00Z,New York Rangers,Anaheim Ducks,betmgm,-120,100,-1.5,190,1.5,-235,6.5,100,-120
+2025-12-15,NHL,a39d47a325b6e68834e41beb73705e4b,2025-12-16T00:00:00Z,Tampa Bay Lightning,Florida Panthers,betmgm,-130,110,-1.5,190,1.5,-235,6.0,100,-120
+2025-12-15,NHL,18dc3eafcb05abb5d2b89063b0d812fa,2025-12-16T00:30:00Z,Winnipeg Jets,Ottawa Senators,betmgm,-125,105,-1.5,185,1.5,-225,6.0,-105,-115
+2025-12-15,NHL,01356eb2e19017d9fb4ed07263b6c2c9,2025-12-16T01:00:00Z,Dallas Stars,Los Angeles Kings,betmgm,-130,110,-1.5,190,1.5,-235,5.5,105,-130
+2025-12-15,NHL,14b962d03c5ef3a72c429b6067c78e4a,2025-12-16T01:00:00Z,St Louis Blues,Nashville Predators,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,100,-120

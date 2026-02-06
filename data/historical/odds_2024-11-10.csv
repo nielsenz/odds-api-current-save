@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-11-10,NHL,d1e707ee60f15f916dd76d6bb52866e1,2024-11-11T00:10:00Z,Chicago Blackhawks,Minnesota Wild,caesars,162,-195,1.5,-160,-1.5,135,6.0,-105,-115
+2024-11-10,NHL,d1e707ee60f15f916dd76d6bb52866e1,2024-11-11T00:10:00Z,Chicago Blackhawks,Minnesota Wild,betmgm,150,-185,1.5,-165,-1.5,140,6.0,-105,-115
+2024-11-10,NHL,95fc029b865d3cafe47a8cc305b786ed,2024-11-11T00:10:00Z,New Jersey Devils,San Jose Sharks,betmgm,-375,290,-1.5,-135,1.5,115,6.5,-105,-115
+2024-11-10,NHL,95fc029b865d3cafe47a8cc305b786ed,2024-11-11T00:10:00Z,New Jersey Devils,San Jose Sharks,caesars,-355,278,-1.5,-135,1.5,115,6.5,-105,-115
+2024-11-10,NHL,c047bb93eb8b8918fdfa06a485471ae5,2024-11-11T01:10:00Z,Anaheim Ducks,Columbus Blue Jackets,betmgm,-120,100,-1.5,200,1.5,-250,6.5,100,-120
+2024-11-10,NHL,c047bb93eb8b8918fdfa06a485471ae5,2024-11-11T01:10:00Z,Anaheim Ducks,Columbus Blue Jackets,caesars,-120,100,-1.5,196,1.5,-240,6.5,100,-120

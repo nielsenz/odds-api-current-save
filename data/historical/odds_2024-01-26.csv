@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-01-26,NHL,7857e3f9b473a45497e8479a445ec040,2024-01-27T00:00:00Z,Pittsburgh Penguins,Florida Panthers,caesars,115,-135,1.5,-225,-1.5,185,6.0,-115,-105
+2024-01-26,NHL,7857e3f9b473a45497e8479a445ec040,2024-01-27T00:00:00Z,Pittsburgh Penguins,Florida Panthers,betmgm,105,-130,1.5,-225,-1.5,185,6.0,-115,-105
+2024-01-26,NHL,f3e795442c8b5a81ae61e137d55136af,2024-01-27T00:00:00Z,New York Rangers,Vegas Golden Knights,caesars,-160,135,-1.5,162,1.5,-195,6.0,100,-120
+2024-01-26,NHL,f3e795442c8b5a81ae61e137d55136af,2024-01-27T00:00:00Z,New York Rangers,Vegas Golden Knights,betmgm,-150,125,-1.5,165,1.5,-200,6.0,100,-120
+2024-01-26,NHL,c04e360f2f27f339b6ccea22cbd21403,2024-01-27T02:00:00Z,Colorado Avalanche,Los Angeles Kings,caesars,-150,126,-1.5,170,1.5,-205,6.5,-105,-115
+2024-01-26,NHL,c04e360f2f27f339b6ccea22cbd21403,2024-01-27T02:00:00Z,Colorado Avalanche,Los Angeles Kings,betmgm,-150,125,-1.5,155,1.5,-190,6.5,-105,-115
+2024-01-26,NHL,fc7a9936aa85d1f2bb0bda4037505c59,2024-01-27T03:00:00Z,Seattle Kraken,St Louis Blues,betmgm,-165,140,-1.5,145,1.5,-175,6.0,-105,-115
+2024-01-26,NHL,fc7a9936aa85d1f2bb0bda4037505c59,2024-01-27T03:00:00Z,Seattle Kraken,St Louis Blues,caesars,-170,143,-1.5,158,1.5,-190,6.0,-105,-115

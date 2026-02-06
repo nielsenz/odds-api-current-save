@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-02-11,NHL,841182c3b96214246b6db9d9a96cc72a,2024-02-11T18:00:00Z,Montréal Canadiens,St Louis Blues,betmgm,105,-125,1.5,-225,-1.5,185,6.0,-120,100
+2024-02-11,NHL,841182c3b96214246b6db9d9a96cc72a,2024-02-11T18:00:00Z,Montréal Canadiens,St Louis Blues,caesars,105,-125,1.5,-250,-1.5,205,6.0,-120,100
+2024-02-11,NHL,2c680a8ddcba83fdeece730c77e53cfe,2024-02-11T18:30:00Z,Washington Capitals,Vancouver Canucks,betmgm,145,-175,1.5,-165,-1.5,135,6.0,-110,-110
+2024-02-11,NHL,2c680a8ddcba83fdeece730c77e53cfe,2024-02-11T18:30:00Z,Washington Capitals,Vancouver Canucks,caesars,158,-190,1.5,-165,-1.5,140,6.0,-110,-110

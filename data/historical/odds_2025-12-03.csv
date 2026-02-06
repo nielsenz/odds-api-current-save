@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-12-03,NHL,db571f5d2b2dbed64ccdc21824ae846b,2025-12-04T00:10:00Z,New Jersey Devils,Dallas Stars,caesars,-115,-105,-1.5,210,1.5,-260,6.0,-105,-115
+2025-12-03,NHL,db571f5d2b2dbed64ccdc21824ae846b,2025-12-04T00:10:00Z,New Jersey Devils,Dallas Stars,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-105,-115
+2025-12-03,NHL,1e2071a1f0e4c630c396f1353b1f0921,2025-12-04T00:40:00Z,Philadelphia Flyers,Buffalo Sabres,caesars,115,-135,1.5,-235,-1.5,192,6.0,-115,-105
+2025-12-03,NHL,1e2071a1f0e4c630c396f1353b1f0921,2025-12-04T00:40:00Z,Philadelphia Flyers,Buffalo Sabres,betmgm,110,-135,1.5,-210,-1.5,170,6.0,-120,100
+2025-12-03,NHL,eb086e0eb0fe3efafae8fe8bf04c69a0,2025-12-04T00:40:00Z,Montréal Canadiens,Winnipeg Jets,caesars,100,-120,1.5,-260,-1.5,210,6.5,100,-120
+2025-12-03,NHL,eb086e0eb0fe3efafae8fe8bf04c69a0,2025-12-04T00:40:00Z,Montréal Canadiens,Winnipeg Jets,betmgm,100,-120,1.5,-235,-1.5,190,6.5,100,-120
+2025-12-03,NHL,a30858294e58051dc9222d8917763901,2025-12-04T03:10:00Z,Anaheim Ducks,Utah Mammoth,caesars,-110,-110,1.5,-267,-1.5,215,6.5,-115,-105
+2025-12-03,NHL,a30858294e58051dc9222d8917763901,2025-12-04T03:10:00Z,Anaheim Ducks,Utah Mammoth,betmgm,-110,-110,1.5,-250,-1.5,200,6.5,-115,-105
+2025-12-03,NHL,f57340991e86dc61f37839555eeeb8e2,2025-12-04T03:10:00Z,San Jose Sharks,Washington Capitals,caesars,130,-155,1.5,-190,-1.5,158,6.0,-115,-105
+2025-12-03,NHL,f57340991e86dc61f37839555eeeb8e2,2025-12-04T03:10:00Z,San Jose Sharks,Washington Capitals,betmgm,135,-160,1.5,-175,-1.5,145,6.0,-120,100

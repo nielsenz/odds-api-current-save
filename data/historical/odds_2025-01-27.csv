@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-27,NHL,75f6a95c27a6cb2811c3b24f107080bc,2025-01-28T00:00:00Z,Detroit Red Wings,Los Angeles Kings,caesars,122,-145,1.5,-210,-1.5,175,5.5,-105,-115
+2025-01-27,NHL,75f6a95c27a6cb2811c3b24f107080bc,2025-01-28T00:00:00Z,Detroit Red Wings,Los Angeles Kings,betmgm,125,-145,1.5,-210,-1.5,170,5.5,-105,-115
+2025-01-27,NHL,7648c071dcc621b8d428f55f3337b704,2025-01-28T00:00:00Z,Philadelphia Flyers,New Jersey Devils,caesars,118,-140,1.5,-220,-1.5,180,5.5,-120,100
+2025-01-27,NHL,7648c071dcc621b8d428f55f3337b704,2025-01-28T00:00:00Z,Philadelphia Flyers,New Jersey Devils,betmgm,118,-140,1.5,-225,-1.5,185,5.5,-118,-102
+2025-01-27,NHL,36517bac1dc1ef4b6e55afe8ac5f3a4f,2025-01-28T00:30:00Z,St Louis Blues,Vancouver Canucks,caesars,-135,115,-1.5,192,1.5,-235,5.5,105,-125
+2025-01-27,NHL,36517bac1dc1ef4b6e55afe8ac5f3a4f,2025-01-28T00:30:00Z,St Louis Blues,Vancouver Canucks,betmgm,-135,115,-1.5,190,1.5,-235,5.5,110,-130
+2025-01-27,NHL,ced257bd481c4a96cbafbf39c9ff93ec,2025-01-28T02:30:00Z,Edmonton Oilers,Seattle Kraken,caesars,-305,240,-1.5,-110,1.5,-110,6.0,-125,105
+2025-01-27,NHL,ced257bd481c4a96cbafbf39c9ff93ec,2025-01-28T02:30:00Z,Edmonton Oilers,Seattle Kraken,betmgm,-300,240,-1.5,-115,1.5,-105,6.0,-125,105
+2025-01-27,NHL,d9af83bd6e62c3cfa295fdf2fa49c77d,2025-01-28T03:30:00Z,San Jose Sharks,Pittsburgh Penguins,caesars,140,-165,1.5,-180,-1.5,152,6.5,-110,-110
+2025-01-27,NHL,d9af83bd6e62c3cfa295fdf2fa49c77d,2025-01-28T03:30:00Z,San Jose Sharks,Pittsburgh Penguins,betmgm,140,-165,1.5,-175,-1.5,145,6.5,-110,-110

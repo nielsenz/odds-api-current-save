@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-12-09,NHL,794d0d208dfb1933357ad4f8076b51df,2024-12-10T00:00:00Z,Buffalo Sabres,Detroit Red Wings,caesars,-120,100,-1.5,192,1.5,-235,6.0,-120,100
+2024-12-09,NHL,794d0d208dfb1933357ad4f8076b51df,2024-12-10T00:00:00Z,Buffalo Sabres,Detroit Red Wings,betmgm,-125,105,-1.5,180,1.5,-225,6.0,-115,-105
+2024-12-09,NHL,39fa9e9dc1d44310e3178812cfbd62cb,2024-12-10T00:00:00Z,New York Rangers,Chicago Blackhawks,betmgm,-250,200,-1.5,100,1.5,-120,6.0,-105,-115
+2024-12-09,NHL,39fa9e9dc1d44310e3178812cfbd62cb,2024-12-10T00:00:00Z,New York Rangers,Chicago Blackhawks,caesars,-267,215,-1.5,100,1.5,-120,6.0,-110,-110
+2024-12-09,NHL,a065d13f9c5f8d1df6eb693996c40b16,2024-12-10T00:30:00Z,Montréal Canadiens,Anaheim Ducks,caesars,-145,122,-1.5,170,1.5,-205,6.0,-120,100
+2024-12-09,NHL,a065d13f9c5f8d1df6eb693996c40b16,2024-12-10T00:30:00Z,Montréal Canadiens,Anaheim Ducks,betmgm,-145,120,-1.5,165,1.5,-200,6.0,-120,100

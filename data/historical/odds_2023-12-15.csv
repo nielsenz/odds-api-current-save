@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-12-15,NHL,5655c8fcf72dca7cce3b85818d88db76,2023-12-16T00:00:00Z,New York Rangers,Anaheim Ducks,caesars,-320,250,-1.5,-120,1.5,100,6.0,-120,100
+2023-12-15,NHL,5655c8fcf72dca7cce3b85818d88db76,2023-12-16T00:00:00Z,New York Rangers,Anaheim Ducks,betmgm,-300,240,-1.5,-115,1.5,-105,6.0,-120,100
+2023-12-15,NHL,d9981a710ec3ee37a13a2c28aaf41ae1,2023-12-16T00:30:00Z,New York Islanders,Boston Bruins,betmgm,105,-125,1.5,-250,-1.5,190,5.5,-120,100
+2023-12-15,NHL,d9981a710ec3ee37a13a2c28aaf41ae1,2023-12-16T00:30:00Z,New York Islanders,Boston Bruins,caesars,105,-125,1.5,-250,-1.5,205,5.5,-120,100
+2023-12-15,NHL,e747e1cac61aa33066678fe8d1897d7c,2023-12-16T00:30:00Z,Carolina Hurricanes,Nashville Predators,caesars,-160,135,-1.5,158,1.5,-190,6.0,-120,100
+2023-12-15,NHL,e747e1cac61aa33066678fe8d1897d7c,2023-12-16T00:30:00Z,Carolina Hurricanes,Nashville Predators,betmgm,-155,130,-1.5,150,1.5,-185,6.0,-115,-105
+2023-12-15,NHL,82e022cf668d09f6def6b226678e5bee,2023-12-16T01:00:00Z,Dallas Stars,Ottawa Senators,caesars,-205,170,-1.5,118,1.5,-140,6.5,-105,-115
+2023-12-15,NHL,82e022cf668d09f6def6b226678e5bee,2023-12-16T01:00:00Z,Dallas Stars,Ottawa Senators,betmgm,-210,170,-1.5,125,1.5,-150,6.5,100,-120
+2023-12-15,NHL,69e8f7b9499632408801fe0f13ebbd4a,2023-12-16T02:00:00Z,Arizona Coyotes,San Jose Sharks,caesars,-190,158,-1.5,126,1.5,-150,6.5,105,-125
+2023-12-15,NHL,69e8f7b9499632408801fe0f13ebbd4a,2023-12-16T02:00:00Z,Arizona Coyotes,San Jose Sharks,betmgm,-190,155,-1.5,125,1.5,-150,6.0,-120,100
+2023-12-15,NHL,c7eadb82e651969ad7b4fc26cfec3ebe,2023-12-16T03:00:00Z,Vegas Golden Knights,Buffalo Sabres,caesars,-225,185,-1.5,100,1.5,-120,6.5,100,-120
+2023-12-15,NHL,c7eadb82e651969ad7b4fc26cfec3ebe,2023-12-16T03:00:00Z,Vegas Golden Knights,Buffalo Sabres,betmgm,-225,180,-1.5,100,1.5,-120,6.5,-105,-115

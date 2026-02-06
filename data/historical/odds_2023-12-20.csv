@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-12-20,NHL,8d1c1db0b3f805d30bc9689888962e13,2023-12-21T00:30:00Z,Winnipeg Jets,Detroit Red Wings,caesars,-155,130,-1.5,150,1.5,-178,6.5,-110,-110
+2023-12-20,NHL,8d1c1db0b3f805d30bc9689888962e13,2023-12-21T00:30:00Z,Winnipeg Jets,Detroit Red Wings,betmgm,-160,135,-1.5,150,1.5,-185,6.5,-110,-110
+2023-12-20,NHL,26de5f991b639601d91deee6271dd7d9,2023-12-21T00:30:00Z,Washington Capitals,New York Islanders,caesars,-125,105,-1.5,196,1.5,-240,5.5,-125,105
+2023-12-20,NHL,26de5f991b639601d91deee6271dd7d9,2023-12-21T00:30:00Z,Washington Capitals,New York Islanders,betmgm,-125,105,-1.5,195,1.5,-250,6.0,100,-120
+2023-12-20,NHL,ed6cd5a9a10b1088c279af4e58bcc01a,2023-12-21T03:00:00Z,Los Angeles Kings,Seattle Kraken,caesars,-170,143,-1.5,143,1.5,-170,6.0,-110,-110
+2023-12-20,NHL,ed6cd5a9a10b1088c279af4e58bcc01a,2023-12-21T03:00:00Z,Los Angeles Kings,Seattle Kraken,betmgm,-165,140,-1.5,145,1.5,-175,6.0,-110,-110

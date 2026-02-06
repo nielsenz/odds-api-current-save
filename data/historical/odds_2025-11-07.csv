@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-07,NHL,30fec95005c9a4d5469f1737f9f26163,2025-11-08T00:00:00Z,Detroit Red Wings,New York Rangers,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-110,-110
+2025-11-07,NHL,30fec95005c9a4d5469f1737f9f26163,2025-11-08T00:00:00Z,Detroit Red Wings,New York Rangers,caesars,-110,-110,-1.5,196,1.5,-240,6.0,100,-120
+2025-11-07,NHL,01b635c254471a04faf48c3a7d07ab7b,2025-11-08T00:00:00Z,New York Islanders,Minnesota Wild,betmgm,-150,125,-1.5,154,1.5,-190,6.5,-115,-105
+2025-11-07,NHL,01b635c254471a04faf48c3a7d07ab7b,2025-11-08T00:00:00Z,New York Islanders,Minnesota Wild,caesars,-155,130,-1.5,170,1.5,-205,6.5,-110,-110
+2025-11-07,NHL,069f3e230499a26e0473f3263fc664bc,2025-11-08T02:00:00Z,Calgary Flames,Chicago Blackhawks,betmgm,-145,118,-1.5,165,1.5,-200,6.0,-110,-110
+2025-11-07,NHL,069f3e230499a26e0473f3263fc664bc,2025-11-08T02:00:00Z,Calgary Flames,Chicago Blackhawks,caesars,-155,130,-1.5,170,1.5,-205,6.0,-110,-110
+2025-11-07,NHL,b999802253f77da8d3c226b211d51ee3,2025-11-08T03:00:00Z,San Jose Sharks,Winnipeg Jets,betmgm,165,-200,1.5,-145,-1.5,118,6.5,100,-120
+2025-11-07,NHL,b999802253f77da8d3c226b211d51ee3,2025-11-08T03:00:00Z,San Jose Sharks,Winnipeg Jets,caesars,162,-195,1.5,-145,-1.5,122,6.5,100,-120

@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-01-03,NHL,b4180b54df8d523fba1f6164f152d42d,2026-01-03T17:10:00Z,Detroit Red Wings,Pittsburgh Penguins,betmgm,-130,110,-1.5,185,1.5,-225,6.5,100,-120
+2026-01-03,NHL,b4180b54df8d523fba1f6164f152d42d,2026-01-03T17:10:00Z,Detroit Red Wings,Pittsburgh Penguins,caesars,-140,118,-1.5,175,1.5,-210,6.5,-115,-105
+2026-01-03,NHL,1c3ff0037d7cd64226da1f920d445195,2026-01-03T20:10:00Z,Columbus Blue Jackets,Buffalo Sabres,betmgm,-105,-115,1.5,-275,-1.5,220,6.5,-110,-110
+2026-01-03,NHL,1c3ff0037d7cd64226da1f920d445195,2026-01-03T20:10:00Z,Columbus Blue Jackets,Buffalo Sabres,caesars,-110,-110,1.5,-267,-1.5,215,6.5,-110,-110
+2026-01-03,NHL,90c4d5d2ec038190512f61652d9d4211,2026-01-03T20:10:00Z,New Jersey Devils,Utah Mammoth,betmgm,-120,100,-1.5,200,1.5,-250,5.5,-115,-105
+2026-01-03,NHL,90c4d5d2ec038190512f61652d9d4211,2026-01-03T20:10:00Z,New Jersey Devils,Utah Mammoth,caesars,-120,100,-1.5,205,1.5,-250,5.5,-115,-105
+2026-01-03,NHL,71233e6ca6cd74f5535ee92e14997ed9,2026-01-03T20:40:00Z,Edmonton Oilers,Philadelphia Flyers,betmgm,-165,140,-1.5,145,1.5,-175,6.5,100,-120
+2026-01-03,NHL,71233e6ca6cd74f5535ee92e14997ed9,2026-01-03T20:40:00Z,Edmonton Oilers,Philadelphia Flyers,caesars,-170,143,-1.5,143,1.5,-170,6.5,-105,-115
+2026-01-03,NHL,c41456483858ea4a9b61032f520abe61,2026-01-03T21:10:00Z,St Louis Blues,Montréal Canadiens,betmgm,118,-140,1.5,-210,-1.5,170,6.0,-118,-102
+2026-01-03,NHL,c41456483858ea4a9b61032f520abe61,2026-01-03T21:10:00Z,St Louis Blues,Montréal Canadiens,caesars,118,-140,1.5,-220,-1.5,180,6.0,-115,-105
+2026-01-03,NHL,4a237be0f47ce8c760ec710b26c47b77,2026-01-03T21:10:00Z,San Jose Sharks,Tampa Bay Lightning,betmgm,180,-220,1.5,-135,-1.5,110,6.0,-118,-102
+2026-01-03,NHL,4a237be0f47ce8c760ec710b26c47b77,2026-01-03T21:10:00Z,San Jose Sharks,Tampa Bay Lightning,caesars,180,-220,1.5,-135,-1.5,115,6.5,105,-125
+2026-01-03,NHL,7452a86e45e8c5bdbd85db535612486a,2026-01-04T00:10:00Z,Calgary Flames,Nashville Predators,betmgm,-120,100,-1.5,195,1.5,-235,5.5,-118,-102
+2026-01-03,NHL,7452a86e45e8c5bdbd85db535612486a,2026-01-04T00:10:00Z,Calgary Flames,Nashville Predators,caesars,-120,100,-1.5,205,1.5,-250,5.5,-120,100
+2026-01-03,NHL,3ebb6f0dc61ecb82bfa0838c23311a2f,2026-01-04T00:10:00Z,Carolina Hurricanes,Colorado Avalanche,caesars,118,-140,1.5,-220,-1.5,180,6.5,100,-120
+2026-01-03,NHL,3ebb6f0dc61ecb82bfa0838c23311a2f,2026-01-04T00:10:00Z,Carolina Hurricanes,Colorado Avalanche,betmgm,115,-135,1.5,-210,-1.5,170,6.5,100,-120
+2026-01-03,NHL,5febbf846d5b0ddc59e62f93834ff31f,2026-01-04T00:10:00Z,Washington Capitals,Chicago Blackhawks,betmgm,-285,225,-1.5,-110,1.5,-110,6.0,-105,-115
+2026-01-03,NHL,5febbf846d5b0ddc59e62f93834ff31f,2026-01-04T00:10:00Z,Washington Capitals,Chicago Blackhawks,caesars,-285,228,-1.5,-110,1.5,-110,6.0,-105,-115
+2026-01-03,NHL,93af71b927f3b8e2e6d346b0b521880c,2026-01-04T00:10:00Z,New York Islanders,Toronto Maple Leafs,betmgm,-110,-110,-1.5,220,1.5,-275,6.0,-102,-118
+2026-01-03,NHL,93af71b927f3b8e2e6d346b0b521880c,2026-01-04T00:10:00Z,New York Islanders,Toronto Maple Leafs,caesars,-105,-115,1.5,-285,-1.5,228,6.0,100,-120
+2026-01-03,NHL,cfe8acc16e2d07d648a620d19d462251,2026-01-04T00:10:00Z,Ottawa Senators,Winnipeg Jets,betmgm,-125,105,-1.5,190,1.5,-235,6.0,100,-120
+2026-01-03,NHL,cfe8acc16e2d07d648a620d19d462251,2026-01-04T00:10:00Z,Ottawa Senators,Winnipeg Jets,caesars,-125,105,-1.5,192,1.5,-235,5.5,-120,100
+2026-01-03,NHL,8dd854b2484ae4a12f654ff08dc98425,2026-01-04T02:10:00Z,Los Angeles Kings,Minnesota Wild,betmgm,-120,100,-1.5,195,1.5,-235,5.5,-120,100
+2026-01-03,NHL,8dd854b2484ae4a12f654ff08dc98425,2026-01-04T02:10:00Z,Los Angeles Kings,Minnesota Wild,caesars,-120,100,-1.5,192,1.5,-235,5.5,-120,100
+2026-01-03,NHL,faf80729f91aab53b3f410f335402373,2026-01-04T03:10:00Z,Vancouver Canucks,Boston Bruins,betmgm,110,-130,1.5,-225,-1.5,185,6.0,-115,-105
+2026-01-03,NHL,faf80729f91aab53b3f410f335402373,2026-01-04T03:10:00Z,Vancouver Canucks,Boston Bruins,caesars,110,-130,1.5,-235,-1.5,192,6.0,-110,-110

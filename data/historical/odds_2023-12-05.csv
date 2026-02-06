@@ -1,0 +1,17 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-12-05,NHL,2db5ddae5ecc48036d6cc48f79d2e1a6,2023-12-06T00:00:00Z,Columbus Blue Jackets,Los Angeles Kings,caesars,180,-220,1.5,-135,-1.5,115,6.0,-115,-105
+2023-12-05,NHL,2db5ddae5ecc48036d6cc48f79d2e1a6,2023-12-06T00:00:00Z,Columbus Blue Jackets,Los Angeles Kings,betmgm,180,-225,1.5,-140,-1.5,115,6.0,-115,-105
+2023-12-05,NHL,18977e5a74f777d13989434b3895f226,2023-12-06T00:00:00Z,Ottawa Senators,New York Rangers,caesars,118,-140,1.5,-210,-1.5,175,6.5,100,-120
+2023-12-05,NHL,18977e5a74f777d13989434b3895f226,2023-12-06T00:00:00Z,Ottawa Senators,New York Rangers,betmgm,115,-140,1.5,-210,-1.5,170,6.5,100,-120
+2023-12-05,NHL,b170de0025eee0fb987d85de0fff9abc,2023-12-06T00:30:00Z,Buffalo Sabres,Detroit Red Wings,caesars,110,-130,1.5,-225,-1.5,185,6.5,-110,-110
+2023-12-05,NHL,b170de0025eee0fb987d85de0fff9abc,2023-12-06T00:30:00Z,Buffalo Sabres,Detroit Red Wings,betmgm,105,-125,1.5,-225,-1.5,185,6.5,-110,-110
+2023-12-05,NHL,99b0272180ead4f8ac68511a6cd4d6db,2023-12-06T00:30:00Z,New York Islanders,San Jose Sharks,caesars,-305,240,-1.5,-125,1.5,105,5.5,-120,100
+2023-12-05,NHL,99b0272180ead4f8ac68511a6cd4d6db,2023-12-06T00:30:00Z,New York Islanders,San Jose Sharks,betmgm,-300,240,-1.5,-120,1.5,100,5.5,-120,100
+2023-12-05,NHL,79cceacad2047da3360ee3e42600a126,2023-12-06T01:30:00Z,Chicago Blackhawks,Nashville Predators,caesars,158,-190,1.5,-160,-1.5,135,6.5,105,-125
+2023-12-05,NHL,79cceacad2047da3360ee3e42600a126,2023-12-06T01:30:00Z,Chicago Blackhawks,Nashville Predators,betmgm,150,-185,1.5,-160,-1.5,135,6.5,100,-120
+2023-12-05,NHL,86779f399df25a2bec3e22e3816beb73,2023-12-06T02:00:00Z,Colorado Avalanche,Anaheim Ducks,caesars,-335,260,-1.5,-125,1.5,105,6.5,-115,-105
+2023-12-05,NHL,86779f399df25a2bec3e22e3816beb73,2023-12-06T02:00:00Z,Colorado Avalanche,Anaheim Ducks,betmgm,-350,260,-1.5,-130,1.5,105,6.5,-115,-105
+2023-12-05,NHL,390892e18e113cd3dfdc0c39f6526606,2023-12-06T02:00:00Z,Calgary Flames,Minnesota Wild,caesars,-105,-115,1.5,-267,-1.5,215,6.0,-125,105
+2023-12-05,NHL,390892e18e113cd3dfdc0c39f6526606,2023-12-06T02:00:00Z,Calgary Flames,Minnesota Wild,betmgm,-105,-115,1.5,-250,-1.5,200,6.5,100,-120
+2023-12-05,NHL,9ba25a5862440ee77b85807ade024a02,2023-12-06T03:00:00Z,Vancouver Canucks,New Jersey Devils,caesars,-115,-105,-1.5,205,1.5,-250,6.5,-140,118
+2023-12-05,NHL,9ba25a5862440ee77b85807ade024a02,2023-12-06T03:00:00Z,Vancouver Canucks,New Jersey Devils,betmgm,-110,-110,-1.5,200,1.5,-250,7.0,110,-135

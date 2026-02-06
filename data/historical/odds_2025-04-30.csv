@@ -1,0 +1,6 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-04-30,NHL,e6d47dbda2486624318931ddafdeb7f6,2025-04-30T23:10:00Z,Washington Capitals,Montréal Canadiens,caesars,-205,170,-1.5,135,1.5,-160,6.0,-110,-110
+2025-04-30,NHL,d1ed71b9fcd649808c54195b62adc067,2025-04-30T23:40:00Z,Tampa Bay Lightning,Florida Panthers,caesars,-115,-105,-1.5,215,1.5,-267,5.5,-115,-105
+2025-04-30,NHL,f2298df256216ae9cea14f72e2776b29,2025-05-01T01:40:00Z,Winnipeg Jets,St Louis Blues,caesars,-178,150,-1.5,158,1.5,-190,5.5,118,-140
+2025-04-30,NHL,7325346aebd601846eca4c9e87ffd232,2025-05-01T23:10:00Z,Ottawa Senators,Toronto Maple Leafs,caesars,-120,100,-1.5,215,1.5,-267,5.5,100,-120
+2025-04-30,NHL,66d001744b59d735f96695efa58325d0,2025-05-02T01:40:00Z,Colorado Avalanche,Dallas Stars,caesars,-178,150,-1.5,140,1.5,-165,6.0,-120,100

@@ -1,0 +1,25 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-11-30,NHL,90f88912b8de8be1318c8f24b0f89b7f,2024-11-30T18:00:00Z,New York Rangers,Montréal Canadiens,betmgm,-175,150,-1.5,135,1.5,-160,6.5,-105,-115
+2024-11-30,NHL,90f88912b8de8be1318c8f24b0f89b7f,2024-11-30T18:00:00Z,New York Rangers,Montréal Canadiens,caesars,-195,162,-1.5,135,1.5,-160,6.5,-105,-115
+2024-11-30,NHL,b96c322188e391326b47ba773b81584d,2024-11-30T21:00:00Z,Florida Panthers,Carolina Hurricanes,betmgm,-110,-110,-1.5,200,1.5,-250,6.5,-110,-110
+2024-11-30,NHL,b96c322188e391326b47ba773b81584d,2024-11-30T21:00:00Z,Florida Panthers,Carolina Hurricanes,caesars,-110,-110,-1.5,210,1.5,-260,6.5,-110,-110
+2024-11-30,NHL,4c105120f454d93b727285592f242857,2024-12-01T00:00:00Z,Pittsburgh Penguins,Calgary Flames,caesars,-120,100,-1.5,205,1.5,-250,6.0,-120,100
+2024-11-30,NHL,4c105120f454d93b727285592f242857,2024-12-01T00:00:00Z,Pittsburgh Penguins,Calgary Flames,betmgm,-120,100,-1.5,200,1.5,-250,6.0,-120,100
+2024-11-30,NHL,8a3b4bb9c5e6542f7877d012902e29c9,2024-12-01T00:00:00Z,Los Angeles Kings,Ottawa Senators,caesars,-120,100,-1.5,210,1.5,-260,6.0,105,-125
+2024-11-30,NHL,8a3b4bb9c5e6542f7877d012902e29c9,2024-12-01T00:00:00Z,Los Angeles Kings,Ottawa Senators,betmgm,-120,100,-1.5,200,1.5,-250,6.0,100,-120
+2024-11-30,NHL,09fe9cf27c808346997e26cc18fec79f,2024-12-01T00:00:00Z,New Jersey Devils,Washington Capitals,betmgm,-165,140,-1.5,145,1.5,-175,6.0,-120,100
+2024-11-30,NHL,09fe9cf27c808346997e26cc18fec79f,2024-12-01T00:00:00Z,New Jersey Devils,Washington Capitals,caesars,-160,135,-1.5,150,1.5,-178,6.0,-120,100
+2024-11-30,NHL,34dc3fca8e922bdfdb79fd2d9e7652af,2024-12-01T00:00:00Z,St Louis Blues,Philadelphia Flyers,caesars,-135,115,-1.5,180,1.5,-220,6.0,100,-120
+2024-11-30,NHL,34dc3fca8e922bdfdb79fd2d9e7652af,2024-12-01T00:00:00Z,St Louis Blues,Philadelphia Flyers,betmgm,-135,115,-1.5,180,1.5,-225,6.0,100,-120
+2024-11-30,NHL,0f20700438458f4cc754ee050d1257e7,2024-12-01T00:00:00Z,Tampa Bay Lightning,Toronto Maple Leafs,caesars,118,-140,1.5,-225,-1.5,185,6.5,105,-125
+2024-11-30,NHL,0f20700438458f4cc754ee050d1257e7,2024-12-01T00:00:00Z,Tampa Bay Lightning,Toronto Maple Leafs,betmgm,120,-140,1.5,-225,-1.5,180,6.5,100,-120
+2024-11-30,NHL,40db3f856114c27935908aa8e313e57f,2024-12-01T00:30:00Z,New York Islanders,Buffalo Sabres,caesars,-125,105,-1.5,205,1.5,-250,5.5,-120,100
+2024-11-30,NHL,40db3f856114c27935908aa8e313e57f,2024-12-01T00:30:00Z,New York Islanders,Buffalo Sabres,betmgm,-125,105,-1.5,200,1.5,-250,5.5,-120,100
+2024-11-30,NHL,5b8ab17f7a4f50889a2d08af53bc6825,2024-12-01T01:00:00Z,Minnesota Wild,Nashville Predators,caesars,-145,122,-1.5,175,1.5,-210,5.5,-120,100
+2024-11-30,NHL,5b8ab17f7a4f50889a2d08af53bc6825,2024-12-01T01:00:00Z,Minnesota Wild,Nashville Predators,betmgm,-145,120,-1.5,170,1.5,-210,5.5,-120,100
+2024-11-30,NHL,8ccff0794731b94f9b3b03bf2b66af29,2024-12-01T03:00:00Z,Colorado Avalanche,Edmonton Oilers,caesars,-135,115,-1.5,192,1.5,-235,6.5,-115,-105
+2024-11-30,NHL,8ccff0794731b94f9b3b03bf2b66af29,2024-12-01T03:00:00Z,Colorado Avalanche,Edmonton Oilers,betmgm,-130,110,-1.5,185,1.5,-225,6.5,-115,-105
+2024-11-30,NHL,8cd3fa25e0dbcd2d3bc6f9e1fa81ee9a,2024-12-01T03:00:00Z,Seattle Kraken,San Jose Sharks,caesars,-215,178,-1.5,122,1.5,-145,6.0,100,-120
+2024-11-30,NHL,8cd3fa25e0dbcd2d3bc6f9e1fa81ee9a,2024-12-01T03:00:00Z,Seattle Kraken,San Jose Sharks,betmgm,-210,170,-1.5,120,1.5,-145,6.0,100,-120
+2024-11-30,NHL,95d8c3ab95cd9f2556ed768cab0878ad,2024-12-01T03:00:00Z,Vegas Golden Knights,Utah Hockey Club,caesars,-165,140,-1.5,150,1.5,-178,6.5,-115,-105
+2024-11-30,NHL,95d8c3ab95cd9f2556ed768cab0878ad,2024-12-01T03:00:00Z,Vegas Golden Knights,Utah Hockey Club,betmgm,-160,135,-1.5,145,1.5,-175,6.5,-110,-110

@@ -1,0 +1,6 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-10-22,NHL,1c9026ee8ea28c6826eee61126bce0b2,2023-10-22T21:00:00Z,Detroit Red Wings,Calgary Flames,caesars,122,-145,1.5,-205,-1.5,170,6.5,-120,100
+2023-10-22,NHL,1c9026ee8ea28c6826eee61126bce0b2,2023-10-22T21:00:00Z,Detroit Red Wings,Calgary Flames,betmgm,120,-145,1.5,-190,-1.5,155,6.5,-120,100
+2023-10-22,NHL,7d00a0552f63b6be32ae22263be7c7e7,2023-10-23T00:30:00Z,Anaheim Ducks,Boston Bruins,caesars,205,-250,1.5,-120,-1.5,100,6.0,-110,-110
+2023-10-22,NHL,7d00a0552f63b6be32ae22263be7c7e7,2023-10-23T00:30:00Z,Anaheim Ducks,Boston Bruins,betmgm,200,-250,1.5,-120,-1.5,100,6.0,-110,-110
+2023-10-22,NHL,890cbc5db3685a3de74ad2bf1550f3b1,2023-10-23T23:00:00Z,Buffalo Sabres,Montréal Canadiens,caesars,-170,143,-1.5,130,1.5,-155,6.5,-120,100

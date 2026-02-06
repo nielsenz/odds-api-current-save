@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-19,NHL,16ed5bd30963a6ded561b93d1a09b1f1,2025-03-19T23:00:00Z,Toronto Maple Leafs,Colorado Avalanche,betmgm,100,-120,1.5,-250,-1.5,200,6.0,-110,-110
+2025-03-19,NHL,16ed5bd30963a6ded561b93d1a09b1f1,2025-03-19T23:00:00Z,Toronto Maple Leafs,Colorado Avalanche,caesars,110,-130,1.5,-235,-1.5,192,6.0,-110,-110
+2025-03-19,NHL,80528e3ac6eb40c990e6231ffe15f115,2025-03-20T01:30:00Z,Minnesota Wild,Seattle Kraken,betmgm,-160,135,-1.5,155,1.5,-190,5.5,-115,-105
+2025-03-19,NHL,80528e3ac6eb40c990e6231ffe15f115,2025-03-20T01:30:00Z,Minnesota Wild,Seattle Kraken,caesars,-160,135,-1.5,158,1.5,-190,5.5,-110,-110

@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-01-12,NHL,135a00db9b943cdbb46fa7a15eaefa44,2024-01-13T01:00:00Z,Dallas Stars,Nashville Predators,caesars,-178,150,-1.5,143,1.5,-170,6.5,-110,-110
+2024-01-12,NHL,135a00db9b943cdbb46fa7a15eaefa44,2024-01-13T01:00:00Z,Dallas Stars,Nashville Predators,betmgm,-175,145,-1.5,140,1.5,-165,6.5,-110,-110
+2024-01-12,NHL,d1744544ed5dd65577f73b4b71456fef,2024-01-13T01:00:00Z,Minnesota Wild,Philadelphia Flyers,caesars,-115,-105,-1.5,210,1.5,-260,6.0,100,-120
+2024-01-12,NHL,d1744544ed5dd65577f73b4b71456fef,2024-01-13T01:00:00Z,Minnesota Wild,Philadelphia Flyers,betmgm,-115,-105,-1.5,200,1.5,-250,6.0,-105,-115

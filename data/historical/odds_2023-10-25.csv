@@ -1,0 +1,4 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-10-25,NHL,59b515b7f07f272f944f430f1214271a,2023-10-25T23:37:00Z,New Jersey Devils,Washington Capitals,caesars,-250,205,-1.5,100,1.5,-120,6.5,-130,110
+2023-10-25,NHL,59b515b7f07f272f944f430f1214271a,2023-10-25T23:37:00Z,New Jersey Devils,Washington Capitals,betmgm,-250,200,-1.5,-105,1.5,-115,6.5,-130,105
+2023-10-25,NHL,d24f0f3742eb467eb420e1b164b6b092,2023-10-26T23:00:00Z,Boston Bruins,Anaheim Ducks,caesars,-320,250,-1.5,-115,1.5,-105,6.0,-110,-110

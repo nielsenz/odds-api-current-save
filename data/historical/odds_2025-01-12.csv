@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-12,NHL,56258e659864ed8539c780cc53fa5624,2025-01-12T20:00:00Z,Detroit Red Wings,Seattle Kraken,betmgm,-160,135,-1.5,155,1.5,-190,6.0,-105,-115
+2025-01-12,NHL,56258e659864ed8539c780cc53fa5624,2025-01-12T20:00:00Z,Detroit Red Wings,Seattle Kraken,caesars,-165,140,-1.5,158,1.5,-190,6.0,-105,-115
+2025-01-12,NHL,dc0194a84cab6e749def0fe98cf29a63,2025-01-12T22:00:00Z,Carolina Hurricanes,Anaheim Ducks,betmgm,-550,400,-2.5,115,2.5,-135,6.0,-120,100
+2025-01-12,NHL,dc0194a84cab6e749def0fe98cf29a63,2025-01-12T22:00:00Z,Carolina Hurricanes,Anaheim Ducks,caesars,-550,400,-1.5,-190,1.5,158,6.0,-120,100
+2025-01-12,NHL,e12b47a07a43611c48225de8fafa3ceb,2025-01-12T22:00:00Z,Ottawa Senators,Dallas Stars,betmgm,120,-140,1.5,-225,-1.5,180,6.0,100,-120
+2025-01-12,NHL,e12b47a07a43611c48225de8fafa3ceb,2025-01-12T22:00:00Z,Ottawa Senators,Dallas Stars,caesars,122,-145,1.5,-225,-1.5,185,6.0,100,-120
+2025-01-12,NHL,f3f4abbcbb889c782da78a82060434b5,2025-01-12T22:00:00Z,Pittsburgh Penguins,Tampa Bay Lightning,betmgm,125,-150,1.5,-190,-1.5,155,6.5,-130,110
+2025-01-12,NHL,f3f4abbcbb889c782da78a82060434b5,2025-01-12T22:00:00Z,Pittsburgh Penguins,Tampa Bay Lightning,caesars,122,-145,1.5,-190,-1.5,158,6.5,-130,110
+2025-01-12,NHL,31cc126e4e422ad0c3c0fbd15d2a359f,2025-01-13T01:00:00Z,Vegas Golden Knights,Minnesota Wild,betmgm,-185,150,-1.5,140,1.5,-165,6.0,-115,-105
+2025-01-12,NHL,31cc126e4e422ad0c3c0fbd15d2a359f,2025-01-13T01:00:00Z,Vegas Golden Knights,Minnesota Wild,caesars,-190,158,-1.5,140,1.5,-165,6.0,-115,-105

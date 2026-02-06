@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-11-26,NHL,77f4fd53c9507651a3740dd6d95c9a14,2024-11-27T00:00:00Z,Boston Bruins,Vancouver Canucks,caesars,-120,100,-1.5,215,1.5,-267,5.5,105,-125
+2024-11-26,NHL,77f4fd53c9507651a3740dd6d95c9a14,2024-11-27T00:00:00Z,Boston Bruins,Vancouver Canucks,betmgm,-120,100,-1.5,195,1.5,-250,5.5,105,-125
+2024-11-26,NHL,758cdc515f59d625ff17ab64aa0bfe67,2024-11-27T00:00:00Z,Montréal Canadiens,Utah Hockey Club,caesars,115,-135,1.5,-235,-1.5,192,6.0,-115,-105
+2024-11-26,NHL,758cdc515f59d625ff17ab64aa0bfe67,2024-11-27T00:00:00Z,Montréal Canadiens,Utah Hockey Club,betmgm,110,-130,1.5,-210,-1.5,170,6.0,-115,-105

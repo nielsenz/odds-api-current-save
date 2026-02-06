@@ -1,0 +1,12 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-13,NHL,80e66c71ae0bb8210d6409914d85a64a,2025-11-14T00:10:00Z,Detroit Red Wings,Anaheim Ducks,betmgm,-150,125,-1.5,154,1.5,-190,6.5,-115,-105
+2025-11-13,NHL,c1ba858b7ebcab0577d84634db9195f6,2025-11-14T00:10:00Z,Ottawa Senators,Boston Bruins,betmgm,-155,130,-1.5,154,1.5,-185,6.0,-110,-110
+2025-11-13,NHL,dfd6af187aee0615e856d30b900d5411,2025-11-14T00:10:00Z,Montréal Canadiens,Dallas Stars,betmgm,-120,100,-1.5,200,1.5,-250,5.5,-120,100
+2025-11-13,NHL,63f6ab19d51b87d9727345b5e2b6044b,2025-11-14T00:10:00Z,Florida Panthers,Washington Capitals,betmgm,-120,100,-1.5,195,1.5,-235,5.5,-115,-105
+2025-11-13,NHL,71f8ed63fc501e4cc1f41bf1374a132b,2025-11-14T00:10:00Z,Toronto Maple Leafs,Los Angeles Kings,betmgm,115,-135,1.5,-220,-1.5,180,6.0,-105,-115
+2025-11-13,NHL,830ae7964563d8ddb15a547f842d7767,2025-11-14T00:40:00Z,Columbus Blue Jackets,Edmonton Oilers,betmgm,-115,-105,-1.5,195,1.5,-235,6.5,-110,-110
+2025-11-13,NHL,23fc135031dd9603a89a7cc80e01615d,2025-11-14T02:10:00Z,Colorado Avalanche,Buffalo Sabres,betmgm,-375,290,-1.5,-135,1.5,115,6.5,-110,-110
+2025-11-13,NHL,0a1518a6bfc5928073bdc1dd14dfd8a4,2025-11-14T02:10:00Z,Calgary Flames,San Jose Sharks,betmgm,-160,135,-1.5,145,1.5,-175,6.0,-110,-110
+2025-11-13,NHL,1ebe608cbe9d4df92bdc3afa7fecf93a,2025-11-14T03:10:00Z,Vegas Golden Knights,New York Islanders,betmgm,-190,155,-1.5,125,1.5,-150,6.0,-118,-102
+2025-11-13,NHL,956a8d0f6da00f7a78cc8fcd28d38697,2025-11-14T03:10:00Z,Seattle Kraken,Winnipeg Jets,betmgm,118,-145,1.5,-200,-1.5,165,5.5,-120,100
+2025-11-13,NHL,5032d91bbd469628f7b77aaf42470092,2025-11-14T19:15:00Z,Nashville Predators,Pittsburgh Penguins,betmgm,-110,-110,1.5,-250,-1.5,200,6.5,-102,-118

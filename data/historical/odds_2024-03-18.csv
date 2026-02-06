@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-18,NHL,2aeab0a9d68f90299e8f38870d1d816c,2024-03-19T00:30:00Z,Calgary Flames,Washington Capitals,caesars,-135,115,-1.5,180,1.5,-220,6.0,-115,-105
+2024-03-18,NHL,2aeab0a9d68f90299e8f38870d1d816c,2024-03-19T00:30:00Z,Calgary Flames,Washington Capitals,betmgm,-130,110,-1.5,170,1.5,-210,6.0,-115,-105
+2024-03-18,NHL,18378867ee8ca87539713b426bfbf887,2024-03-19T02:00:00Z,Seattle Kraken,Buffalo Sabres,caesars,-115,-105,-1.5,210,1.5,-260,5.5,-115,-105
+2024-03-18,NHL,18378867ee8ca87539713b426bfbf887,2024-03-19T02:00:00Z,Seattle Kraken,Buffalo Sabres,betmgm,-120,100,-1.5,200,1.5,-250,5.5,-115,-105

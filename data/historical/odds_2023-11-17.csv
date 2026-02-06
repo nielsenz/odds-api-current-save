@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-11-17,NHL,d0dc637182b2119166e934a4651652f3,2023-11-17T19:00:00Z,Detroit Red Wings,Toronto Maple Leafs,caesars,150,-178,1.5,-160,-1.5,135,6.5,-145,122
+2023-11-17,NHL,d0dc637182b2119166e934a4651652f3,2023-11-17T19:00:00Z,Detroit Red Wings,Toronto Maple Leafs,betmgm,145,-175,1.5,-160,-1.5,135,6.5,-140,115
+2023-11-17,NHL,532a64b98b536a3b9a5372bfaaf5160e,2023-11-18T01:00:00Z,Winnipeg Jets,Buffalo Sabres,caesars,-170,143,-1.5,150,1.5,-178,6.5,-125,105
+2023-11-17,NHL,532a64b98b536a3b9a5372bfaaf5160e,2023-11-18T01:00:00Z,Winnipeg Jets,Buffalo Sabres,betmgm,-165,140,-1.5,135,1.5,-165,6.5,-130,105
+2023-11-17,NHL,885ccfb5f60e2163b61aadebd764cc98,2023-11-18T03:00:00Z,Anaheim Ducks,Florida Panthers,caesars,150,-178,1.5,-170,-1.5,143,6.5,-130,110
+2023-11-17,NHL,885ccfb5f60e2163b61aadebd764cc98,2023-11-18T03:00:00Z,Anaheim Ducks,Florida Panthers,betmgm,140,-165,1.5,-160,-1.5,135,6.5,-135,110

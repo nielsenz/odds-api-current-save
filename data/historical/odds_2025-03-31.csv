@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-31,NHL,566ccc51d40b1c64a9ca6339806424fc,2025-03-31T23:10:00Z,New Jersey Devils,Minnesota Wild,betmgm,-155,130,-1.5,165,1.5,-200,5.5,115,-135
+2025-03-31,NHL,566ccc51d40b1c64a9ca6339806424fc,2025-03-31T23:10:00Z,New Jersey Devils,Minnesota Wild,caesars,-155,130,-1.5,162,1.5,-195,5.5,115,-135
+2025-03-31,NHL,3555583683b54c5843b4fbddb0899f06,2025-03-31T23:10:00Z,Philadelphia Flyers,Nashville Predators,betmgm,-120,100,-1.5,200,1.5,-250,5.5,-110,-110
+2025-03-31,NHL,3555583683b54c5843b4fbddb0899f06,2025-03-31T23:10:00Z,Philadelphia Flyers,Nashville Predators,caesars,-125,105,-1.5,205,1.5,-250,5.5,-125,105
+2025-03-31,NHL,45679ef5395720df6afd7d68dbad22a2,2025-04-01T00:40:00Z,Colorado Avalanche,Calgary Flames,betmgm,-275,220,-1.5,100,1.5,-120,6.0,100,-120
+2025-03-31,NHL,45679ef5395720df6afd7d68dbad22a2,2025-04-01T00:40:00Z,Colorado Avalanche,Calgary Flames,caesars,-278,222,-1.5,-105,1.5,-115,6.0,-105,-115
+2025-03-31,NHL,0137ec49ff1ada0ea2bf16a446c8c76f,2025-04-01T02:10:00Z,Seattle Kraken,Dallas Stars,betmgm,140,-170,1.5,-175,-1.5,145,6.5,-105,-115
+2025-03-31,NHL,0137ec49ff1ada0ea2bf16a446c8c76f,2025-04-01T02:10:00Z,Seattle Kraken,Dallas Stars,caesars,140,-165,1.5,-178,-1.5,150,6.5,-110,-110

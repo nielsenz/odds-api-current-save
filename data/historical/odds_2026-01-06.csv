@@ -1,0 +1,21 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-01-06,NHL,66fc467b9046d59e0068709550c3bb11,2026-01-07T00:00:00Z,Philadelphia Flyers,Anaheim Ducks,betmgm,-145,120,-1.5,165,1.5,-200,6.5,100,-120
+2026-01-06,NHL,66fc467b9046d59e0068709550c3bb11,2026-01-07T00:00:00Z,Philadelphia Flyers,Anaheim Ducks,caesars,-155,130,-1.5,170,1.5,-205,6.5,105,-125
+2026-01-06,NHL,2c157d2d944d2195d9f45cadddbf8233,2026-01-07T00:00:00Z,Buffalo Sabres,Vancouver Canucks,betmgm,-170,140,-1.5,140,1.5,-170,6.0,-118,-102
+2026-01-06,NHL,2c157d2d944d2195d9f45cadddbf8233,2026-01-07T00:00:00Z,Buffalo Sabres,Vancouver Canucks,caesars,-170,143,-1.5,150,1.5,-178,6.0,-115,-105
+2026-01-06,NHL,b81221d02ef682dbb16d91923cd846b9,2026-01-07T00:00:00Z,Carolina Hurricanes,Dallas Stars,betmgm,-140,115,-1.5,170,1.5,-210,6.5,100,-120
+2026-01-06,NHL,b81221d02ef682dbb16d91923cd846b9,2026-01-07T00:00:00Z,Carolina Hurricanes,Dallas Stars,caesars,-140,118,-1.5,175,1.5,-210,6.5,100,-120
+2026-01-06,NHL,aed8e33c316acae3ac679b4fcdaac48f,2026-01-07T00:00:00Z,Tampa Bay Lightning,Colorado Avalanche,betmgm,-102,-118,1.5,-250,-1.5,200,6.5,100,-120
+2026-01-06,NHL,aed8e33c316acae3ac679b4fcdaac48f,2026-01-07T00:00:00Z,Tampa Bay Lightning,Colorado Avalanche,caesars,-105,-115,1.5,-250,-1.5,205,6.5,100,-120
+2026-01-06,NHL,acb6b7d948ed3b1d6f1cab7f080b7337,2026-01-07T00:30:00Z,Toronto Maple Leafs,Florida Panthers,betmgm,100,-120,1.5,-235,-1.5,195,6.0,-118,-102
+2026-01-06,NHL,acb6b7d948ed3b1d6f1cab7f080b7337,2026-01-07T00:30:00Z,Toronto Maple Leafs,Florida Panthers,caesars,100,-120,1.5,-250,-1.5,205,6.0,-110,-110
+2026-01-06,NHL,a68b168cc345b7cc8045d1fad6c32122,2026-01-07T00:30:00Z,New York Islanders,New Jersey Devils,betmgm,-102,-118,1.5,-250,-1.5,200,5.5,-102,-118
+2026-01-06,NHL,a68b168cc345b7cc8045d1fad6c32122,2026-01-07T00:30:00Z,New York Islanders,New Jersey Devils,caesars,-105,-115,1.5,-235,-1.5,192,5.5,100,-120
+2026-01-06,NHL,fe3324df3153b6e682d75f625b704b5d,2026-01-07T01:00:00Z,Winnipeg Jets,Vegas Golden Knights,betmgm,-110,-110,1.5,-285,-1.5,210,6.0,-105,-115
+2026-01-06,NHL,fe3324df3153b6e682d75f625b704b5d,2026-01-07T01:00:00Z,Winnipeg Jets,Vegas Golden Knights,caesars,-110,-110,1.5,-260,-1.5,210,6.0,100,-120
+2026-01-06,NHL,b3c3802074aa0b3ebad6472ce6d8e14f,2026-01-07T02:00:00Z,Edmonton Oilers,Nashville Predators,betmgm,-155,130,-1.5,154,1.5,-190,6.5,-105,-115
+2026-01-06,NHL,b3c3802074aa0b3ebad6472ce6d8e14f,2026-01-07T02:00:00Z,Edmonton Oilers,Nashville Predators,caesars,-155,130,-1.5,158,1.5,-190,6.5,-105,-115
+2026-01-06,NHL,285ef282aee5f823dc4749cd0fed42b7,2026-01-07T03:00:00Z,Seattle Kraken,Boston Bruins,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,100,-120
+2026-01-06,NHL,285ef282aee5f823dc4749cd0fed42b7,2026-01-07T03:00:00Z,Seattle Kraken,Boston Bruins,caesars,100,-120,1.5,-260,-1.5,210,6.0,100,-120
+2026-01-06,NHL,b9aa26ed027ce97c4054035f9b60bf07,2026-01-07T03:00:00Z,San Jose Sharks,Columbus Blue Jackets,betmgm,105,-125,1.5,-220,-1.5,180,6.5,-125,105
+2026-01-06,NHL,b9aa26ed027ce97c4054035f9b60bf07,2026-01-07T03:00:00Z,San Jose Sharks,Columbus Blue Jackets,caesars,105,-125,1.5,-225,-1.5,185,6.5,-130,110

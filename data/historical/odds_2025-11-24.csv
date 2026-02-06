@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-24,NHL,2920f1d8fe5df8ae42234986c36edacc,2025-11-25T00:10:00Z,Washington Capitals,Columbus Blue Jackets,caesars,-160,135,-1.5,150,1.5,-178,6.5,100,-120
+2025-11-24,NHL,2920f1d8fe5df8ae42234986c36edacc,2025-11-25T00:10:00Z,Washington Capitals,Columbus Blue Jackets,betmgm,-160,135,-1.5,145,1.5,-175,6.5,100,-120
+2025-11-24,NHL,e743834c6c41ec559284bbfa5c639ed0,2025-11-25T00:10:00Z,New Jersey Devils,Detroit Red Wings,caesars,-135,115,-1.5,180,1.5,-220,6.0,-105,-115
+2025-11-24,NHL,e743834c6c41ec559284bbfa5c639ed0,2025-11-25T00:10:00Z,New Jersey Devils,Detroit Red Wings,betmgm,-135,115,-1.5,180,1.5,-220,6.0,-105,-115
+2025-11-24,NHL,6d8d86563175b40761af7b3811b72ac1,2025-11-25T00:10:00Z,New York Rangers,St Louis Blues,caesars,-140,118,-1.5,180,1.5,-220,5.5,-105,-115
+2025-11-24,NHL,6d8d86563175b40761af7b3811b72ac1,2025-11-25T00:10:00Z,New York Rangers,St Louis Blues,betmgm,-145,120,-1.5,170,1.5,-210,5.5,100,-120
+2025-11-24,NHL,9787348ca977b31c4e74946996ad4731,2025-11-25T00:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,caesars,-175,148,-1.5,143,1.5,-170,6.0,100,-120
+2025-11-24,NHL,9787348ca977b31c4e74946996ad4731,2025-11-25T00:10:00Z,Tampa Bay Lightning,Philadelphia Flyers,betmgm,-175,145,-1.5,140,1.5,-170,6.0,-105,-115
+2025-11-24,NHL,dcbddccfa1005b850998953d92fe58c2,2025-11-25T01:10:00Z,Nashville Predators,Florida Panthers,caesars,115,-135,1.5,-220,-1.5,180,5.5,-125,105
+2025-11-24,NHL,dcbddccfa1005b850998953d92fe58c2,2025-11-25T01:10:00Z,Nashville Predators,Florida Panthers,betmgm,120,-145,1.5,-200,-1.5,165,6.0,100,-120
+2025-11-24,NHL,908b7e13b66706ed495630c0f37429b6,2025-11-25T02:10:00Z,Los Angeles Kings,Ottawa Senators,caesars,-145,122,-1.5,180,1.5,-220,5.5,105,-125
+2025-11-24,NHL,908b7e13b66706ed495630c0f37429b6,2025-11-25T02:10:00Z,Los Angeles Kings,Ottawa Senators,betmgm,-140,115,-1.5,180,1.5,-220,5.5,105,-125
+2025-11-24,NHL,eabe557cb36bf288311a831806dd2003,2025-11-25T02:10:00Z,Utah Mammoth,Vegas Golden Knights,caesars,-105,-115,1.5,-250,-1.5,205,6.0,-105,-115
+2025-11-24,NHL,eabe557cb36bf288311a831806dd2003,2025-11-25T02:10:00Z,Utah Mammoth,Vegas Golden Knights,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-105,-115

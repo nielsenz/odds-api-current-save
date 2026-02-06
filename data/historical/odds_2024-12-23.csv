@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-12-23,NHL,af5a319668863aeac54444bd3556a325,2024-12-23T18:00:00Z,New Jersey Devils,New York Rangers,caesars,-250,205,-1.5,105,1.5,-125,6.0,-115,-105
+2024-12-23,NHL,af5a319668863aeac54444bd3556a325,2024-12-23T18:00:00Z,New Jersey Devils,New York Rangers,betmgm,-250,200,-1.5,110,1.5,-130,6.0,-115,-105
+2024-12-23,NHL,059284266971fcfe18a91aa4b199efbe,2024-12-23T19:00:00Z,Toronto Maple Leafs,Winnipeg Jets,caesars,-120,100,-1.5,210,1.5,-260,6.0,100,-120
+2024-12-23,NHL,059284266971fcfe18a91aa4b199efbe,2024-12-23T19:00:00Z,Toronto Maple Leafs,Winnipeg Jets,betmgm,-120,100,-1.5,200,1.5,-250,6.0,100,-120
+2024-12-23,NHL,9d6255a58b107ffb19c361f6b33d7854,2024-12-24T00:00:00Z,Boston Bruins,Washington Capitals,betmgm,-130,110,-1.5,200,1.5,-250,5.5,-115,-105
+2024-12-23,NHL,9d6255a58b107ffb19c361f6b33d7854,2024-12-24T00:00:00Z,Boston Bruins,Washington Capitals,caesars,-130,110,-1.5,196,1.5,-240,5.5,-115,-105
+2024-12-23,NHL,3d764ccbe8b5a774a108daed2135bb19,2024-12-24T00:00:00Z,Columbus Blue Jackets,Montréal Canadiens,betmgm,-140,120,-1.5,170,1.5,-210,6.5,-105,-115
+2024-12-23,NHL,3d764ccbe8b5a774a108daed2135bb19,2024-12-24T00:00:00Z,Columbus Blue Jackets,Montréal Canadiens,caesars,-130,110,-1.5,178,1.5,-215,6.5,100,-120
+2024-12-23,NHL,7e51f121fd8826fe702b70142fafc0ee,2024-12-24T00:00:00Z,Detroit Red Wings,St Louis Blues,caesars,-115,-105,-1.5,215,1.5,-267,5.5,-120,100
+2024-12-23,NHL,7e51f121fd8826fe702b70142fafc0ee,2024-12-24T00:00:00Z,Detroit Red Wings,St Louis Blues,betmgm,-115,-105,-1.5,200,1.5,-250,5.5,-120,100
+2024-12-23,NHL,a8a56dbcf09ead7b246f1a0513f29a90,2024-12-24T00:00:00Z,Florida Panthers,Tampa Bay Lightning,caesars,-155,130,-1.5,158,1.5,-190,6.5,-110,-110
+2024-12-23,NHL,a8a56dbcf09ead7b246f1a0513f29a90,2024-12-24T00:00:00Z,Florida Panthers,Tampa Bay Lightning,betmgm,-150,125,-1.5,155,1.5,-190,6.5,-110,-110
+2024-12-23,NHL,60e22037530137a0c310f8b9bec7f01f,2024-12-24T00:00:00Z,Pittsburgh Penguins,Philadelphia Flyers,caesars,-125,105,-1.5,196,1.5,-240,6.5,-105,-115
+2024-12-23,NHL,60e22037530137a0c310f8b9bec7f01f,2024-12-24T00:00:00Z,Pittsburgh Penguins,Philadelphia Flyers,betmgm,-125,105,-1.5,200,1.5,-250,6.5,-105,-115
+2024-12-23,NHL,8bdfaf8944d8e9ef38cab38cb4b71868,2024-12-24T00:30:00Z,New York Islanders,Buffalo Sabres,caesars,-155,130,-1.5,162,1.5,-195,5.5,-120,100
+2024-12-23,NHL,8bdfaf8944d8e9ef38cab38cb4b71868,2024-12-24T00:30:00Z,New York Islanders,Buffalo Sabres,betmgm,-155,130,-1.5,155,1.5,-190,5.5,-120,100
+2024-12-23,NHL,e9a18c781ccaa509e41656b7e3a54c06,2024-12-24T01:00:00Z,Nashville Predators,Carolina Hurricanes,caesars,105,-125,1.5,-240,-1.5,196,6.0,-105,-115
+2024-12-23,NHL,e9a18c781ccaa509e41656b7e3a54c06,2024-12-24T01:00:00Z,Nashville Predators,Carolina Hurricanes,betmgm,105,-125,1.5,-250,-1.5,200,6.0,-105,-115
+2024-12-23,NHL,fa4954d3693fc962ae0454b0f473acac,2024-12-24T01:00:00Z,Minnesota Wild,Chicago Blackhawks,caesars,-225,185,-1.5,122,1.5,-145,5.5,-115,-105
+2024-12-23,NHL,fa4954d3693fc962ae0454b0f473acac,2024-12-24T01:00:00Z,Minnesota Wild,Chicago Blackhawks,betmgm,-225,185,-1.5,120,1.5,-145,5.5,-115,-105
+2024-12-23,NHL,ff34983a759297a4b4cbcdd7f95576c7,2024-12-24T02:00:00Z,Utah Hockey Club,Dallas Stars,caesars,135,-160,1.5,-190,-1.5,158,6.0,-110,-110
+2024-12-23,NHL,ff34983a759297a4b4cbcdd7f95576c7,2024-12-24T02:00:00Z,Utah Hockey Club,Dallas Stars,betmgm,135,-160,1.5,-185,-1.5,150,6.0,-115,-105
+2024-12-23,NHL,f9cce0070126baed76b3809a3005e2e5,2024-12-24T02:00:00Z,Vancouver Canucks,San Jose Sharks,caesars,-260,210,-1.5,100,1.5,-120,6.0,-105,-115
+2024-12-23,NHL,f9cce0070126baed76b3809a3005e2e5,2024-12-24T02:00:00Z,Vancouver Canucks,San Jose Sharks,betmgm,-275,220,-1.5,100,1.5,-120,6.0,-105,-115
+2024-12-23,NHL,38fd081501a02ff6b1064fb85082e6f3,2024-12-24T03:00:00Z,Vegas Golden Knights,Anaheim Ducks,caesars,-345,270,-1.5,-125,1.5,105,6.5,-105,-115
+2024-12-23,NHL,38fd081501a02ff6b1064fb85082e6f3,2024-12-24T03:00:00Z,Vegas Golden Knights,Anaheim Ducks,betmgm,-350,260,-1.5,-125,1.5,105,6.5,-105,-115

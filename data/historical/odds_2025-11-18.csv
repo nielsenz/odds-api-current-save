@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-18,NHL,acbb4f37e799b2022a0e20dca8a62f00,2025-11-19T00:00:00Z,Detroit Red Wings,Seattle Kraken,caesars,-170,143,-1.5,158,1.5,-190,6.0,-110,-110
+2025-11-18,NHL,55afa01d1ca36eb6cc1184ba15130a2b,2025-11-19T00:00:00Z,Tampa Bay Lightning,New Jersey Devils,caesars,-170,143,-1.5,158,1.5,-190,6.0,-110,-110
+2025-11-18,NHL,bbb4773f9970bf1288d59ec80c886294,2025-11-19T00:00:00Z,Toronto Maple Leafs,St Louis Blues,caesars,-120,100,-1.5,215,1.5,-267,6.0,-115,-105
+2025-11-18,NHL,1f556c3f198c08b6b98c8e6dad21b371,2025-11-19T01:00:00Z,Winnipeg Jets,Columbus Blue Jackets,caesars,-178,150,-1.5,140,1.5,-165,6.5,-110,-110
+2025-11-18,NHL,38c2607714ad9064f6e13e3dfc18a520,2025-11-19T01:00:00Z,Dallas Stars,New York Islanders,caesars,-170,143,-1.5,150,1.5,-178,6.0,-120,100
+2025-11-18,NHL,8cdf01ab36798f37e2d3333e4cc0c278,2025-11-19T01:30:00Z,Chicago Blackhawks,Calgary Flames,caesars,100,-120,1.5,-260,-1.5,210,6.0,100,-120
+2025-11-18,NHL,2e3b25e5ce0918896adbb48636bad71e,2025-11-19T03:00:00Z,Vegas Golden Knights,New York Rangers,caesars,-135,115,-1.5,178,1.5,-215,6.0,100,-120
+2025-11-18,NHL,8b9eb8afec98d44d152bd040a4bc718f,2025-11-19T03:00:00Z,San Jose Sharks,Utah Mammoth,caesars,115,-135,1.5,-210,-1.5,175,6.0,-120,100

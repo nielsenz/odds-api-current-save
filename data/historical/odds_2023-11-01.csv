@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-11-01,NHL,23579455d46a8cb479626f47bf1c4304,2023-11-01T23:00:00Z,Philadelphia Flyers,Buffalo Sabres,caesars,-110,-110,1.5,-260,-1.5,210,6.5,-130,110
+2023-11-01,NHL,23579455d46a8cb479626f47bf1c4304,2023-11-01T23:00:00Z,Philadelphia Flyers,Buffalo Sabres,betmgm,-110,-110,-1.5,200,1.5,-250,6.5,-135,115
+2023-11-01,NHL,0656c2c1c9b2fdcbc0c919d1f4f6af04,2023-11-02T00:30:00Z,Calgary Flames,Dallas Stars,caesars,115,-135,1.5,-225,-1.5,185,5.5,-120,100
+2023-11-01,NHL,0656c2c1c9b2fdcbc0c919d1f4f6af04,2023-11-02T00:30:00Z,Calgary Flames,Dallas Stars,betmgm,110,-135,1.5,-225,-1.5,180,5.5,-120,100
+2023-11-01,NHL,04d1a4e69085023a3cb0d2c58ea1bab3,2023-11-02T01:30:00Z,Colorado Avalanche,St Louis Blues,caesars,-235,192,-1.5,105,1.5,-125,6.5,-105,-115
+2023-11-01,NHL,04d1a4e69085023a3cb0d2c58ea1bab3,2023-11-02T01:30:00Z,Colorado Avalanche,St Louis Blues,betmgm,-225,185,-1.5,105,1.5,-125,6.5,-105,-115
+2023-11-01,NHL,a4c81463a07dcf1841cd4f6561c2649a,2023-11-02T02:00:00Z,Anaheim Ducks,Arizona Coyotes,caesars,110,-130,1.5,-225,-1.5,185,6.5,-110,-110
+2023-11-01,NHL,a4c81463a07dcf1841cd4f6561c2649a,2023-11-02T02:00:00Z,Anaheim Ducks,Arizona Coyotes,betmgm,110,-130,1.5,-225,-1.5,180,6.5,-110,-110
+2023-11-01,NHL,45e4da473a8b3d2e2973e49b276835d3,2023-11-02T23:00:00Z,New York Rangers,Carolina Hurricanes,caesars,-115,-105,-1.5,210,1.5,-260,5.5,-110,-110
+2023-11-01,NHL,96c255a30e4bb3328b20ad602aebb02e,2023-11-02T23:00:00Z,Columbus Blue Jackets,Tampa Bay Lightning,caesars,140,-165,1.5,-170,-1.5,143,6.5,-115,-105
+2023-11-01,NHL,71ddec1fdacb96e4a07cdc8b35ead0a7,2023-11-02T23:00:00Z,Detroit Red Wings,Florida Panthers,caesars,-110,-110,1.5,-250,-1.5,205,6.5,-115,-105
+2023-11-01,NHL,f4b745aa807710be1c56d1c99a65f0cf,2023-11-02T23:00:00Z,Ottawa Senators,Los Angeles Kings,caesars,-110,-110,1.5,-250,-1.5,205,6.5,-130,110
+2023-11-01,NHL,cd795b9e845200459b078827ea6b8daa,2023-11-02T23:00:00Z,Washington Capitals,New York Islanders,caesars,115,-135,1.5,-215,-1.5,178,5.5,-110,-110
+2023-11-01,NHL,374ed0e729779573436953994e01aad0,2023-11-02T23:30:00Z,Boston Bruins,Toronto Maple Leafs,caesars,-125,105,-1.5,192,1.5,-235,6.0,100,-120

@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-04-07,NHL,f6643cb94251736ca355af89950abf67,2025-04-07T23:10:00Z,New York Rangers,Tampa Bay Lightning,betmgm,130,-155,1.5,-200,-1.5,165,5.5,-120,100
+2025-04-07,NHL,f6643cb94251736ca355af89950abf67,2025-04-07T23:10:00Z,New York Rangers,Tampa Bay Lightning,caesars,130,-155,1.5,-195,-1.5,162,5.5,-120,100
+2025-04-07,NHL,5e7b695cbbe2c06f47acb8f2bd70e822,2025-04-07T23:40:00Z,Winnipeg Jets,St Louis Blues,betmgm,-175,145,-1.5,150,1.5,-185,5.5,105,-125
+2025-04-07,NHL,5e7b695cbbe2c06f47acb8f2bd70e822,2025-04-07T23:40:00Z,Winnipeg Jets,St Louis Blues,caesars,-170,143,-1.5,158,1.5,-190,5.5,105,-125
+2025-04-07,NHL,f53b47828b9cfab020701f8b2c48d699,2025-04-08T02:40:00Z,Anaheim Ducks,Edmonton Oilers,betmgm,125,-150,1.5,-200,-1.5,165,6.0,-105,-115
+2025-04-07,NHL,f53b47828b9cfab020701f8b2c48d699,2025-04-08T02:40:00Z,Anaheim Ducks,Edmonton Oilers,caesars,122,-145,1.5,-205,-1.5,170,6.0,-105,-115
+2025-04-07,NHL,d3e78dae5dd7a9f38f5617e79a482c4d,2025-04-08T02:40:00Z,San Jose Sharks,Calgary Flames,betmgm,180,-220,1.5,-145,-1.5,120,6.0,100,-120
+2025-04-07,NHL,d3e78dae5dd7a9f38f5617e79a482c4d,2025-04-08T02:40:00Z,San Jose Sharks,Calgary Flames,caesars,175,-210,1.5,-145,-1.5,122,6.0,100,-120
+2025-04-07,NHL,2a48c9d6039253ec85b9f4aef81ef4c9,2025-04-08T02:40:00Z,Los Angeles Kings,Seattle Kraken,betmgm,-235,190,-1.5,115,1.5,-135,6.0,-102,-118
+2025-04-07,NHL,2a48c9d6039253ec85b9f4aef81ef4c9,2025-04-08T02:40:00Z,Los Angeles Kings,Seattle Kraken,caesars,-235,192,-1.5,115,1.5,-135,5.5,-125,105

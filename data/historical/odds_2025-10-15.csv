@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-10-15,NHL,f908ce3aeda3f87247e12122a4207213,2025-10-15T23:10:00Z,Buffalo Sabres,Ottawa Senators,caesars,-105,-115,1.5,-220,-1.5,180,6.0,-110,-110
+2025-10-15,NHL,f908ce3aeda3f87247e12122a4207213,2025-10-15T23:10:00Z,Buffalo Sabres,Ottawa Senators,betmgm,-105,-115,1.5,-250,-1.5,200,,,
+2025-10-15,NHL,3bed840047c9799aea8aa7d7113bff5a,2025-10-15T23:10:00Z,Detroit Red Wings,Florida Panthers,caesars,122,-145,1.5,-210,-1.5,175,5.5,-115,-105
+2025-10-15,NHL,3bed840047c9799aea8aa7d7113bff5a,2025-10-15T23:10:00Z,Detroit Red Wings,Florida Panthers,betmgm,125,-150,1.5,-190,-1.5,155,,,
+2025-10-15,NHL,4f03f1a14290f118428723b3a5fdc5ca,2025-10-16T01:40:00Z,Utah Mammoth,Calgary Flames,caesars,-225,185,-1.5,110,1.5,-130,6.0,-110,-110
+2025-10-15,NHL,4f03f1a14290f118428723b3a5fdc5ca,2025-10-16T01:40:00Z,Utah Mammoth,Calgary Flames,betmgm,-220,180,-1.5,110,1.5,-135,,,
+2025-10-15,NHL,aa90e33f4a0d413e3dedb79489a5c524,2025-10-16T01:40:00Z,St Louis Blues,Chicago Blackhawks,caesars,-240,196,-1.5,110,1.5,-130,6.0,100,-120
+2025-10-15,NHL,aa90e33f4a0d413e3dedb79489a5c524,2025-10-16T01:40:00Z,St Louis Blues,Chicago Blackhawks,betmgm,-225,185,-1.5,105,1.5,-130,,,
+2025-10-15,NHL,2dd47747ba968ab0d22efd70d4239af4,2025-10-16T23:10:00Z,Columbus Blue Jackets,Colorado Avalanche,caesars,135,-160,1.5,-175,-1.5,148,6.5,-105,-115
+2025-10-15,NHL,fb2d900e9f5a5aa1c66260969845c976,2025-10-16T23:10:00Z,New Jersey Devils,Florida Panthers,caesars,-155,130,-1.5,158,1.5,-190,6.5,105,-125
+2025-10-15,NHL,bb8dc88a7ab7379e0d351d6e856ad817,2025-10-16T23:10:00Z,Toronto Maple Leafs,New York Rangers,caesars,-155,130,-1.5,158,1.5,-190,6.5,110,-130
+2025-10-15,NHL,9afb952bec589b46070f0beda141b2ab,2025-10-16T23:10:00Z,Ottawa Senators,Seattle Kraken,caesars,-155,130,-1.5,162,1.5,-195,5.5,-125,105
+2025-10-15,NHL,33bf0af9647ea1fe6772ad9b226ac2c1,2025-10-16T23:10:00Z,Philadelphia Flyers,Winnipeg Jets,caesars,115,-135,1.5,-210,-1.5,175,5.5,-120,100
+2025-10-15,NHL,78197d0ceffa52fb188805fb5457ed0e,2025-10-16T23:40:00Z,New York Islanders,Edmonton Oilers,caesars,150,-178,1.5,-165,-1.5,140,5.5,-125,105

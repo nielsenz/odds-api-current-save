@@ -1,0 +1,8 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-10-31,NHL,fe044d4b2228d62f28f0a0be82684e3b,2024-10-31T23:00:00Z,Pittsburgh Penguins,Anaheim Ducks,betmgm,-185,150,-1.5,130,1.5,-155,6.5,100,-120
+2024-10-31,NHL,fe1c2fa4903b8f99d355628443cff605,2024-10-31T23:00:00Z,Carolina Hurricanes,Boston Bruins,betmgm,-185,150,-1.5,140,1.5,-165,6.0,-105,-115
+2024-10-31,NHL,926fb1a0d10021e66dec1585e280204d,2024-10-31T23:00:00Z,Washington Capitals,Montréal Canadiens,betmgm,-210,170,-1.5,120,1.5,-145,6.5,100,-120
+2024-10-31,NHL,143b34bca051f9ec2579b3d895f89ff1,2024-10-31T23:00:00Z,Philadelphia Flyers,St Louis Blues,betmgm,-155,130,-1.5,155,1.5,-190,5.5,-120,100
+2024-10-31,NHL,b609b2ea2fae8c239ee0668d3e321172,2024-10-31T23:00:00Z,Toronto Maple Leafs,Seattle Kraken,betmgm,-210,170,-1.5,115,1.5,-135,6.0,-120,100
+2024-10-31,NHL,f4b9a944bd539daf2181b34c0bda8833,2024-11-01T00:00:00Z,Nashville Predators,Edmonton Oilers,betmgm,-125,105,-1.5,185,1.5,-225,6.5,100,-120
+2024-10-31,NHL,f3e84e2691457fe95f0bd61309438b8c,2024-11-01T02:30:00Z,San Jose Sharks,Chicago Blackhawks,betmgm,130,-155,1.5,-190,-1.5,155,6.0,-110,-110

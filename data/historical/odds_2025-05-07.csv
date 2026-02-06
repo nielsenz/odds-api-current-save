@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-05-07,NHL,f464cdc4f84223ee32ffe89a86c8bd00,2025-05-07T23:00:00Z,Toronto Maple Leafs,Florida Panthers,betmgm,118,-140,1.5,-220,-1.5,180,5.5,-118,-102
+2025-05-07,NHL,f464cdc4f84223ee32ffe89a86c8bd00,2025-05-07T23:00:00Z,Toronto Maple Leafs,Florida Panthers,caesars,118,-140,1.5,-220,-1.5,180,5.5,-120,100
+2025-05-07,NHL,65a0dbe8a4d42834835331bbecb821e2,2025-05-08T01:40:00Z,Winnipeg Jets,Dallas Stars,betmgm,-105,-115,1.5,-250,-1.5,200,5.5,-120,100
+2025-05-07,NHL,65a0dbe8a4d42834835331bbecb821e2,2025-05-08T01:40:00Z,Winnipeg Jets,Dallas Stars,caesars,-105,-115,1.5,-260,-1.5,210,5.5,-130,110
+2025-05-07,NHL,678e451004bce5832cacc6ad4db7ec60,2025-05-08T23:00:00Z,Washington Capitals,Carolina Hurricanes,betmgm,115,-135,1.5,-235,-1.5,195,5.5,-118,-102
+2025-05-07,NHL,678e451004bce5832cacc6ad4db7ec60,2025-05-08T23:00:00Z,Washington Capitals,Carolina Hurricanes,caesars,115,-135,1.5,-235,-1.5,192,5.5,-115,-105
+2025-05-07,NHL,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-09T01:40:00Z,Vegas Golden Knights,Edmonton Oilers,betmgm,-130,110,-1.5,180,1.5,-220,6.5,-110,-110
+2025-05-07,NHL,5811c64caed1ddcb2e50cb7b2f4fda58,2025-05-09T01:40:00Z,Vegas Golden Knights,Edmonton Oilers,caesars,-135,115,-1.5,185,1.5,-225,6.5,-110,-110

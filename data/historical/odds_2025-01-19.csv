@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-19,NHL,6049e083f2119bbc90ed10a19ce034b8,2025-01-19T18:10:00Z,New Jersey Devils,Ottawa Senators,betmgm,-185,155,-1.5,140,1.5,-165,5.5,-115,-105
+2025-01-19,NHL,6049e083f2119bbc90ed10a19ce034b8,2025-01-19T18:10:00Z,New Jersey Devils,Ottawa Senators,caesars,-190,158,-1.5,140,1.5,-165,5.5,-115,-105
+2025-01-19,NHL,104e85182a6978da4ee4ab7caca4a5cc,2025-01-20T00:10:00Z,Montréal Canadiens,New York Rangers,betmgm,-105,-115,1.5,-250,-1.5,200,6.5,100,-120
+2025-01-19,NHL,104e85182a6978da4ee4ab7caca4a5cc,2025-01-20T00:10:00Z,Montréal Canadiens,New York Rangers,caesars,-105,-115,1.5,-260,-1.5,210,6.0,-125,105
+2025-01-19,NHL,4aafc31539623ca09a425b4bdf0a7b87,2025-01-20T01:10:00Z,Dallas Stars,Detroit Red Wings,betmgm,-225,185,-1.5,115,1.5,-135,6.0,-105,-115
+2025-01-19,NHL,4aafc31539623ca09a425b4bdf0a7b87,2025-01-20T01:10:00Z,Dallas Stars,Detroit Red Wings,caesars,-240,196,-1.5,115,1.5,-135,6.0,-105,-115

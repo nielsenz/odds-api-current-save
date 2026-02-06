@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-25,NHL,051fc27bcfb2011d1df4dc2aa2b94b0a,2024-03-26T00:00:00Z,St Louis Blues,Vegas Golden Knights,caesars,130,-155,1.5,-195,-1.5,162,6.0,-120,100
+2024-03-25,NHL,051fc27bcfb2011d1df4dc2aa2b94b0a,2024-03-26T00:00:00Z,St Louis Blues,Vegas Golden Knights,betmgm,120,-145,1.5,-200,-1.5,165,6.0,-115,-105
+2024-03-25,NHL,1905c4ff17dd6a03a6420e97c455167c,2024-03-26T01:00:00Z,Vancouver Canucks,Los Angeles Kings,caesars,-130,110,-1.5,192,1.5,-235,5.5,-115,-105
+2024-03-25,NHL,1905c4ff17dd6a03a6420e97c455167c,2024-03-26T01:00:00Z,Vancouver Canucks,Los Angeles Kings,betmgm,-130,110,-1.5,190,1.5,-250,5.5,-110,-110

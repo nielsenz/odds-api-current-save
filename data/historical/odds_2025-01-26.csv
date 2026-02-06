@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-01-26,NHL,8c00f25c0d0e8bbf17f5f6f1fcfcbaa0,2025-01-26T18:00:00Z,New York Rangers,Colorado Avalanche,betmgm,-130,110,-1.5,190,1.5,-235,6.0,100,-120
+2025-01-26,NHL,8c00f25c0d0e8bbf17f5f6f1fcfcbaa0,2025-01-26T18:00:00Z,New York Rangers,Colorado Avalanche,caesars,-130,110,-1.5,196,1.5,-240,6.0,100,-120
+2025-01-26,NHL,38a7969e0e192d911ac5fa2b3f007cf1,2025-01-26T22:00:00Z,Ottawa Senators,Utah Hockey Club,betmgm,-120,100,-1.5,200,1.5,-250,5.5,-120,100
+2025-01-26,NHL,38a7969e0e192d911ac5fa2b3f007cf1,2025-01-26T22:00:00Z,Ottawa Senators,Utah Hockey Club,caesars,-125,105,-1.5,205,1.5,-250,5.5,-120,100
+2025-01-26,NHL,fd90cd96f73166cccdc9573289aaba89,2025-01-26T23:00:00Z,Winnipeg Jets,Calgary Flames,betmgm,-250,200,-1.5,105,1.5,-125,5.5,-120,100
+2025-01-26,NHL,fd90cd96f73166cccdc9573289aaba89,2025-01-26T23:00:00Z,Winnipeg Jets,Calgary Flames,caesars,-260,210,-1.5,105,1.5,-125,5.5,-120,100
+2025-01-26,NHL,72b5ce9ecfef0c0850e8b731f0b7fb2a,2025-01-27T00:00:00Z,Chicago Blackhawks,Minnesota Wild,betmgm,160,-190,1.5,-155,-1.5,130,6.0,-110,-110
+2025-01-26,NHL,72b5ce9ecfef0c0850e8b731f0b7fb2a,2025-01-27T00:00:00Z,Chicago Blackhawks,Minnesota Wild,caesars,158,-190,1.5,-160,-1.5,135,6.0,-110,-110
+2025-01-26,NHL,390e31dd6b790b99bbe8868ad9fe29ad,2025-01-27T01:00:00Z,Vegas Golden Knights,Florida Panthers,betmgm,-125,105,-1.5,190,1.5,-235,6.0,-105,-115
+2025-01-26,NHL,390e31dd6b790b99bbe8868ad9fe29ad,2025-01-27T01:00:00Z,Vegas Golden Knights,Florida Panthers,caesars,-125,105,-1.5,196,1.5,-240,6.0,-105,-115

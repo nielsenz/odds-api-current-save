@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-10-21,NHL,807805467381c6b6ef95ee1de0959cbe,2024-10-21T23:30:00Z,Toronto Maple Leafs,Tampa Bay Lightning,caesars,-130,110,-1.5,185,1.5,-225,6.5,-110,-110
+2024-10-21,NHL,807805467381c6b6ef95ee1de0959cbe,2024-10-21T23:30:00Z,Toronto Maple Leafs,Tampa Bay Lightning,betmgm,-130,110,-1.5,170,1.5,-210,6.5,-110,-110
+2024-10-21,NHL,ba8a12e189b3d636ffb43be5cc4fa940,2024-10-22T22:00:00Z,Philadelphia Flyers,Washington Capitals,caesars,-120,100,-1.5,205,1.5,-250,6.0,105,-125
+2024-10-21,NHL,27746bc4e76936d45f41638c2c820188,2024-10-22T22:30:00Z,Florida Panthers,Minnesota Wild,caesars,-145,122,-1.5,162,1.5,-195,5.5,-125,105
+2024-10-21,NHL,eedd0fd3a82fa882999ead1a9afff464,2024-10-22T23:00:00Z,Buffalo Sabres,Dallas Stars,caesars,130,-155,1.5,-190,-1.5,158,6.0,100,-120
+2024-10-21,NHL,3092127f989e15b0fef7f3c3d53a0f84,2024-10-22T23:15:00Z,Montréal Canadiens,New York Rangers,caesars,170,-205,1.5,-145,-1.5,122,6.0,-120,100
+2024-10-21,NHL,36098d04ed728f13fc1369acb969f65a,2024-10-22T23:45:00Z,New York Islanders,Detroit Red Wings,caesars,-155,130,-1.5,158,1.5,-190,6.0,-125,105
+2024-10-21,NHL,34a1c512e7ed395074072e7e67c7aa41,2024-10-23T00:00:00Z,St Louis Blues,Winnipeg Jets,caesars,118,-140,1.5,-205,-1.5,170,6.0,100,-120
+2024-10-21,NHL,f776f3d8296c63156eced3577b83aa24,2024-10-23T00:30:00Z,Seattle Kraken,Colorado Avalanche,caesars,105,-125,1.5,-225,-1.5,185,6.5,-110,-110
+2024-10-21,NHL,c92efebbc42fbb72f3a87d781278ac04,2024-10-23T00:45:00Z,Nashville Predators,Boston Bruins,caesars,-125,105,-1.5,185,1.5,-225,6.0,-110,-110
+2024-10-21,NHL,2a2a55019c073fe1002ef323c7589bca,2024-10-23T01:00:00Z,Edmonton Oilers,Carolina Hurricanes,caesars,-135,115,-1.5,170,1.5,-205,6.0,-125,105
+2024-10-21,NHL,56eda3b51b4eb1875c2ce1a037a23e88,2024-10-23T01:30:00Z,Calgary Flames,Pittsburgh Penguins,caesars,-120,100,-1.5,192,1.5,-235,6.5,100,-120
+2024-10-21,NHL,a11f084845e738c4c362ab8adc592c98,2024-10-23T02:15:00Z,Anaheim Ducks,San Jose Sharks,caesars,-190,158,-1.5,135,1.5,-160,6.0,100,-120
+2024-10-21,NHL,e3a3662ba276acf34c1a0442d4ea4458,2024-10-23T03:00:00Z,Vegas Golden Knights,Los Angeles Kings,caesars,-145,122,-1.5,162,1.5,-195,6.0,-105,-115

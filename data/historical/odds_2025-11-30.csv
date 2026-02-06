@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-30,NHL,1550b54085845f9879555a490f489d52,2025-11-30T18:10:00Z,New York Islanders,Washington Capitals,betmgm,105,-130,1.5,-220,-1.5,180,6.0,-110,-110
+2025-11-30,NHL,1550b54085845f9879555a490f489d52,2025-11-30T18:10:00Z,New York Islanders,Washington Capitals,caesars,115,-135,1.5,-225,-1.5,185,6.0,-110,-110
+2025-11-30,NHL,5b116d891771ebd029fb1bce9bb42f9b,2025-11-30T20:40:00Z,Chicago Blackhawks,Anaheim Ducks,betmgm,100,-120,1.5,-225,-1.5,185,6.5,-118,-102
+2025-11-30,NHL,5b116d891771ebd029fb1bce9bb42f9b,2025-11-30T20:40:00Z,Chicago Blackhawks,Anaheim Ducks,caesars,105,-125,1.5,-235,-1.5,192,6.5,-115,-105
+2025-11-30,NHL,622050de86d58fd0c2b01d725dc6cb9f,2025-11-30T22:10:00Z,Carolina Hurricanes,Calgary Flames,betmgm,-250,200,-1.5,100,1.5,-120,6.0,-110,-110
+2025-11-30,NHL,622050de86d58fd0c2b01d725dc6cb9f,2025-11-30T22:10:00Z,Carolina Hurricanes,Calgary Flames,caesars,-250,205,-1.5,105,1.5,-125,6.0,-110,-110
+2025-11-30,NHL,694762471be5a7ac762ad4a079383dcb,2025-11-30T23:10:00Z,Dallas Stars,Ottawa Senators,betmgm,-140,118,-1.5,170,1.5,-210,6.0,-105,-115
+2025-11-30,NHL,694762471be5a7ac762ad4a079383dcb,2025-11-30T23:10:00Z,Dallas Stars,Ottawa Senators,caesars,-140,118,-1.5,180,1.5,-220,6.0,-105,-115

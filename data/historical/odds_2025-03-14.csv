@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-14,NHL,ace0c578eb46706e72261fdb18721cf9,2025-03-14T23:00:00Z,Carolina Hurricanes,Detroit Red Wings,betmgm,-275,220,-1.5,-102,1.5,-118,6.0,-105,-115
+2025-03-14,NHL,08dcf96879f8a397435af13186878e5c,2025-03-14T23:30:00Z,New York Islanders,Edmonton Oilers,betmgm,100,-120,1.5,-225,-1.5,185,6.5,-115,-105
+2025-03-14,NHL,1a8dbad1ae56d914bea372ff710dbe25,2025-03-15T00:00:00Z,Winnipeg Jets,Dallas Stars,betmgm,-130,110,-1.5,185,1.5,-225,5.5,-115,-105
+2025-03-14,NHL,c43e687221dc588b838480fd84a40729,2025-03-15T01:00:00Z,Calgary Flames,Colorado Avalanche,betmgm,185,-225,1.5,-140,-1.5,118,6.0,100,-120
+2025-03-14,NHL,99074ec24f824369d5a693bbe35215f8,2025-03-15T02:00:00Z,Anaheim Ducks,Nashville Predators,betmgm,135,-160,1.5,-185,-1.5,150,6.5,100,-120
+2025-03-14,NHL,7eee099521163cb70e98323c301a0f1c,2025-03-15T02:00:00Z,Seattle Kraken,Utah Hockey Club,betmgm,120,-145,1.5,-210,-1.5,170,6.0,-105,-115

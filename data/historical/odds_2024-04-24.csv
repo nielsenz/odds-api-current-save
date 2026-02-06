@@ -1,0 +1,17 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-04-24,NHL,c5240dbeee215094f348a37ef2272fe4,2024-04-24T23:10:00Z,Toronto Maple Leafs,Boston Bruins,betmgm,-110,-110,-1.5,220,1.5,-275,6.0,100,-120
+2024-04-24,NHL,c5240dbeee215094f348a37ef2272fe4,2024-04-24T23:10:00Z,Toronto Maple Leafs,Boston Bruins,caesars,-110,-110,-1.5,228,1.5,-285,6.0,100,-120
+2024-04-24,NHL,40d478308206b330623377e88ef6de3e,2024-04-25T01:30:00Z,Dallas Stars,Vegas Golden Knights,betmgm,-165,140,-1.5,150,1.5,-185,6.0,-105,-115
+2024-04-24,NHL,40d478308206b330623377e88ef6de3e,2024-04-25T01:30:00Z,Dallas Stars,Vegas Golden Knights,caesars,-165,140,-1.5,158,1.5,-190,6.0,-105,-115
+2024-04-24,NHL,cba18197ec4c45ccb08af2d43ba25eed,2024-04-25T02:00:00Z,Edmonton Oilers,Los Angeles Kings,betmgm,-190,155,-1.5,135,1.5,-160,6.0,-115,-105
+2024-04-24,NHL,cba18197ec4c45ccb08af2d43ba25eed,2024-04-25T02:00:00Z,Edmonton Oilers,Los Angeles Kings,caesars,-190,158,-1.5,135,1.5,-160,6.0,-115,-105
+2024-04-24,NHL,ca875f01c73e44bacc13da4f0fe96925,2024-04-25T23:10:00Z,Tampa Bay Lightning,Florida Panthers,caesars,-115,-105,-1.5,215,1.5,-267,6.0,-115,-105
+2024-04-24,NHL,ca875f01c73e44bacc13da4f0fe96925,2024-04-25T23:10:00Z,Tampa Bay Lightning,Florida Panthers,betmgm,-110,-110,1.5,-275,-1.5,200,6.0,-115,-105
+2024-04-24,NHL,916d460e3cbd9b4a020908a3d42bc569,2024-04-25T23:30:00Z,New York Islanders,Carolina Hurricanes,betmgm,135,-160,1.5,-190,-1.5,155,5.5,-105,-115
+2024-04-24,NHL,916d460e3cbd9b4a020908a3d42bc569,2024-04-25T23:30:00Z,New York Islanders,Carolina Hurricanes,caesars,130,-155,1.5,-195,-1.5,162,5.5,-105,-115
+2024-04-24,NHL,7f7bd265395f03fe1e4c4e0faf700a89,2024-04-26T23:10:00Z,Washington Capitals,New York Rangers,betmgm,145,-175,1.5,-175,-1.5,145,5.5,-110,-110
+2024-04-24,NHL,7f7bd265395f03fe1e4c4e0faf700a89,2024-04-26T23:10:00Z,Washington Capitals,New York Rangers,caesars,140,-165,1.5,-178,-1.5,150,5.5,-110,-110
+2024-04-24,NHL,b889e410f2f10e3917e6f9bf39f4055d,2024-04-26T23:30:00Z,Nashville Predators,Vancouver Canucks,betmgm,-120,100,-1.5,195,1.5,-250,6.0,100,-120
+2024-04-24,NHL,b889e410f2f10e3917e6f9bf39f4055d,2024-04-26T23:30:00Z,Nashville Predators,Vancouver Canucks,caesars,-120,100,-1.5,205,1.5,-250,5.5,-125,105
+2024-04-24,NHL,868de14c2f66dbc3756b7421a2426042,2024-04-27T02:00:00Z,Colorado Avalanche,Winnipeg Jets,betmgm,-165,140,-1.5,155,1.5,-190,6.5,-115,-105
+2024-04-24,NHL,868de14c2f66dbc3756b7421a2426042,2024-04-27T02:00:00Z,Colorado Avalanche,Winnipeg Jets,caesars,-160,135,-1.5,150,1.5,-178,6.5,-115,-105

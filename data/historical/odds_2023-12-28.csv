@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-12-28,NHL,07a1c07b9647d4195fe03a7d9a29b0f3,2023-12-29T00:00:00Z,Carolina Hurricanes,Montréal Canadiens,betmgm,-275,220,-1.5,-110,1.5,-110,6.5,-105,-115
+2023-12-28,NHL,07a1c07b9647d4195fe03a7d9a29b0f3,2023-12-29T00:00:00Z,Carolina Hurricanes,Montréal Canadiens,caesars,-267,215,-1.5,-110,1.5,-110,6.5,-105,-115
+2023-12-28,NHL,d00c831276c14f2bc34346d3b4a5eb6b,2023-12-29T03:00:00Z,Vegas Golden Knights,Los Angeles Kings,betmgm,-110,-110,1.5,-250,-1.5,200,6.0,-120,100
+2023-12-28,NHL,d00c831276c14f2bc34346d3b4a5eb6b,2023-12-29T03:00:00Z,Vegas Golden Knights,Los Angeles Kings,caesars,-110,-110,-1.5,215,1.5,-267,6.0,-120,100
+2023-12-28,NHL,8d38ff5c63da26402b619faa2d326009,2023-12-29T03:00:00Z,Vancouver Canucks,Philadelphia Flyers,betmgm,-160,135,-1.5,145,1.5,-175,6.0,-120,100
+2023-12-28,NHL,8d38ff5c63da26402b619faa2d326009,2023-12-29T03:00:00Z,Vancouver Canucks,Philadelphia Flyers,caesars,-160,135,-1.5,150,1.5,-178,6.0,-120,100
+2023-12-28,NHL,1555064245d87339d16f05c8cfa1d872,2023-12-29T03:30:00Z,San Jose Sharks,Edmonton Oilers,betmgm,310,-400,2.5,-115,-2.5,-105,7.0,110,-135
+2023-12-28,NHL,1555064245d87339d16f05c8cfa1d872,2023-12-29T03:30:00Z,San Jose Sharks,Edmonton Oilers,caesars,320,-420,1.5,150,-1.5,-178,7.0,105,-125

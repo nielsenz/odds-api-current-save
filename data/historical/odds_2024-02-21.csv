@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-02-21,NHL,ae09da1a5bc99f3d279fd045c8dbf28d,2024-02-22T00:00:00Z,Montréal Canadiens,Buffalo Sabres,betmgm,125,-150,1.5,-200,-1.5,165,6.5,-120,100
+2024-02-21,NHL,ae09da1a5bc99f3d279fd045c8dbf28d,2024-02-22T00:00:00Z,Montréal Canadiens,Buffalo Sabres,caesars,122,-145,1.5,-195,-1.5,162,6.5,-120,100
+2024-02-21,NHL,7cea404bf08c69fa1a0a8bd839ad6076,2024-02-22T00:30:00Z,Chicago Blackhawks,Philadelphia Flyers,betmgm,200,-250,1.5,-140,-1.5,115,6.0,-105,-115
+2024-02-21,NHL,7cea404bf08c69fa1a0a8bd839ad6076,2024-02-22T00:30:00Z,Chicago Blackhawks,Philadelphia Flyers,caesars,196,-240,1.5,-130,-1.5,110,6.0,-105,-115
+2024-02-21,NHL,2b438f7496cb1ebae60ec54d28305991,2024-02-22T03:00:00Z,Anaheim Ducks,Columbus Blue Jackets,betmgm,-115,-105,-1.5,200,1.5,-250,6.5,-120,100
+2024-02-21,NHL,2b438f7496cb1ebae60ec54d28305991,2024-02-22T03:00:00Z,Anaheim Ducks,Columbus Blue Jackets,caesars,-115,-105,-1.5,205,1.5,-250,6.5,-120,100
+2024-02-21,NHL,6f70a40034551e99191420b3bb57adee,2024-02-22T03:00:00Z,Arizona Coyotes,Toronto Maple Leafs,betmgm,155,-190,1.5,-155,-1.5,125,6.5,-130,105
+2024-02-21,NHL,6f70a40034551e99191420b3bb57adee,2024-02-22T03:00:00Z,Arizona Coyotes,Toronto Maple Leafs,caesars,158,-190,1.5,-160,-1.5,135,6.5,-125,105
+2024-02-21,NHL,2a46f5be9f5a4a2f8295ae697764e3d4,2024-02-22T03:00:00Z,Edmonton Oilers,Boston Bruins,betmgm,-125,105,-1.5,195,1.5,-250,6.5,100,-120
+2024-02-21,NHL,2a46f5be9f5a4a2f8295ae697764e3d4,2024-02-22T03:00:00Z,Edmonton Oilers,Boston Bruins,caesars,-125,105,-1.5,185,1.5,-225,6.5,100,-120

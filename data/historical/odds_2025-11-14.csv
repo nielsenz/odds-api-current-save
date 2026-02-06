@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-14,NHL,5032d91bbd469628f7b77aaf42470092,2025-11-14T19:15:00Z,Nashville Predators,Pittsburgh Penguins,betmgm,105,-130,1.5,-220,-1.5,180,6.0,-118,-102
+2025-11-14,NHL,5032d91bbd469628f7b77aaf42470092,2025-11-14T19:15:00Z,Nashville Predators,Pittsburgh Penguins,caesars,115,-135,1.5,-235,-1.5,192,6.5,105,-125
+2025-11-14,NHL,fa5454c0e130bbbedab10d4ec728a430,2025-11-15T00:10:00Z,Carolina Hurricanes,Vancouver Canucks,caesars,-267,215,-1.5,-105,1.5,-115,6.5,-105,-115
+2025-11-14,NHL,fa5454c0e130bbbedab10d4ec728a430,2025-11-15T00:10:00Z,Carolina Hurricanes,Vancouver Canucks,betmgm,-250,200,-1.5,-105,1.5,-115,6.5,100,-120
+2025-11-14,NHL,98d536f23fe0f0a66c59ded977cffb49,2025-11-15T01:10:00Z,St Louis Blues,Philadelphia Flyers,caesars,-135,115,-1.5,185,1.5,-225,5.5,-115,-105
+2025-11-14,NHL,98d536f23fe0f0a66c59ded977cffb49,2025-11-15T01:10:00Z,St Louis Blues,Philadelphia Flyers,betmgm,-140,115,-1.5,170,1.5,-210,5.5,-110,-110
+2025-11-14,NHL,72180e4b3e2d377503208afa470d75a0,2025-11-15T02:10:00Z,Utah Mammoth,New York Islanders,caesars,-205,170,-1.5,122,1.5,-145,6.5,-105,-115
+2025-11-14,NHL,72180e4b3e2d377503208afa470d75a0,2025-11-15T02:10:00Z,Utah Mammoth,New York Islanders,betmgm,-200,165,-1.5,118,1.5,-145,6.5,-105,-115
+2025-11-14,NHL,4a2b9236eb60f41001d7fed056bb6904,2025-11-15T22:00:00Z,Florida Panthers,Tampa Bay Lightning,caesars,-130,110,-1.5,192,1.5,-235,5.5,-115,-105
+2025-11-14,NHL,f1719616041b422672fcbe179f2aa2f7,2025-11-15T23:00:00Z,Minnesota Wild,Anaheim Ducks,caesars,-140,118,-1.5,175,1.5,-210,6.5,-110,-110
+2025-11-14,NHL,fce1c6da8d0b906cf072160af94aba4f,2025-11-16T00:00:00Z,Chicago Blackhawks,Toronto Maple Leafs,caesars,115,-135,1.5,-225,-1.5,185,5.5,-135,115
+2025-11-14,NHL,34a38cd75a4ce1cc4c52b29b3ef22f34,2025-11-16T00:00:00Z,Columbus Blue Jackets,New York Rangers,caesars,-105,-115,1.5,-260,-1.5,210,6.5,100,-120

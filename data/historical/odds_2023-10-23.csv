@@ -1,0 +1,3 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-10-23,NHL,890cbc5db3685a3de74ad2bf1550f3b1,2023-10-23T23:00:00Z,Buffalo Sabres,Montréal Canadiens,caesars,-190,158,-1.5,130,1.5,-155,6.5,-125,105
+2023-10-23,NHL,890cbc5db3685a3de74ad2bf1550f3b1,2023-10-23T23:00:00Z,Buffalo Sabres,Montréal Canadiens,betmgm,-185,150,-1.5,125,1.5,-150,6.5,-125,105

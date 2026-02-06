@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-02-05,NHL,e33125c8afd502f97270a7e197d2aa6e,2025-02-06T00:00:00Z,New York Rangers,Boston Bruins,betmgm,-200,165,-1.5,115,1.5,-140,6.0,-110,-110
+2025-02-05,NHL,e33125c8afd502f97270a7e197d2aa6e,2025-02-06T00:00:00Z,New York Rangers,Boston Bruins,caesars,-210,175,-1.5,122,1.5,-145,6.0,-115,-105
+2025-02-05,NHL,a87c4d83a10ff51046f97a6ea8ecafcd,2025-02-06T02:30:00Z,Chicago Blackhawks,Edmonton Oilers,betmgm,225,-275,1.5,-115,-1.5,-105,6.0,-120,100
+2025-02-05,NHL,a87c4d83a10ff51046f97a6ea8ecafcd,2025-02-06T02:30:00Z,Chicago Blackhawks,Edmonton Oilers,caesars,228,-285,1.5,-115,-1.5,-105,6.0,-125,105
+2025-02-05,NHL,1aa1bb07d78cfdefa89fc3858e0b7fd2,2025-02-06T03:30:00Z,Los Angeles Kings,Montréal Canadiens,betmgm,-235,190,-1.5,110,1.5,-130,5.5,-120,100
+2025-02-05,NHL,1aa1bb07d78cfdefa89fc3858e0b7fd2,2025-02-06T03:30:00Z,Los Angeles Kings,Montréal Canadiens,caesars,-267,215,-1.5,100,1.5,-120,5.5,-120,100

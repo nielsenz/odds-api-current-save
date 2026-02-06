@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-12-06,NHL,5d9a65a19faf2e10cf61faec40c951a7,2023-12-07T00:00:00Z,Florida Panthers,Dallas Stars,caesars,-120,100,-1.5,210,1.5,-260,6.0,-115,-105
+2023-12-06,NHL,5d9a65a19faf2e10cf61faec40c951a7,2023-12-07T00:00:00Z,Florida Panthers,Dallas Stars,betmgm,-120,100,-1.5,195,1.5,-250,6.0,-115,-105
+2023-12-06,NHL,5f63599dca0c8e5b40695e30085094d9,2023-12-07T00:00:00Z,Tampa Bay Lightning,Pittsburgh Penguins,caesars,-130,110,-1.5,185,1.5,-225,6.5,-110,-110
+2023-12-06,NHL,5f63599dca0c8e5b40695e30085094d9,2023-12-07T00:00:00Z,Tampa Bay Lightning,Pittsburgh Penguins,betmgm,-130,110,-1.5,180,1.5,-225,6.5,-110,-110
+2023-12-06,NHL,c21bcf5ae56666435dda69ee7f06a745,2023-12-07T02:00:00Z,St Louis Blues,Vegas Golden Knights,caesars,140,-165,1.5,-190,-1.5,158,6.0,100,-120
+2023-12-06,NHL,c21bcf5ae56666435dda69ee7f06a745,2023-12-07T02:00:00Z,St Louis Blues,Vegas Golden Knights,betmgm,135,-160,1.5,-185,-1.5,150,6.0,100,-120
+2023-12-06,NHL,f3c16b76ffe8571db32931e044e8c16d,2023-12-07T02:30:00Z,Edmonton Oilers,Carolina Hurricanes,caesars,-115,-105,-1.5,205,1.5,-250,6.5,-140,118
+2023-12-06,NHL,f3c16b76ffe8571db32931e044e8c16d,2023-12-07T02:30:00Z,Edmonton Oilers,Carolina Hurricanes,betmgm,-115,-105,-1.5,195,1.5,-250,7.0,110,-135

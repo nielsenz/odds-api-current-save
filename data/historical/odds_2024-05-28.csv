@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-05-28,NHL,91b1226c3dbed6b6911600bf0198a0f7,2024-05-29T00:10:00Z,Florida Panthers,New York Rangers,betmgm,-165,140,-1.5,150,1.5,-185,5.5,100,-120
+2024-05-28,NHL,91b1226c3dbed6b6911600bf0198a0f7,2024-05-29T00:10:00Z,Florida Panthers,New York Rangers,caesars,-165,140,-1.5,158,1.5,-190,5.5,100,-120
+2024-05-28,NHL,2c93a83dd1c74bf1b1f8201d5990a76a,2024-05-30T00:40:00Z,Edmonton Oilers,Dallas Stars,betmgm,-135,115,-1.5,180,1.5,-225,6.0,100,-120
+2024-05-28,NHL,2c93a83dd1c74bf1b1f8201d5990a76a,2024-05-30T00:40:00Z,Edmonton Oilers,Dallas Stars,caesars,-135,115,-1.5,196,1.5,-240,6.0,105,-125

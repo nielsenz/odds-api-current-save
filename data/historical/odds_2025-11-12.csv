@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-12,NHL,265401d91ea4878083b542bd92770478,2025-11-13T00:10:00Z,Tampa Bay Lightning,New York Rangers,betmgm,-145,118,-1.5,165,1.5,-200,6.0,-105,-115
+2025-11-12,NHL,265401d91ea4878083b542bd92770478,2025-11-13T00:10:00Z,Tampa Bay Lightning,New York Rangers,caesars,-140,118,-1.5,180,1.5,-220,6.0,-105,-115
+2025-11-12,NHL,84b928c9d08c81782c3e1bf824ddc08b,2025-11-13T00:40:00Z,Philadelphia Flyers,Edmonton Oilers,betmgm,115,-140,1.5,-210,-1.5,170,6.0,-105,-115
+2025-11-12,NHL,84b928c9d08c81782c3e1bf824ddc08b,2025-11-13T00:40:00Z,Philadelphia Flyers,Edmonton Oilers,caesars,115,-135,1.5,-225,-1.5,185,6.0,100,-120
+2025-11-12,NHL,9ec17f7cb031ec7adff10a509d2091d8,2025-11-13T02:10:00Z,Utah Mammoth,Buffalo Sabres,betmgm,-200,165,-1.5,118,1.5,-145,6.5,100,-120
+2025-11-12,NHL,9ec17f7cb031ec7adff10a509d2091d8,2025-11-13T02:10:00Z,Utah Mammoth,Buffalo Sabres,caesars,-205,170,-1.5,126,1.5,-150,6.5,100,-120
+2025-11-12,NHL,d157c598c8eb80037d6fec9dc7370f51,2025-11-13T02:40:00Z,Chicago Blackhawks,New Jersey Devils,betmgm,125,-150,1.5,-190,-1.5,154,6.0,-120,100
+2025-11-12,NHL,d157c598c8eb80037d6fec9dc7370f51,2025-11-13T02:40:00Z,Chicago Blackhawks,New Jersey Devils,caesars,130,-155,1.5,-190,-1.5,158,6.0,-120,100

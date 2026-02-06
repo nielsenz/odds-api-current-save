@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-10-12,NHL,5345e49de4164f498253edf8e8f1379c,2024-10-12T17:00:00Z,Boston Bruins,Los Angeles Kings,caesars,-155,130,-1.5,162,1.5,-195,5.5,-135,115
+2024-10-12,NHL,5345e49de4164f498253edf8e8f1379c,2024-10-12T17:00:00Z,Boston Bruins,Los Angeles Kings,betmgm,-150,125,-1.5,165,1.5,-200,5.5,-125,105
+2024-10-12,NHL,1335908c894c00992cde3094b9a5ff6b,2024-10-12T23:00:00Z,Buffalo Sabres,Florida Panthers,betmgm,100,-120,1.5,-250,-1.5,200,5.5,-120,100
+2024-10-12,NHL,1335908c894c00992cde3094b9a5ff6b,2024-10-12T23:00:00Z,Buffalo Sabres,Florida Panthers,caesars,100,-120,1.5,-250,-1.5,205,5.5,-120,100
+2024-10-12,NHL,bf654a8c9c068b3184086265085346d8,2024-10-12T23:00:00Z,Detroit Red Wings,Nashville Predators,betmgm,120,-140,1.5,-210,-1.5,170,6.5,-115,-105
+2024-10-12,NHL,bf654a8c9c068b3184086265085346d8,2024-10-12T23:00:00Z,Detroit Red Wings,Nashville Predators,caesars,118,-140,1.5,-210,-1.5,175,6.5,-115,-105
+2024-10-12,NHL,06c4de50f929f6074b8a7bd122e52e53,2024-10-12T23:00:00Z,Montréal Canadiens,Ottawa Senators,caesars,135,-160,1.5,-195,-1.5,162,6.0,-120,100
+2024-10-12,NHL,06c4de50f929f6074b8a7bd122e52e53,2024-10-12T23:00:00Z,Montréal Canadiens,Ottawa Senators,betmgm,135,-160,1.5,-200,-1.5,165,6.0,-120,100
+2024-10-12,NHL,79cf6e115a192f62d63a6e406b7df341,2024-10-12T23:00:00Z,New York Rangers,Utah Hockey Club,caesars,-205,170,-1.5,118,1.5,-140,6.0,-110,-110
+2024-10-12,NHL,79cf6e115a192f62d63a6e406b7df341,2024-10-12T23:00:00Z,New York Rangers,Utah Hockey Club,betmgm,-200,165,-1.5,120,1.5,-140,6.0,-110,-110
+2024-10-12,NHL,eb064d27a1a381acc500a217d533b577,2024-10-12T23:00:00Z,Toronto Maple Leafs,Pittsburgh Penguins,caesars,-195,162,-1.5,122,1.5,-145,6.5,-110,-110
+2024-10-12,NHL,eb064d27a1a381acc500a217d533b577,2024-10-12T23:00:00Z,Toronto Maple Leafs,Pittsburgh Penguins,betmgm,-200,165,-1.5,125,1.5,-150,6.5,-110,-110
+2024-10-12,NHL,a9fa4dececb1ace29476f3f2e5b57483,2024-10-12T23:10:00Z,Washington Capitals,New Jersey Devils,caesars,118,-140,1.5,-205,-1.5,170,6.0,-120,100
+2024-10-12,NHL,a9fa4dececb1ace29476f3f2e5b57483,2024-10-12T23:10:00Z,Washington Capitals,New Jersey Devils,betmgm,120,-140,1.5,-200,-1.5,165,6.0,-120,100
+2024-10-12,NHL,4892ebd3191fbbe2c873b5e464741cb2,2024-10-13T00:00:00Z,Dallas Stars,New York Islanders,caesars,-170,143,-1.5,158,1.5,-190,6.0,-110,-110
+2024-10-12,NHL,4892ebd3191fbbe2c873b5e464741cb2,2024-10-13T00:00:00Z,Dallas Stars,New York Islanders,betmgm,-165,140,-1.5,145,1.5,-175,6.0,-110,-110
+2024-10-12,NHL,fcc27891a0e910e4ada8cbeb16087f66,2024-10-13T00:00:00Z,Minnesota Wild,Seattle Kraken,caesars,-145,122,-1.5,175,1.5,-210,6.0,105,-125
+2024-10-12,NHL,fcc27891a0e910e4ada8cbeb16087f66,2024-10-13T00:00:00Z,Minnesota Wild,Seattle Kraken,betmgm,-145,120,-1.5,170,1.5,-210,6.0,100,-120
+2024-10-12,NHL,060c159ba37d863632de1535e5639132,2024-10-13T01:00:00Z,Colorado Avalanche,Columbus Blue Jackets,caesars,-345,270,-1.5,-130,1.5,110,6.5,-120,100
+2024-10-12,NHL,060c159ba37d863632de1535e5639132,2024-10-13T01:00:00Z,Colorado Avalanche,Columbus Blue Jackets,betmgm,-350,275,-1.5,-130,1.5,110,6.5,-120,100
+2024-10-12,NHL,623194b0b1eb984b1b0ee2090ac8b1b0,2024-10-13T02:00:00Z,Calgary Flames,Philadelphia Flyers,betmgm,-130,110,-1.5,185,1.5,-225,6.0,-115,-105
+2024-10-12,NHL,623194b0b1eb984b1b0ee2090ac8b1b0,2024-10-13T02:00:00Z,Calgary Flames,Philadelphia Flyers,caesars,-130,110,-1.5,192,1.5,-235,6.0,-115,-105
+2024-10-12,NHL,489f5dbeef93e1d90383df02c063a467,2024-10-13T02:00:00Z,Edmonton Oilers,Chicago Blackhawks,betmgm,-375,290,-1.5,-135,1.5,115,6.5,-105,-115
+2024-10-12,NHL,489f5dbeef93e1d90383df02c063a467,2024-10-13T02:00:00Z,Edmonton Oilers,Chicago Blackhawks,caesars,-365,285,-1.5,-135,1.5,115,6.5,-105,-115
+2024-10-12,NHL,bb7c109d21d9d53a657ea88bd22db4c4,2024-10-13T02:10:00Z,San Jose Sharks,Anaheim Ducks,caesars,115,-135,1.5,-235,-1.5,192,6.0,-125,105
+2024-10-12,NHL,bb7c109d21d9d53a657ea88bd22db4c4,2024-10-13T02:10:00Z,San Jose Sharks,Anaheim Ducks,betmgm,115,-135,1.5,-225,-1.5,180,6.5,100,-120

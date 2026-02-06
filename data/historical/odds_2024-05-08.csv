@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-05-08,NHL,6dfa3a69447e35e7da6de0a02653af66,2024-05-08T23:40:00Z,Florida Panthers,Boston Bruins,betmgm,-165,140,-1.5,155,1.5,-190,5.5,100,-120
+2024-05-08,NHL,6dfa3a69447e35e7da6de0a02653af66,2024-05-08T23:40:00Z,Florida Panthers,Boston Bruins,caesars,-170,143,-1.5,158,1.5,-190,5.5,100,-120
+2024-05-08,NHL,e3ffd31efd68184d94c46b5156ffd367,2024-05-09T02:00:00Z,Vancouver Canucks,Edmonton Oilers,caesars,118,-140,1.5,-220,-1.5,180,6.0,-120,100
+2024-05-08,NHL,e3ffd31efd68184d94c46b5156ffd367,2024-05-09T02:00:00Z,Vancouver Canucks,Edmonton Oilers,betmgm,120,-145,1.5,-225,-1.5,180,6.0,-120,100
+2024-05-08,NHL,0daa1092aedc8f03e5c3af6ad263172d,2024-05-09T23:10:00Z,Carolina Hurricanes,New York Rangers,betmgm,-165,140,-1.5,155,1.5,-190,5.5,-110,-110
+2024-05-08,NHL,0daa1092aedc8f03e5c3af6ad263172d,2024-05-09T23:10:00Z,Carolina Hurricanes,New York Rangers,caesars,-170,143,-1.5,150,1.5,-178,5.5,-110,-110
+2024-05-08,NHL,ab647854259ab86fe9d77dad0f3699ff,2024-05-10T01:40:00Z,Dallas Stars,Colorado Avalanche,betmgm,-130,110,-1.5,185,1.5,-225,6.5,100,-120
+2024-05-08,NHL,ab647854259ab86fe9d77dad0f3699ff,2024-05-10T01:40:00Z,Dallas Stars,Colorado Avalanche,caesars,-130,110,-1.5,196,1.5,-240,6.5,100,-120

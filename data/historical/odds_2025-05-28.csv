@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-05-28,NHL,dd462ba7f917ffd58e5d0c609505db10,2025-05-29T00:10:00Z,Carolina Hurricanes,Florida Panthers,betmgm,-102,-118,1.5,-250,-1.5,200,5.5,105,-125
+2025-05-28,NHL,dd462ba7f917ffd58e5d0c609505db10,2025-05-29T00:10:00Z,Carolina Hurricanes,Florida Panthers,caesars,100,-120,1.5,-250,-1.5,205,5.5,105,-125
+2025-05-28,NHL,fa069468aa845672133c9e9a3e331f20,2025-05-30T00:10:00Z,Dallas Stars,Edmonton Oilers,betmgm,-125,105,-1.5,185,1.5,-225,6.0,-102,-118
+2025-05-28,NHL,fa069468aa845672133c9e9a3e331f20,2025-05-30T00:10:00Z,Dallas Stars,Edmonton Oilers,caesars,-125,105,-1.5,196,1.5,-240,6.0,-105,-115

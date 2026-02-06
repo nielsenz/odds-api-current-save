@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-05-05,NHL,2727d13076c4b42fa7f1da115ba2dbc7,2024-05-05T20:10:00Z,New York Rangers,Carolina Hurricanes,betmgm,-105,-115,1.5,-275,-1.5,220,5.5,105,-125
+2024-05-05,NHL,2727d13076c4b42fa7f1da115ba2dbc7,2024-05-05T20:10:00Z,New York Rangers,Carolina Hurricanes,caesars,-110,-110,1.5,-278,-1.5,222,5.5,105,-125
+2024-05-05,NHL,a587d5a8b66534923fefba8cc07bc6bd,2024-05-05T23:40:00Z,Dallas Stars,Vegas Golden Knights,caesars,-145,122,-1.5,180,1.5,-220,5.0,-135,115
+2024-05-05,NHL,a587d5a8b66534923fefba8cc07bc6bd,2024-05-05T23:40:00Z,Dallas Stars,Vegas Golden Knights,betmgm,-145,120,-1.5,180,1.5,-225,5.0,-135,115
+2024-05-05,NHL,f4dd0548ffe0798d28308422928b935c,2024-05-07T00:00:00Z,Florida Panthers,Boston Bruins,caesars,-170,143,-1.5,158,1.5,-190,5.5,105,-125
+2024-05-05,NHL,f4dd0548ffe0798d28308422928b935c,2024-05-07T00:00:00Z,Florida Panthers,Boston Bruins,betmgm,-175,145,-1.5,155,1.5,-190,5.5,105,-125
+2024-05-05,NHL,712b172f18b7f174a0be699b6787db7d,2024-05-08T02:10:00Z,Vancouver Canucks,Edmonton Oilers,caesars,115,-135,1.5,-225,-1.5,185,6.0,-120,100
+2024-05-05,NHL,712b172f18b7f174a0be699b6787db7d,2024-05-08T02:10:00Z,Vancouver Canucks,Edmonton Oilers,betmgm,115,-135,1.5,-210,-1.5,170,6.0,-120,100

@@ -1,0 +1,27 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-01-04,NHL,ae0aa2e9cdaf8a55689b85bae0408bf7,2024-01-05T00:00:00Z,Boston Bruins,Pittsburgh Penguins,caesars,-145,122,-1.5,170,1.5,-205,6.0,-105,-115
+2024-01-04,NHL,ae0aa2e9cdaf8a55689b85bae0408bf7,2024-01-05T00:00:00Z,Boston Bruins,Pittsburgh Penguins,betmgm,-145,120,-1.5,155,1.5,-190,6.0,-105,-115
+2024-01-04,NHL,7d7abe4077990b13de81eb0f8580e6cf,2024-01-05T00:00:00Z,Montréal Canadiens,Buffalo Sabres,caesars,118,-140,1.5,-210,-1.5,175,6.5,-120,100
+2024-01-04,NHL,7d7abe4077990b13de81eb0f8580e6cf,2024-01-05T00:00:00Z,Montréal Canadiens,Buffalo Sabres,betmgm,120,-145,1.5,-200,-1.5,165,6.5,-120,100
+2024-01-04,NHL,128216563568f792e4e651cb7bb1e29f,2024-01-05T00:00:00Z,New York Rangers,Chicago Blackhawks,caesars,-480,360,-1.5,-165,1.5,140,6.0,-115,-105
+2024-01-04,NHL,128216563568f792e4e651cb7bb1e29f,2024-01-05T00:00:00Z,New York Rangers,Chicago Blackhawks,betmgm,-450,350,-1.5,-155,1.5,125,6.0,-120,100
+2024-01-04,NHL,2be722cb3134154ebae3cafcde3d1508,2024-01-05T00:00:00Z,Philadelphia Flyers,Columbus Blue Jackets,caesars,-205,170,-1.5,122,1.5,-145,6.5,100,-120
+2024-01-04,NHL,2be722cb3134154ebae3cafcde3d1508,2024-01-05T00:00:00Z,Philadelphia Flyers,Columbus Blue Jackets,betmgm,-200,165,-1.5,120,1.5,-145,6.0,-120,100
+2024-01-04,NHL,273252d4d912681ec2dc160f0186f4e5,2024-01-05T01:00:00Z,Nashville Predators,Calgary Flames,caesars,-120,100,-1.5,205,1.5,-250,6.0,-115,-105
+2024-01-04,NHL,273252d4d912681ec2dc160f0186f4e5,2024-01-05T01:00:00Z,Nashville Predators,Calgary Flames,betmgm,-120,100,-1.5,190,1.5,-250,6.0,-115,-105
+2024-01-04,NHL,790e977419c1833ac126005b8a17e32e,2024-01-05T01:00:00Z,Dallas Stars,Colorado Avalanche,caesars,-130,110,-1.5,192,1.5,-235,6.5,-105,-115
+2024-01-04,NHL,790e977419c1833ac126005b8a17e32e,2024-01-05T01:00:00Z,Dallas Stars,Colorado Avalanche,betmgm,-130,110,-1.5,180,1.5,-225,6.0,-120,100
+2024-01-04,NHL,a25446996f9ec0f9bfe22c6dad9f9f97,2024-01-05T01:00:00Z,Minnesota Wild,Tampa Bay Lightning,caesars,115,-135,1.5,-225,-1.5,185,6.0,-120,100
+2024-01-04,NHL,a25446996f9ec0f9bfe22c6dad9f9f97,2024-01-05T01:00:00Z,Minnesota Wild,Tampa Bay Lightning,betmgm,110,-130,1.5,-250,-1.5,190,6.0,-120,100
+2024-01-04,NHL,1ab949c493a3e589b655ed788995ed06,2024-01-05T01:00:00Z,St Louis Blues,Vancouver Canucks,caesars,130,-155,1.5,-210,-1.5,175,6.5,-110,-110
+2024-01-04,NHL,1ab949c493a3e589b655ed788995ed06,2024-01-05T01:00:00Z,St Louis Blues,Vancouver Canucks,betmgm,125,-150,1.5,-200,-1.5,165,6.5,-110,-110
+2024-01-04,NHL,b7451ba10ebf58a57dea00560a062f60,2024-01-05T02:00:00Z,Arizona Coyotes,New York Islanders,caesars,-105,-115,1.5,-250,-1.5,205,6.0,-105,-115
+2024-01-04,NHL,b7451ba10ebf58a57dea00560a062f60,2024-01-05T02:00:00Z,Arizona Coyotes,New York Islanders,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-105,-115
+2024-01-04,NHL,3a64dccbf5e3460488ad9f7e9b5d7b9f,2024-01-05T03:00:00Z,Vegas Golden Knights,Florida Panthers,caesars,100,-120,1.5,-250,-1.5,205,6.0,-120,100
+2024-01-04,NHL,3a64dccbf5e3460488ad9f7e9b5d7b9f,2024-01-05T03:00:00Z,Vegas Golden Knights,Florida Panthers,betmgm,100,-120,1.5,-250,-1.5,200,6.0,-120,100
+2024-01-04,NHL,81972514353e6dae813536ee1d42cdfe,2024-01-05T03:00:00Z,Seattle Kraken,Ottawa Senators,caesars,-125,105,-1.5,192,1.5,-235,6.5,-105,-115
+2024-01-04,NHL,81972514353e6dae813536ee1d42cdfe,2024-01-05T03:00:00Z,Seattle Kraken,Ottawa Senators,betmgm,-125,105,-1.5,180,1.5,-225,6.5,-105,-115
+2024-01-04,NHL,52638493b513fa98dd9d162991a84a1a,2024-01-05T03:30:00Z,Los Angeles Kings,Detroit Red Wings,caesars,-195,162,-1.5,135,1.5,-160,6.5,100,-120
+2024-01-04,NHL,52638493b513fa98dd9d162991a84a1a,2024-01-05T03:30:00Z,Los Angeles Kings,Detroit Red Wings,betmgm,-190,155,-1.5,125,1.5,-150,6.0,-120,100
+2024-01-04,NHL,fb7fd7a7fd4e66206a3115e655e5e893,2024-01-05T03:30:00Z,San Jose Sharks,Winnipeg Jets,caesars,210,-260,1.5,-120,-1.5,100,6.0,-115,-105
+2024-01-04,NHL,fb7fd7a7fd4e66206a3115e655e5e893,2024-01-05T03:30:00Z,San Jose Sharks,Winnipeg Jets,betmgm,200,-250,1.5,-125,-1.5,105,6.0,-120,100

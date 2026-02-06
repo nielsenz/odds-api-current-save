@@ -1,0 +1,16 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-11-03,NHL,4e02993a7f646b180cac388973533de5,2024-11-03T18:00:00Z,New York Rangers,New York Islanders,caesars,-195,162,-1.5,140,1.5,-165,6.0,100,-120
+2024-11-03,NHL,4e02993a7f646b180cac388973533de5,2024-11-03T18:00:00Z,New York Rangers,New York Islanders,betmgm,-185,150,-1.5,135,1.5,-160,6.0,-105,-115
+2024-11-03,NHL,06c6d73790af669fd835d260b2a9c58d,2024-11-03T20:00:00Z,Winnipeg Jets,Tampa Bay Lightning,caesars,-135,115,-1.5,185,1.5,-225,6.0,-125,105
+2024-11-03,NHL,06c6d73790af669fd835d260b2a9c58d,2024-11-03T20:00:00Z,Winnipeg Jets,Tampa Bay Lightning,betmgm,-135,115,-1.5,185,1.5,-225,6.0,-120,100
+2024-11-03,NHL,7bd4c9727f57dfdd5a5b4a0abc76b23d,2024-11-03T22:00:00Z,Boston Bruins,Seattle Kraken,betmgm,-175,145,-1.5,150,1.5,-185,5.5,-120,100
+2024-11-03,NHL,7bd4c9727f57dfdd5a5b4a0abc76b23d,2024-11-03T22:00:00Z,Boston Bruins,Seattle Kraken,caesars,-180,152,-1.5,148,1.5,-175,5.5,-120,100
+2024-11-03,NHL,3ec5fc86216dc90261ab01649457f553,2024-11-03T22:00:00Z,Carolina Hurricanes,Washington Capitals,betmgm,-275,225,-1.5,100,1.5,-120,6.0,-115,-105
+2024-11-03,NHL,3ec5fc86216dc90261ab01649457f553,2024-11-03T22:00:00Z,Carolina Hurricanes,Washington Capitals,caesars,-267,215,-1.5,100,1.5,-120,6.0,-105,-115
+2024-11-03,NHL,3d88d09b13b0fe74cf9992c9393008de,2024-11-03T23:00:00Z,Minnesota Wild,Toronto Maple Leafs,betmgm,-120,100,-1.5,200,1.5,-250,6.0,-120,100
+2024-11-03,NHL,3d88d09b13b0fe74cf9992c9393008de,2024-11-03T23:00:00Z,Minnesota Wild,Toronto Maple Leafs,caesars,-120,100,-1.5,210,1.5,-260,6.0,-120,100
+2024-11-03,NHL,170c78ba0554e2705a26e2f7ece61921,2024-11-04T01:00:00Z,Anaheim Ducks,Chicago Blackhawks,betmgm,-130,110,-1.5,185,1.5,-225,6.0,-120,100
+2024-11-03,NHL,170c78ba0554e2705a26e2f7ece61921,2024-11-04T01:00:00Z,Anaheim Ducks,Chicago Blackhawks,caesars,-130,110,-1.5,192,1.5,-235,6.0,-115,-105
+2024-11-03,NHL,492aebc717ca9f614971c1d53897048b,2024-11-04T01:00:00Z,Calgary Flames,Edmonton Oilers,caesars,135,-160,1.5,-190,-1.5,158,6.5,-105,-115
+2024-11-03,NHL,492aebc717ca9f614971c1d53897048b,2024-11-04T01:00:00Z,Calgary Flames,Edmonton Oilers,betmgm,125,-150,1.5,-190,-1.5,155,6.5,-105,-115
+2024-11-03,NHL,97bf6827a81ab196745333129bce7671,2024-11-05T01:00:00Z,Nashville Predators,Los Angeles Kings,caesars,-135,115,-1.5,170,1.5,-205,6.0,-125,105

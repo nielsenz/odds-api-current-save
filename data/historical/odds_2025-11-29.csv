@@ -1,0 +1,23 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-11-29,NHL,17c6fbc82b11cf20b91e32c938fc5f4d,2025-11-29T19:10:00Z,New York Rangers,Tampa Bay Lightning,betmgm,-120,100,-1.5,190,1.5,-235,6.5,100,-120
+2025-11-29,NHL,17c6fbc82b11cf20b91e32c938fc5f4d,2025-11-29T19:10:00Z,New York Rangers,Tampa Bay Lightning,caesars,-115,-105,-1.5,205,1.5,-250,6.5,-105,-115
+2025-11-29,NHL,091b1f215a7deb920dcd8f483cad7c99,2025-11-29T20:10:00Z,Colorado Avalanche,Montréal Canadiens,betmgm,-250,200,-1.5,-105,1.5,-115,6.5,100,-120
+2025-11-29,NHL,091b1f215a7deb920dcd8f483cad7c99,2025-11-29T20:10:00Z,Colorado Avalanche,Montréal Canadiens,caesars,-260,210,-1.5,100,1.5,-120,6.5,-105,-115
+2025-11-29,NHL,6358ccfdc5d6ac1f1fc749ae2b7be9ee,2025-11-29T21:10:00Z,Seattle Kraken,Edmonton Oilers,betmgm,130,-155,1.5,-190,-1.5,154,6.0,-105,-115
+2025-11-29,NHL,6358ccfdc5d6ac1f1fc749ae2b7be9ee,2025-11-29T21:10:00Z,Seattle Kraken,Edmonton Oilers,caesars,135,-160,1.5,-195,-1.5,162,6.0,-105,-115
+2025-11-29,NHL,c36d2ae7bcba011b6a7c566664ddb03e,2025-11-30T00:10:00Z,Boston Bruins,Detroit Red Wings,betmgm,118,-145,1.5,-210,-1.5,170,5.5,-115,-105
+2025-11-29,NHL,c36d2ae7bcba011b6a7c566664ddb03e,2025-11-30T00:10:00Z,Boston Bruins,Detroit Red Wings,caesars,118,-140,1.5,-220,-1.5,180,5.5,-120,100
+2025-11-29,NHL,42bbc25e563dfe048cd60b2acd51a4ca,2025-11-30T00:10:00Z,Nashville Predators,Winnipeg Jets,betmgm,105,-125,1.5,-225,-1.5,185,6.0,-118,-102
+2025-11-29,NHL,42bbc25e563dfe048cd60b2acd51a4ca,2025-11-30T00:10:00Z,Nashville Predators,Winnipeg Jets,caesars,105,-125,1.5,-250,-1.5,205,6.0,-115,-105
+2025-11-29,NHL,f84033b9320c58d2cb876fbae02af45e,2025-11-30T00:10:00Z,New Jersey Devils,Philadelphia Flyers,betmgm,-150,125,-1.5,165,1.5,-200,6.0,100,-120
+2025-11-29,NHL,f84033b9320c58d2cb876fbae02af45e,2025-11-30T00:10:00Z,New Jersey Devils,Philadelphia Flyers,caesars,-145,122,-1.5,180,1.5,-220,5.5,-120,100
+2025-11-29,NHL,c13f3950e0400d8cc477798f463faeb2,2025-11-30T00:10:00Z,Pittsburgh Penguins,Toronto Maple Leafs,betmgm,-110,-110,-1.5,200,1.5,-250,6.0,-115,-105
+2025-11-29,NHL,c13f3950e0400d8cc477798f463faeb2,2025-11-30T00:10:00Z,Pittsburgh Penguins,Toronto Maple Leafs,caesars,-110,-110,1.5,-250,-1.5,205,6.0,-115,-105
+2025-11-29,NHL,d2d6a4694f3ae611886392beba97b74a,2025-11-30T01:10:00Z,Minnesota Wild,Buffalo Sabres,betmgm,-145,118,-1.5,165,1.5,-200,6.0,-120,100
+2025-11-29,NHL,d2d6a4694f3ae611886392beba97b74a,2025-11-30T01:10:00Z,Minnesota Wild,Buffalo Sabres,caesars,-145,122,-1.5,175,1.5,-210,6.0,-115,-105
+2025-11-29,NHL,11da092b022b330323d82a44a87e8e9f,2025-11-30T01:10:00Z,St Louis Blues,Utah Mammoth,betmgm,-105,-115,1.5,-250,-1.5,200,5.5,-115,-105
+2025-11-29,NHL,11da092b022b330323d82a44a87e8e9f,2025-11-30T01:10:00Z,St Louis Blues,Utah Mammoth,caesars,-110,-110,1.5,-250,-1.5,205,5.5,-120,100
+2025-11-29,NHL,0e6ad7a5bb1e9861ea08e9a54f296f3a,2025-11-30T03:10:00Z,Los Angeles Kings,Vancouver Canucks,betmgm,-175,145,-1.5,135,1.5,-160,6.5,100,-120
+2025-11-29,NHL,0e6ad7a5bb1e9861ea08e9a54f296f3a,2025-11-30T03:10:00Z,Los Angeles Kings,Vancouver Canucks,caesars,-190,158,-1.5,135,1.5,-160,6.5,100,-120
+2025-11-29,NHL,2c0876325c587e5efffc9eefee08b76e,2025-11-30T03:10:00Z,Vegas Golden Knights,San Jose Sharks,betmgm,-325,260,-1.5,-130,1.5,110,6.0,-120,100
+2025-11-29,NHL,2c0876325c587e5efffc9eefee08b76e,2025-11-30T03:10:00Z,Vegas Golden Knights,San Jose Sharks,caesars,-345,270,-1.5,-125,1.5,105,6.5,100,-120

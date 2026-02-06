@@ -1,0 +1,29 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2023-12-26,NHL,cdb5ff39a7b6ce0742733203534f1664,2023-12-28T00:00:00Z,New Jersey Devils,Columbus Blue Jackets,caesars,-267,215,-1.5,-110,1.5,-110,7.0,100,-120
+2023-12-26,NHL,cdb5ff39a7b6ce0742733203534f1664,2023-12-28T00:00:00Z,New Jersey Devils,Columbus Blue Jackets,betmgm,-275,220,-1.5,-110,1.5,-110,7.0,100,-120
+2023-12-26,NHL,79b970425d290be2f7fc3c849c827658,2023-12-28T00:00:00Z,Tampa Bay Lightning,Florida Panthers,caesars,-125,105,-1.5,192,1.5,-235,6.5,-130,110
+2023-12-26,NHL,79b970425d290be2f7fc3c849c827658,2023-12-28T00:00:00Z,Tampa Bay Lightning,Florida Panthers,betmgm,-125,105,1.5,-275,-1.5,220,6.5,-130,105
+2023-12-26,NHL,0576584357e537400f891c6a366791d8,2023-12-28T00:00:00Z,New York Rangers,Washington Capitals,caesars,-220,180,-1.5,110,1.5,-130,6.0,-110,-110
+2023-12-26,NHL,0576584357e537400f891c6a366791d8,2023-12-28T00:00:00Z,New York Rangers,Washington Capitals,betmgm,-225,180,-1.5,115,1.5,-140,6.0,-110,-110
+2023-12-26,NHL,e8d79cad6f45970f5e30ebc6a64c771e,2023-12-28T00:00:00Z,Toronto Maple Leafs,Ottawa Senators,caesars,-178,150,-1.5,122,1.5,-145,7.0,-115,-105
+2023-12-26,NHL,e8d79cad6f45970f5e30ebc6a64c771e,2023-12-28T00:00:00Z,Toronto Maple Leafs,Ottawa Senators,betmgm,-190,155,-1.5,125,1.5,-150,7.0,-115,-105
+2023-12-26,NHL,acf9f73716609b3495997ae0a50e5c39,2023-12-28T00:30:00Z,Buffalo Sabres,Boston Bruins,caesars,135,-160,1.5,-190,-1.5,158,6.0,-120,100
+2023-12-26,NHL,acf9f73716609b3495997ae0a50e5c39,2023-12-28T00:30:00Z,Buffalo Sabres,Boston Bruins,betmgm,130,-155,1.5,-190,-1.5,155,6.0,-120,100
+2023-12-26,NHL,b9e9c38eb4331ab923dbfd6be6b394b5,2023-12-28T00:30:00Z,New York Islanders,Pittsburgh Penguins,caesars,-130,110,-1.5,185,1.5,-225,6.0,-115,-105
+2023-12-26,NHL,b9e9c38eb4331ab923dbfd6be6b394b5,2023-12-28T00:30:00Z,New York Islanders,Pittsburgh Penguins,betmgm,-125,105,-1.5,180,1.5,-225,6.0,-115,-105
+2023-12-26,NHL,2f309d59ed37e7870bac8c8316da87d3,2023-12-28T01:00:00Z,Nashville Predators,Carolina Hurricanes,caesars,115,-135,1.5,-225,-1.5,185,6.0,-125,105
+2023-12-26,NHL,2f309d59ed37e7870bac8c8316da87d3,2023-12-28T01:00:00Z,Nashville Predators,Carolina Hurricanes,betmgm,115,-140,1.5,-225,-1.5,185,6.0,-130,105
+2023-12-26,NHL,b31f65392f94078a2845882696c1abae,2023-12-28T01:00:00Z,St Louis Blues,Dallas Stars,caesars,130,-155,1.5,-190,-1.5,158,6.5,-110,-110
+2023-12-26,NHL,b31f65392f94078a2845882696c1abae,2023-12-28T01:00:00Z,St Louis Blues,Dallas Stars,betmgm,125,-150,1.5,-190,-1.5,155,6.5,-110,-110
+2023-12-26,NHL,8bdf9272d62452c63ec25d8cbadaa65e,2023-12-28T01:00:00Z,Minnesota Wild,Detroit Red Wings,caesars,-145,122,-1.5,158,1.5,-190,6.5,-110,-110
+2023-12-26,NHL,8bdf9272d62452c63ec25d8cbadaa65e,2023-12-28T01:00:00Z,Minnesota Wild,Detroit Red Wings,betmgm,-150,125,-1.5,155,1.5,-190,6.5,-110,-110
+2023-12-26,NHL,1124673aa27e2665227c351c123255b3,2023-12-28T02:00:00Z,Arizona Coyotes,Colorado Avalanche,caesars,135,-160,1.5,-170,-1.5,143,6.5,-110,-110
+2023-12-26,NHL,1124673aa27e2665227c351c123255b3,2023-12-28T02:00:00Z,Arizona Coyotes,Colorado Avalanche,betmgm,135,-160,1.5,-185,-1.5,150,6.5,-110,-110
+2023-12-26,NHL,2595f600ac5efcbe57e00395e8c3ec7d,2023-12-28T02:00:00Z,Chicago Blackhawks,Winnipeg Jets,caesars,185,-225,1.5,-125,-1.5,105,6.0,-110,-110
+2023-12-26,NHL,2595f600ac5efcbe57e00395e8c3ec7d,2023-12-28T02:00:00Z,Chicago Blackhawks,Winnipeg Jets,betmgm,195,-250,1.5,-135,-1.5,110,6.0,-110,-110
+2023-12-26,NHL,c165b04b51fa83ae9fda8539465365ae,2023-12-28T02:30:00Z,Calgary Flames,Seattle Kraken,caesars,-145,122,-1.5,170,1.5,-205,6.0,100,-120
+2023-12-26,NHL,c165b04b51fa83ae9fda8539465365ae,2023-12-28T02:30:00Z,Calgary Flames,Seattle Kraken,betmgm,-150,125,-1.5,165,1.5,-200,5.5,-125,105
+2023-12-26,NHL,8d344299f9289737dcbe6d0516760394,2023-12-28T03:00:00Z,Anaheim Ducks,Vegas Golden Knights,betmgm,180,-225,1.5,-135,-1.5,110,6.0,-120,100
+2023-12-26,NHL,8d344299f9289737dcbe6d0516760394,2023-12-28T03:00:00Z,Anaheim Ducks,Vegas Golden Knights,caesars,180,-220,1.5,-130,-1.5,110,6.0,-120,100
+2023-12-26,NHL,cf3fa97749962846303bbfc8b6d618fd,2023-12-28T03:00:00Z,Los Angeles Kings,San Jose Sharks,caesars,-365,285,-1.5,-140,1.5,118,6.0,-110,-110
+2023-12-26,NHL,cf3fa97749962846303bbfc8b6d618fd,2023-12-28T03:00:00Z,Los Angeles Kings,San Jose Sharks,betmgm,-350,275,-2.5,115,2.5,-140,6.0,-110,-110

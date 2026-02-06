@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-26,NHL,efec572fbf82d389e58d23eb8a315a3d,2025-03-26T23:30:00Z,Chicago Blackhawks,New Jersey Devils,betmgm,195,-235,1.5,-135,-1.5,115,5.5,-118,-102
+2025-03-26,NHL,efec572fbf82d389e58d23eb8a315a3d,2025-03-26T23:30:00Z,Chicago Blackhawks,New Jersey Devils,caesars,185,-225,1.5,-140,-1.5,118,5.5,-115,-105
+2025-03-26,NHL,5b9470d201b3521a3f86fb53af337220,2025-03-26T23:30:00Z,New York Islanders,Vancouver Canucks,betmgm,-110,-110,1.5,-295,-1.5,210,5.5,115,-135
+2025-03-26,NHL,5b9470d201b3521a3f86fb53af337220,2025-03-26T23:30:00Z,New York Islanders,Vancouver Canucks,caesars,-110,-110,-1.5,228,1.5,-285,5.5,115,-135
+2025-03-26,NHL,30a55c410d948bc3c182f92089351213,2025-03-27T02:00:00Z,Anaheim Ducks,Boston Bruins,betmgm,-130,110,-1.5,200,1.5,-250,6.0,-105,-115
+2025-03-26,NHL,30a55c410d948bc3c182f92089351213,2025-03-27T02:00:00Z,Anaheim Ducks,Boston Bruins,caesars,-130,110,-1.5,205,1.5,-250,6.0,-105,-115
+2025-03-26,NHL,a11b19bac8088e57e49e08cd6982a56e,2025-03-27T02:00:00Z,Edmonton Oilers,Dallas Stars,betmgm,115,-135,1.5,-220,-1.5,180,6.0,-115,-105
+2025-03-26,NHL,a11b19bac8088e57e49e08cd6982a56e,2025-03-27T02:00:00Z,Edmonton Oilers,Dallas Stars,caesars,115,-135,1.5,-220,-1.5,180,6.0,-115,-105

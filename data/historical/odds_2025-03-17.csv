@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-17,NHL,e822e56bc33f6b00c83b220e38f0435a,2025-03-17T23:00:00Z,Boston Bruins,Buffalo Sabres,betmgm,-105,-115,1.5,-250,-1.5,200,6.0,-105,-115
+2025-03-17,NHL,e822e56bc33f6b00c83b220e38f0435a,2025-03-17T23:00:00Z,Boston Bruins,Buffalo Sabres,caesars,-105,-115,1.5,-260,-1.5,210,6.0,-105,-115
+2025-03-17,NHL,e0c1573335e2f35ae53675cf741f1590,2025-03-17T23:00:00Z,Columbus Blue Jackets,New Jersey Devils,betmgm,115,-135,1.5,-225,-1.5,185,6.0,-110,-110
+2025-03-17,NHL,e0c1573335e2f35ae53675cf741f1590,2025-03-17T23:00:00Z,Columbus Blue Jackets,New Jersey Devils,caesars,118,-140,1.5,-210,-1.5,175,6.0,-110,-110
+2025-03-17,NHL,653bc3752ed248cfe0db1d96dabaec3d,2025-03-17T23:00:00Z,Tampa Bay Lightning,Philadelphia Flyers,betmgm,-300,240,-1.5,-110,1.5,-110,5.5,-120,100
+2025-03-17,NHL,653bc3752ed248cfe0db1d96dabaec3d,2025-03-17T23:00:00Z,Tampa Bay Lightning,Philadelphia Flyers,caesars,-320,250,-1.5,-110,1.5,-110,5.5,-120,100
+2025-03-17,NHL,2492c3a761f8275a0719fec80da109c2,2025-03-17T23:30:00Z,Toronto Maple Leafs,Calgary Flames,betmgm,-220,180,-1.5,120,1.5,-145,5.5,-120,100
+2025-03-17,NHL,2492c3a761f8275a0719fec80da109c2,2025-03-17T23:30:00Z,Toronto Maple Leafs,Calgary Flames,caesars,-195,162,-1.5,130,1.5,-155,5.5,-120,100
+2025-03-17,NHL,e8d97157c87c9ca3acd3d12ecb190cda,2025-03-18T00:00:00Z,Minnesota Wild,Los Angeles Kings,betmgm,125,-150,1.5,-210,-1.5,170,5.5,115,-135
+2025-03-17,NHL,e8d97157c87c9ca3acd3d12ecb190cda,2025-03-18T00:00:00Z,Minnesota Wild,Los Angeles Kings,caesars,130,-155,1.5,-210,-1.5,175,5.5,118,-140

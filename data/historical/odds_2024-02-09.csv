@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-02-09,NHL,cd914427eb3de33ae6984e7265c753da,2024-02-10T01:00:00Z,Minnesota Wild,Pittsburgh Penguins,caesars,115,-135,1.5,-250,-1.5,205,6.0,-110,-110
+2024-02-09,NHL,cd914427eb3de33ae6984e7265c753da,2024-02-10T01:00:00Z,Minnesota Wild,Pittsburgh Penguins,betmgm,105,-130,1.5,-225,-1.5,185,6.0,-110,-110
+2024-02-09,NHL,cb475581d3e1a654089de4fcafbc75b0,2024-02-10T01:30:00Z,Chicago Blackhawks,New York Rangers,caesars,240,-305,1.5,-105,-1.5,-115,5.5,-115,-105
+2024-02-09,NHL,cb475581d3e1a654089de4fcafbc75b0,2024-02-10T01:30:00Z,Chicago Blackhawks,New York Rangers,betmgm,230,-300,1.5,-105,-1.5,-115,5.5,-115,-105
+2024-02-09,NHL,477d182ec1437044eefc90a97fcf7712,2024-02-10T03:00:00Z,Anaheim Ducks,Edmonton Oilers,caesars,222,-278,1.5,-105,-1.5,-115,6.5,-110,-110
+2024-02-09,NHL,477d182ec1437044eefc90a97fcf7712,2024-02-10T03:00:00Z,Anaheim Ducks,Edmonton Oilers,betmgm,225,-275,1.5,-105,-1.5,-115,6.5,-105,-115

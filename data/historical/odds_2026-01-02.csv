@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-01-02,NHL,20fba3283ab994241f68041577b1e407,2026-01-02T20:10:00Z,St Louis Blues,Vegas Golden Knights,betmgm,120,-145,1.5,-210,-1.5,170,6.0,-102,-118
+2026-01-02,NHL,20fba3283ab994241f68041577b1e407,2026-01-02T20:10:00Z,St Louis Blues,Vegas Golden Knights,caesars,126,-150,1.5,-205,-1.5,170,5.5,-125,105
+2026-01-02,NHL,dac68147f6b21fb0fedf7f784a858e8d,2026-01-03T01:10:00Z,Florida Panthers,New York Rangers,betmgm,-145,120,-1.5,170,1.5,-210,5.5,-115,-105
+2026-01-02,NHL,dac68147f6b21fb0fedf7f784a858e8d,2026-01-03T01:10:00Z,Florida Panthers,New York Rangers,caesars,-145,122,-1.5,180,1.5,-220,5.5,-115,-105
+2026-01-02,NHL,f82d95642e5e87262e3a4b9e55509b3e,2026-01-03T03:40:00Z,Anaheim Ducks,Minnesota Wild,betmgm,110,-130,1.5,-220,-1.5,180,6.5,-105,-115
+2026-01-02,NHL,f82d95642e5e87262e3a4b9e55509b3e,2026-01-03T03:40:00Z,Anaheim Ducks,Minnesota Wild,caesars,110,-130,1.5,-240,-1.5,196,6.5,-110,-110
+2026-01-02,NHL,9932d0dfc9856d53ba659680df975fea,2026-01-03T03:40:00Z,Vancouver Canucks,Seattle Kraken,betmgm,-145,120,-1.5,165,1.5,-200,6.0,100,-120
+2026-01-02,NHL,9932d0dfc9856d53ba659680df975fea,2026-01-03T03:40:00Z,Vancouver Canucks,Seattle Kraken,caesars,-145,122,-1.5,170,1.5,-205,5.5,-125,105

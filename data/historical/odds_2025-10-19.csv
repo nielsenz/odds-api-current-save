@@ -1,0 +1,14 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-10-19,NHL,fd9b36717c8804f121c789e52720aed5,2025-10-19T16:38:19Z,Washington Capitals,Vancouver Canucks,betmgm,130,-165,1.5,-200,-1.5,145,,,
+2025-10-19,NHL,fd9b36717c8804f121c789e52720aed5,2025-10-19T16:38:19Z,Washington Capitals,Vancouver Canucks,caesars,120,-150,1.5,-210,-1.5,165,5.5,-135,105
+2025-10-19,NHL,2c9f7d284790f48da995609a0a7a0328,2025-10-19T19:10:00Z,Detroit Red Wings,Edmonton Oilers,betmgm,115,-140,1.5,-200,-1.5,165,,,
+2025-10-19,NHL,2c9f7d284790f48da995609a0a7a0328,2025-10-19T19:10:00Z,Detroit Red Wings,Edmonton Oilers,caesars,115,-135,1.5,-220,-1.5,180,6.0,-115,-105
+2025-10-19,NHL,d8f30cd7c62ce02594391ec1e9f2766d,2025-10-19T23:10:00Z,Chicago Blackhawks,Anaheim Ducks,betmgm,110,-130,1.5,-220,-1.5,180,,,
+2025-10-19,NHL,d8f30cd7c62ce02594391ec1e9f2766d,2025-10-19T23:10:00Z,Chicago Blackhawks,Anaheim Ducks,caesars,100,-120,1.5,-225,-1.5,185,6.0,-115,-105
+2025-10-19,NHL,6f250418c7180d9780787adad6945c79,2025-10-19T23:10:00Z,Utah Mammoth,Boston Bruins,betmgm,-210,170,-1.5,115,1.5,-140,,,
+2025-10-19,NHL,6f250418c7180d9780787adad6945c79,2025-10-19T23:10:00Z,Utah Mammoth,Boston Bruins,caesars,-210,175,-1.5,126,1.5,-150,6.0,-110,-110
+2025-10-19,NHL,0863077bd480a815ae791d5c2aba30ba,2025-10-20T23:00:00Z,New York Rangers,Minnesota Wild,caesars,-120,100,-1.5,210,1.5,-260,5.5,-120,100
+2025-10-19,NHL,30d2f142d3ed7de4cd55002fca717446,2025-10-20T23:00:00Z,Philadelphia Flyers,Seattle Kraken,caesars,-135,115,-1.5,192,1.5,-235,5.5,-125,105
+2025-10-19,NHL,aa99affa621137e996aadeeaec32561a,2025-10-20T23:30:00Z,Montréal Canadiens,Buffalo Sabres,caesars,-145,122,-1.5,170,1.5,-205,6.0,-115,-105
+2025-10-19,NHL,4ed5d7ea15b769ccd45f4274e82fbe51,2025-10-21T01:30:00Z,Calgary Flames,Winnipeg Jets,caesars,126,-150,1.5,-205,-1.5,170,5.5,-125,105
+2025-10-19,NHL,acd1ada9548dbaaa1a626218a5fd8ddb,2025-10-21T02:00:00Z,Vegas Golden Knights,Carolina Hurricanes,caesars,-120,100,-1.5,205,1.5,-250,6.0,-110,-110

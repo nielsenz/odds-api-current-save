@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-10-16,NHL,826fa13453fccb906655acd8676bc5c2,2024-10-16T23:00:00Z,Pittsburgh Penguins,Buffalo Sabres,caesars,-115,-105,-1.5,210,1.5,-260,6.5,100,-120
+2024-10-16,NHL,826fa13453fccb906655acd8676bc5c2,2024-10-16T23:00:00Z,Pittsburgh Penguins,Buffalo Sabres,betmgm,-115,-105,-1.5,200,1.5,-250,6.5,100,-120
+2024-10-16,NHL,e227925d20ce0abccf3d7a5faa5a234b,2024-10-16T23:30:00Z,Toronto Maple Leafs,Los Angeles Kings,caesars,-190,158,-1.5,140,1.5,-165,6.5,100,-120
+2024-10-16,NHL,e227925d20ce0abccf3d7a5faa5a234b,2024-10-16T23:30:00Z,Toronto Maple Leafs,Los Angeles Kings,betmgm,-185,150,-1.5,135,1.5,-160,6.5,100,-120
+2024-10-16,NHL,61e4c17d13a861d543b648843857d97f,2024-10-17T01:30:00Z,Colorado Avalanche,Boston Bruins,caesars,-135,115,-1.5,192,1.5,-235,6.5,100,-120
+2024-10-16,NHL,61e4c17d13a861d543b648843857d97f,2024-10-17T01:30:00Z,Colorado Avalanche,Boston Bruins,betmgm,-130,110,-1.5,180,1.5,-225,6.5,100,-120
+2024-10-16,NHL,62b58f1dc9d75768b3269f6690573d2a,2024-10-17T02:00:00Z,Anaheim Ducks,Utah Hockey Club,caesars,130,-155,1.5,-190,-1.5,158,6.0,-120,100
+2024-10-16,NHL,62b58f1dc9d75768b3269f6690573d2a,2024-10-17T02:00:00Z,Anaheim Ducks,Utah Hockey Club,betmgm,130,-155,1.5,-185,-1.5,150,6.5,100,-120

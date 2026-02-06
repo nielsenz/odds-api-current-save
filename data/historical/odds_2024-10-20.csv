@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-10-20,NHL,fd438ad9ae4fd01f85c86fc869299c79,2024-10-20T19:00:00Z,Winnipeg Jets,Pittsburgh Penguins,caesars,-165,140,-1.5,143,1.5,-170,6.0,-120,100
+2024-10-20,NHL,fd438ad9ae4fd01f85c86fc869299c79,2024-10-20T19:00:00Z,Winnipeg Jets,Pittsburgh Penguins,betmgm,-165,140,-1.5,145,1.5,-175,6.0,-120,100
+2024-10-20,NHL,388e9de27b2cf8d2f71146601e83b9c9,2024-10-21T00:00:00Z,Anaheim Ducks,Los Angeles Kings,caesars,150,-178,1.5,-160,-1.5,135,6.0,100,-120
+2024-10-20,NHL,388e9de27b2cf8d2f71146601e83b9c9,2024-10-21T00:00:00Z,Anaheim Ducks,Los Angeles Kings,betmgm,155,-185,1.5,-160,-1.5,135,6.0,-105,-115
+2024-10-20,NHL,787d6a9121a568436fbfd18aa16f1a24,2024-10-21T00:00:00Z,San Jose Sharks,Colorado Avalanche,caesars,235,-292,1.5,-105,-1.5,-115,6.5,-110,-110
+2024-10-20,NHL,787d6a9121a568436fbfd18aa16f1a24,2024-10-21T00:00:00Z,San Jose Sharks,Colorado Avalanche,betmgm,240,-300,1.5,-110,-1.5,-110,6.5,-110,-110
+2024-10-20,NHL,807805467381c6b6ef95ee1de0959cbe,2024-10-21T23:30:00Z,Toronto Maple Leafs,Tampa Bay Lightning,caesars,-140,118,-1.5,162,1.5,-195,6.5,-110,-110
+2024-10-20,NHL,807805467381c6b6ef95ee1de0959cbe,2024-10-21T23:30:00Z,Toronto Maple Leafs,Tampa Bay Lightning,betmgm,-140,120,-1.5,165,1.5,-200,6.5,-110,-110

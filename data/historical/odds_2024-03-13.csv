@@ -1,0 +1,10 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-03-13,NHL,06a44f3e073d56f49f294cca7600d7f4,2024-03-13T23:30:00Z,St Louis Blues,Los Angeles Kings,betmgm,135,-160,1.5,-185,-1.5,150,5.5,-120,100
+2024-03-13,NHL,06a44f3e073d56f49f294cca7600d7f4,2024-03-13T23:30:00Z,St Louis Blues,Los Angeles Kings,caesars,135,-160,1.5,-190,-1.5,158,5.5,-120,100
+2024-03-13,NHL,0bc73ea6c14e2c9f7a337236c7404d3d,2024-03-13T23:30:00Z,Winnipeg Jets,Nashville Predators,betmgm,-160,135,-1.5,150,1.5,-185,5.5,-115,-105
+2024-03-13,NHL,0bc73ea6c14e2c9f7a337236c7404d3d,2024-03-13T23:30:00Z,Winnipeg Jets,Nashville Predators,caesars,-160,135,-1.5,158,1.5,-190,5.5,-115,-105
+2024-03-13,NHL,78444329315a8d39db1ec2de04968807,2024-03-14T02:00:00Z,Edmonton Oilers,Washington Capitals,betmgm,-300,240,-1.5,-120,1.5,100,6.0,-135,100
+2024-03-13,NHL,78444329315a8d39db1ec2de04968807,2024-03-14T02:00:00Z,Edmonton Oilers,Washington Capitals,caesars,-320,250,-1.5,-115,1.5,-105,6.5,100,-120
+2024-03-13,NHL,f1df6c99d67be3eef31cd46426532d23,2024-03-14T02:30:00Z,Vancouver Canucks,Colorado Avalanche,betmgm,-115,-105,-1.5,195,1.5,-250,6.5,-115,-105
+2024-03-13,NHL,f1df6c99d67be3eef31cd46426532d23,2024-03-14T02:30:00Z,Vancouver Canucks,Colorado Avalanche,caesars,-115,-105,-1.5,205,1.5,-250,6.5,-115,-105
+2024-03-13,NHL,66598812c7a8e95254bee4591fbcb51c,2024-03-14T23:00:00Z,Detroit Red Wings,Arizona Coyotes,betmgm,-185,150,-1.5,135,1.5,-160,6.5,-105,-115

@@ -1,0 +1,13 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-11-11,NHL,d7125bb54ce757ff72ac14083340dc29,2024-11-11T17:30:00Z,Buffalo Sabres,Montréal Canadiens,caesars,-235,192,-1.5,110,1.5,-130,6.5,-105,-115
+2024-11-11,NHL,d7125bb54ce757ff72ac14083340dc29,2024-11-11T17:30:00Z,Buffalo Sabres,Montréal Canadiens,betmgm,-250,200,-1.5,105,1.5,-125,6.5,-105,-115
+2024-11-11,NHL,6cde37b5e7abed2600ee06a73f3b63a7,2024-11-12T00:00:00Z,Pittsburgh Penguins,Dallas Stars,caesars,135,-160,1.5,-178,-1.5,150,6.5,-105,-115
+2024-11-11,NHL,6cde37b5e7abed2600ee06a73f3b63a7,2024-11-12T00:00:00Z,Pittsburgh Penguins,Dallas Stars,betmgm,135,-160,1.5,-175,-1.5,145,6.5,-110,-110
+2024-11-11,NHL,e0007c71c4be49543066be6a73846b69,2024-11-12T00:00:00Z,Philadelphia Flyers,San Jose Sharks,caesars,-278,222,-1.5,-105,1.5,-115,6.0,-110,-110
+2024-11-11,NHL,e0007c71c4be49543066be6a73846b69,2024-11-12T00:00:00Z,Philadelphia Flyers,San Jose Sharks,betmgm,-275,225,-1.5,-105,1.5,-115,6.0,-110,-110
+2024-11-11,NHL,a6abee067a4789162efa7a9273e68395,2024-11-12T01:30:00Z,Calgary Flames,Los Angeles Kings,caesars,115,-135,1.5,-235,-1.5,192,6.0,100,-120
+2024-11-11,NHL,a6abee067a4789162efa7a9273e68395,2024-11-12T01:30:00Z,Calgary Flames,Los Angeles Kings,betmgm,115,-135,1.5,-225,-1.5,180,6.0,100,-120
+2024-11-11,NHL,246eebe132c8b973e33d4a4466903240,2024-11-12T02:00:00Z,Colorado Avalanche,Nashville Predators,caesars,-155,130,-1.5,158,1.5,-190,6.5,-120,100
+2024-11-11,NHL,246eebe132c8b973e33d4a4466903240,2024-11-12T02:00:00Z,Colorado Avalanche,Nashville Predators,betmgm,-150,125,-1.5,155,1.5,-190,6.5,-120,100
+2024-11-11,NHL,82fe7beff9eb582f856f4ae514dcc916,2024-11-12T03:00:00Z,Vegas Golden Knights,Carolina Hurricanes,betmgm,120,-145,1.5,-210,-1.5,170,6.5,-105,-115
+2024-11-11,NHL,82fe7beff9eb582f856f4ae514dcc916,2024-11-12T03:00:00Z,Vegas Golden Knights,Carolina Hurricanes,caesars,118,-140,1.5,-220,-1.5,180,6.5,-105,-115

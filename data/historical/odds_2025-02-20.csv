@@ -1,0 +1,29 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-02-20,NHL,82a53120d23d2bcfac66a2427039566d,2025-02-22T17:30:00Z,Detroit Red Wings,Minnesota Wild,caesars,-115,-105,-1.5,228,1.5,-285,5.5,-120,100
+2025-02-20,NHL,82a53120d23d2bcfac66a2427039566d,2025-02-22T17:30:00Z,Detroit Red Wings,Minnesota Wild,betmgm,-110,-110,-1.5,220,1.5,-275,5.5,-120,100
+2025-02-20,NHL,dc44f10455b43a45bbe0f7d06a9f94c7,2025-02-22T18:00:00Z,Philadelphia Flyers,Edmonton Oilers,caesars,158,-190,1.5,-155,-1.5,130,6.5,110,-130
+2025-02-20,NHL,dc44f10455b43a45bbe0f7d06a9f94c7,2025-02-22T18:00:00Z,Philadelphia Flyers,Edmonton Oilers,betmgm,155,-190,1.5,-155,-1.5,130,6.0,-115,-105
+2025-02-20,NHL,f8b670004daed735142e866025c730ea,2025-02-22T20:00:00Z,Pittsburgh Penguins,Washington Capitals,caesars,130,-155,1.5,-205,-1.5,170,5.5,-120,100
+2025-02-20,NHL,f8b670004daed735142e866025c730ea,2025-02-22T20:00:00Z,Pittsburgh Penguins,Washington Capitals,betmgm,125,-145,1.5,-210,-1.5,170,5.5,-120,100
+2025-02-20,NHL,ae872a5a2fb1785122850b8fc75bed65,2025-02-22T22:30:00Z,Buffalo Sabres,New York Rangers,caesars,100,-120,1.5,-260,-1.5,210,6.0,-110,-110
+2025-02-20,NHL,ae872a5a2fb1785122850b8fc75bed65,2025-02-22T22:30:00Z,Buffalo Sabres,New York Rangers,betmgm,100,-120,1.5,-250,-1.5,200,6.0,-105,-115
+2025-02-20,NHL,2e72df8c79d3d7b9e4ce797361fb1dbc,2025-02-22T23:00:00Z,Nashville Predators,Colorado Avalanche,caesars,115,-135,1.5,-225,-1.5,185,5.5,-120,100
+2025-02-20,NHL,2e72df8c79d3d7b9e4ce797361fb1dbc,2025-02-22T23:00:00Z,Nashville Predators,Colorado Avalanche,betmgm,115,-135,1.5,-225,-1.5,185,5.5,-120,100
+2025-02-20,NHL,4d09f31fd7ec667b9f1db03d259a2e86,2025-02-22T23:00:00Z,New Jersey Devils,Dallas Stars,caesars,-105,-115,1.5,-260,-1.5,210,5.5,-120,100
+2025-02-20,NHL,4d09f31fd7ec667b9f1db03d259a2e86,2025-02-22T23:00:00Z,New Jersey Devils,Dallas Stars,betmgm,-105,-115,1.5,-275,-1.5,220,5.5,-120,100
+2025-02-20,NHL,a122d4da8681adf4e908c25a2333b70b,2025-02-22T23:00:00Z,Florida Panthers,Seattle Kraken,caesars,-267,215,-1.5,100,1.5,-120,5.5,-125,105
+2025-02-20,NHL,a122d4da8681adf4e908c25a2333b70b,2025-02-22T23:00:00Z,Florida Panthers,Seattle Kraken,betmgm,-275,220,-1.5,100,1.5,-120,6.0,100,-120
+2025-02-20,NHL,43c9939315471600d2a6fc8b4c38516d,2025-02-23T00:00:00Z,Boston Bruins,Anaheim Ducks,caesars,-225,185,-1.5,115,1.5,-135,5.5,-105,-115
+2025-02-20,NHL,43c9939315471600d2a6fc8b4c38516d,2025-02-23T00:00:00Z,Boston Bruins,Anaheim Ducks,betmgm,-235,190,-1.5,115,1.5,-135,5.5,-105,-115
+2025-02-20,NHL,664bae9a81218e455ea0a79c299467bc,2025-02-23T00:00:00Z,Toronto Maple Leafs,Carolina Hurricanes,caesars,-105,-115,1.5,-285,-1.5,228,6.0,105,-125
+2025-02-20,NHL,664bae9a81218e455ea0a79c299467bc,2025-02-23T00:00:00Z,Toronto Maple Leafs,Carolina Hurricanes,betmgm,-105,-115,1.5,-250,-1.5,200,5.5,-120,100
+2025-02-20,NHL,9b1a31a39b4005e3897dd195f76e41de,2025-02-23T00:00:00Z,Columbus Blue Jackets,Chicago Blackhawks,caesars,-195,162,-1.5,126,1.5,-150,6.5,-105,-115
+2025-02-20,NHL,9b1a31a39b4005e3897dd195f76e41de,2025-02-23T00:00:00Z,Columbus Blue Jackets,Chicago Blackhawks,betmgm,-200,165,-1.5,125,1.5,-150,6.5,-105,-115
+2025-02-20,NHL,76a759be0b990f4bb6dc0040b2e73836,2025-02-23T00:00:00Z,Ottawa Senators,Montréal Canadiens,caesars,-178,150,-1.5,140,1.5,-165,5.5,-125,105
+2025-02-20,NHL,76a759be0b990f4bb6dc0040b2e73836,2025-02-23T00:00:00Z,Ottawa Senators,Montréal Canadiens,betmgm,-175,145,-1.5,140,1.5,-170,6.0,100,-120
+2025-02-20,NHL,1792666ce862b87c8b7bdb4030203a16,2025-02-23T00:00:00Z,St Louis Blues,Winnipeg Jets,caesars,122,-145,1.5,-205,-1.5,170,5.5,-115,-105
+2025-02-20,NHL,1792666ce862b87c8b7bdb4030203a16,2025-02-23T00:00:00Z,St Louis Blues,Winnipeg Jets,betmgm,125,-145,1.5,-210,-1.5,170,5.5,-115,-105
+2025-02-20,NHL,e740bfb5feb08696652ed74b9e0c2f2f,2025-02-23T02:00:00Z,Los Angeles Kings,Utah Hockey Club,caesars,-178,150,-1.5,135,1.5,-160,5.5,-105,-115
+2025-02-20,NHL,e740bfb5feb08696652ed74b9e0c2f2f,2025-02-23T02:00:00Z,Los Angeles Kings,Utah Hockey Club,betmgm,-180,150,-1.5,135,1.5,-160,5.5,-105,-115
+2025-02-20,NHL,74d42c401da9279bef5ed00a1694c9e3,2025-02-23T03:00:00Z,Vegas Golden Knights,Vancouver Canucks,caesars,-165,140,-1.5,158,1.5,-190,5.5,-125,105
+2025-02-20,NHL,74d42c401da9279bef5ed00a1694c9e3,2025-02-23T03:00:00Z,Vegas Golden Knights,Vancouver Canucks,betmgm,-165,140,-1.5,150,1.5,-185,6.0,100,-120

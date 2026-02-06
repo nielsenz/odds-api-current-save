@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2025-03-05,NHL,688ba033c5ae1376348ca98aa60440ab,2025-03-06T00:30:00Z,Chicago Blackhawks,Ottawa Senators,caesars,196,-240,1.5,-135,-1.5,115,6.0,-110,-110
+2025-03-05,NHL,688ba033c5ae1376348ca98aa60440ab,2025-03-06T00:30:00Z,Chicago Blackhawks,Ottawa Senators,betmgm,200,-250,1.5,-130,-1.5,110,6.0,-110,-110
+2025-03-05,NHL,23a14980a9fc12b4d178535874daae98,2025-03-06T00:30:00Z,New York Rangers,Washington Capitals,caesars,100,-120,1.5,-250,-1.5,205,6.0,-110,-110
+2025-03-05,NHL,23a14980a9fc12b4d178535874daae98,2025-03-06T00:30:00Z,New York Rangers,Washington Capitals,betmgm,100,-120,1.5,-250,-1.5,200,6.0,-110,-110
+2025-03-05,NHL,ec56a63f847bd686dda02b4ddfca6a64,2025-03-06T03:00:00Z,Vegas Golden Knights,Toronto Maple Leafs,caesars,-160,135,-1.5,162,1.5,-195,6.0,-120,100
+2025-03-05,NHL,ec56a63f847bd686dda02b4ddfca6a64,2025-03-06T03:00:00Z,Vegas Golden Knights,Toronto Maple Leafs,betmgm,-165,140,-1.5,150,1.5,-185,6.0,-120,100
+2025-03-05,NHL,9fa63a2c3eaf1d1f39eb1dbad148f164,2025-03-06T03:30:00Z,Vancouver Canucks,Anaheim Ducks,caesars,-215,178,-1.5,118,1.5,-140,5.5,-115,-105
+2025-03-05,NHL,9fa63a2c3eaf1d1f39eb1dbad148f164,2025-03-06T03:30:00Z,Vancouver Canucks,Anaheim Ducks,betmgm,-225,185,-1.5,120,1.5,-140,5.5,-115,-105
+2025-03-05,NHL,4bfc7d60a39847e7e2c87b5a915c3b0e,2025-03-06T03:30:00Z,Los Angeles Kings,St Louis Blues,caesars,-160,135,-1.5,162,1.5,-195,5.5,100,-120
+2025-03-05,NHL,4bfc7d60a39847e7e2c87b5a915c3b0e,2025-03-06T03:30:00Z,Los Angeles Kings,St Louis Blues,betmgm,-165,140,-1.5,150,1.5,-185,5.5,100,-120

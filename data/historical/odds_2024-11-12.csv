@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2024-11-12,NHL,38be52a68c3d7a6c5c2f9d4529f39f05,2024-11-13T00:00:00Z,New York Rangers,Winnipeg Jets,caesars,-130,110,-1.5,196,1.5,-240,6.0,-115,-105
+2024-11-12,NHL,38be52a68c3d7a6c5c2f9d4529f39f05,2024-11-13T00:00:00Z,New York Rangers,Winnipeg Jets,betmgm,-125,105,-1.5,195,1.5,-250,6.0,-115,-105
+2024-11-12,NHL,2014811a18aa3bb9a58fd5720a6a5ceb,2024-11-13T00:00:00Z,Toronto Maple Leafs,Ottawa Senators,betmgm,-125,105,-1.5,180,1.5,-225,6.0,-105,-115
+2024-11-12,NHL,2014811a18aa3bb9a58fd5720a6a5ceb,2024-11-13T00:00:00Z,Toronto Maple Leafs,Ottawa Senators,caesars,-125,105,-1.5,192,1.5,-235,6.0,-105,-115
+2024-11-12,NHL,8938215ebe3cce2fc0ef002e6a58efc5,2024-11-13T00:30:00Z,Florida Panthers,New Jersey Devils,caesars,-135,115,-1.5,175,1.5,-210,6.5,-105,-115
+2024-11-12,NHL,8938215ebe3cce2fc0ef002e6a58efc5,2024-11-13T00:30:00Z,Florida Panthers,New Jersey Devils,betmgm,-135,115,-1.5,170,1.5,-210,6.5,-105,-115
+2024-11-12,NHL,c153792d3457562122fba5c3b99a645c,2024-11-13T01:00:00Z,St Louis Blues,Boston Bruins,caesars,140,-165,1.5,-190,-1.5,158,5.5,-115,-105
+2024-11-12,NHL,c153792d3457562122fba5c3b99a645c,2024-11-13T01:00:00Z,St Louis Blues,Boston Bruins,betmgm,130,-155,1.5,-190,-1.5,155,5.5,-115,-105
+2024-11-12,NHL,aad153ec0b41536e00a9c64cbc509c2b,2024-11-13T02:00:00Z,Edmonton Oilers,New York Islanders,caesars,-235,192,-1.5,115,1.5,-135,6.0,-115,-105
+2024-11-12,NHL,aad153ec0b41536e00a9c64cbc509c2b,2024-11-13T02:00:00Z,Edmonton Oilers,New York Islanders,betmgm,-225,180,-1.5,120,1.5,-140,6.0,-115,-105
+2024-11-12,NHL,c083803811051dbc47aaa4c192125cd1,2024-11-13T03:00:00Z,Vancouver Canucks,Calgary Flames,caesars,-235,192,-1.5,115,1.5,-135,6.0,-115,-105
+2024-11-12,NHL,c083803811051dbc47aaa4c192125cd1,2024-11-13T03:00:00Z,Vancouver Canucks,Calgary Flames,betmgm,-225,180,-1.5,115,1.5,-135,6.0,-115,-105
+2024-11-12,NHL,2e52ca67c761d85ec534e983e9d5f92b,2024-11-13T03:00:00Z,Seattle Kraken,Columbus Blue Jackets,caesars,-165,140,-1.5,150,1.5,-178,6.5,100,-120
+2024-11-12,NHL,2e52ca67c761d85ec534e983e9d5f92b,2024-11-13T03:00:00Z,Seattle Kraken,Columbus Blue Jackets,betmgm,-165,140,-1.5,145,1.5,-175,6.5,100,-120
