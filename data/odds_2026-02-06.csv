@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-06,NBA,8ddd2769a5ffd8dccf14da6c31f1fc1c,2026-02-07T00:40:00Z,Boston Celtics,Miami Heat,betmgm,-235,190,-5.5,-115,5.5,-105,226.5,-115,-105
+2026-02-06,NBA,69d971ab3826cab2feb87672c81b99cc,2026-02-07T00:40:00Z,Detroit Pistons,New York Knicks,betmgm,-105,-115,1.5,-120,-1.5,100,222.5,-110,-110
+2026-02-06,NBA,c9fbb4841a8939ef25c00d8012bf66d1,2026-02-07T01:10:00Z,Milwaukee Bucks,Indiana Pacers,betmgm,-118,-102,-1.5,-110,1.5,-110,222.5,-115,-105
+2026-02-06,NBA,ca2f6578b0d06d2a06e2eb5cee12fd8e,2026-02-07T01:10:00Z,Minnesota Timberwolves,New Orleans Pelicans,betmgm,-400,310,-9.5,-110,9.5,-110,237.5,-110,-110
+2026-02-06,NBA,ef8ae24fd705cab52010cac25b6abbba,2026-02-07T03:00:00Z,Portland Trail Blazers,Memphis Grizzlies,betmgm,-300,240,-9.5,-102,9.5,-118,233.5,-105,-115
+2026-02-06,NBA,e3d5928f680f116697bc4e6bb16f5862,2026-02-07T03:10:00Z,Sacramento Kings,Los Angeles Clippers,betmgm,150,-185,3.5,-105,-3.5,-115,222.5,-110,-110
