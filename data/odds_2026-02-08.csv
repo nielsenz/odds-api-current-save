@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-08,NBA,c2aacc97e9c2f14777db6a947e5b0772,2026-02-08T17:40:00Z,Boston Celtics,New York Knicks,betmgm,-150,125,-3.5,-110,3.5,-110,212.5,-110,-110
+2026-02-08,NBA,c7739a581c938fedf4dd128cb53f31dc,2026-02-08T19:10:00Z,Washington Wizards,Miami Heat,betmgm,450,-625,12.5,-110,-12.5,-110,238.5,-105,-115
+2026-02-08,NBA,9a4bb2e3bc9fd308b6e40f29e43ab2f1,2026-02-08T20:10:00Z,Toronto Raptors,Indiana Pacers,betmgm,-375,290,-9.5,-105,9.5,-115,225.5,-105,-115
+2026-02-08,NBA,8864122f2c28fd6b7621c0ee000c41fc,2026-02-08T20:10:00Z,Minnesota Timberwolves,Los Angeles Clippers,betmgm,-350,275,-9.5,-105,9.5,-115,223.5,-105,-115
