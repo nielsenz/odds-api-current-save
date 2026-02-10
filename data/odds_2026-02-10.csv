@@ -1,0 +1,5 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-10,NBA,029d9c1b39d0cd27d90931850a1f0bbd,2026-02-11T00:30:00Z,New York Knicks,Indiana Pacers,betmgm,-625,450,-11.5,-115,11.5,-105,225.5,-105,-115
+2026-02-10,NBA,402d3274a70ecdf3f3441bd2730e9a86,2026-02-11T01:00:00Z,Houston Rockets,Los Angeles Clippers,betmgm,-300,240,-7.5,-115,7.5,-105,212.5,-115,-105
+2026-02-10,NBA,a431f33f9135f054bfd08b6f0d341497,2026-02-11T02:00:00Z,Phoenix Suns,Dallas Mavericks,betmgm,-325,260,-8.5,-110,8.5,-110,229.5,-110,-110
+2026-02-10,NBA,3abaf28550da137114cba0daec6fe134,2026-02-11T03:30:00Z,Los Angeles Lakers,San Antonio Spurs,betmgm,260,-325,8.5,-105,-8.5,-115,227.5,-110,-110
