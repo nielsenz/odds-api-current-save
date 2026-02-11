@@ -1,0 +1,15 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-11,NBA,786e38c6d2a209bb12801b30f17e9ef2,2026-02-12T00:00:00Z,Orlando Magic,Milwaukee Bucks,betmgm,-550,400,-10.5,-110,10.5,-110,220.5,-110,-110
+2026-02-11,NBA,7c66ba90233d458cdf37f776c8a9f406,2026-02-12T00:10:00Z,Charlotte Hornets,Atlanta Hawks,betmgm,-190,154,-4.5,-102,4.5,-118,234.5,-110,-110
+2026-02-11,NBA,1e29ea38e9c7789166418c9a3544bff9,2026-02-12T00:10:00Z,Cleveland Cavaliers,Washington Wizards,betmgm,-1200,725,-16.5,-110,16.5,-110,240.5,-110,-110
+2026-02-11,NBA,c09c552bcc0d68d3e96c860980ae1563,2026-02-12T00:30:00Z,Toronto Raptors,Detroit Pistons,betmgm,100,-120,1.5,-110,-1.5,-110,222.5,-115,-105
+2026-02-11,NBA,fa53065fb88985857fe9cfe5372477dc,2026-02-12T00:30:00Z,Philadelphia 76ers,New York Knicks,betmgm,-135,110,-2.5,-102,2.5,-118,221.5,-110,-110
+2026-02-11,NBA,fe5025ebf8e01fd991276b32c2720ea7,2026-02-12T00:40:00Z,Boston Celtics,Chicago Bulls,betmgm,-700,500,-13.5,-115,13.5,-105,225.5,-110,-110
+2026-02-11,NBA,8cdd1f682ca6ed36e908ecf3b00f01bc,2026-02-12T00:40:00Z,Brooklyn Nets,Indiana Pacers,betmgm,-185,150,-4.5,-115,4.5,-105,216.5,-110,-110
+2026-02-11,NBA,eb36e00b7d03160ba917374db994fae4,2026-02-12T01:10:00Z,Houston Rockets,Los Angeles Clippers,betmgm,-375,300,-9.5,-105,9.5,-115,208.5,-110,-110
+2026-02-11,NBA,3313a32e931557302ee2526858b86060,2026-02-12T01:10:00Z,New Orleans Pelicans,Miami Heat,betmgm,-115,-105,-1.5,100,1.5,-120,231.5,-110,-110
+2026-02-11,NBA,3acad36c997423e34f7d485f9598a106,2026-02-12T01:10:00Z,Minnesota Timberwolves,Portland Trail Blazers,betmgm,-220,180,-5.5,-110,5.5,-110,235.5,-105,-115
+2026-02-11,NBA,a8954b4710b0fae858e10da04cd1b866,2026-02-12T02:00:00Z,Phoenix Suns,Oklahoma City Thunder,betmgm,190,-235,6.5,-105,-6.5,-115,217.5,-110,-110
+2026-02-11,NBA,72e90971d6ffe7bcc9ce0c5c15a12ece,2026-02-12T02:10:00Z,Denver Nuggets,Memphis Grizzlies,betmgm,-750,525,-13.5,-110,13.5,-110,238.5,-110,-110
+2026-02-11,NBA,1ad953fef0955a0aa7ed634326688a91,2026-02-12T02:10:00Z,Utah Jazz,Sacramento Kings,betmgm,-220,180,-6.5,-105,6.5,-115,230.5,-110,-110
+2026-02-11,NBA,69338c4d8b76e2c7c832dc2ec56f291f,2026-02-12T03:00:00Z,Golden State Warriors,San Antonio Spurs,betmgm,225,-285,7.5,-105,-7.5,-115,220.5,-105,-115
