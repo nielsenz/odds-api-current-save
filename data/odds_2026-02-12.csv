@@ -1,0 +1,4 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-12,NBA,1c3809071b6a6e313c87dee15e46bdc1,2026-02-13T00:40:00Z,Oklahoma City Thunder,Milwaukee Bucks,betmgm,-700,500,-12.5,-115,12.5,-105,214.5,-110,-110
+2026-02-12,NBA,ad2db051928cbc4c1ed6a3b861ac4538,2026-02-13T02:10:00Z,Utah Jazz,Portland Trail Blazers,betmgm,240,-300,8.5,-110,-8.5,-110,238.5,-110,-110
+2026-02-12,NBA,fdb123a858af8d533d901707df45960f,2026-02-13T03:10:00Z,Los Angeles Lakers,Dallas Mavericks,betmgm,-325,260,-7.5,-110,7.5,-110,236.5,-110,-110
