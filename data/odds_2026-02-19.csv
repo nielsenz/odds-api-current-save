@@ -1,0 +1,11 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-19,NBA,c93f72cb146ef69c7bd4a79f03481123,2026-02-20T00:00:00Z,Washington Wizards,Indiana Pacers,betmgm,110,-135,2.5,-115,-2.5,-105,232.5,-110,-110
+2026-02-19,NBA,d647541d42648749f3bde601547fa1be,2026-02-20T00:10:00Z,Philadelphia 76ers,Atlanta Hawks,betmgm,-115,-105,-1.5,100,1.5,-120,238.5,-105,-115
+2026-02-19,NBA,24a92d49df82923f29b3e9cda4d57446,2026-02-20T00:10:00Z,Cleveland Cavaliers,Brooklyn Nets,betmgm,-1200,725,-16.5,-105,16.5,-115,229.5,-110,-110
+2026-02-19,NBA,97031eee2ea39d890bf5046a1c57c7a7,2026-02-20T00:10:00Z,Charlotte Hornets,Houston Rockets,betmgm,154,-190,4.5,-110,-4.5,-110,216.5,-110,-110
+2026-02-19,NBA,0ea61c4bb159036d242d6aa077216586,2026-02-20T00:40:00Z,New York Knicks,Detroit Pistons,betmgm,-185,150,-4.5,-110,4.5,-110,221.5,-110,-110
+2026-02-19,NBA,537f72a12ccf54596ce42c638bacb485,2026-02-20T01:10:00Z,Chicago Bulls,Toronto Raptors,betmgm,200,-250,6.5,-110,-6.5,-110,232.5,-110,-110
+2026-02-19,NBA,d34f8e76f10dd65a684c9bd6301e667e,2026-02-20T01:40:00Z,San Antonio Spurs,Phoenix Suns,betmgm,-300,240,-7.5,-110,7.5,-110,229.5,-110,-110
+2026-02-19,NBA,7bb1dc8e7e0b6a77195533729951d187,2026-02-20T03:10:00Z,Golden State Warriors,Boston Celtics,betmgm,180,-220,5.5,-110,-5.5,-110,212.5,-105,-115
+2026-02-19,NBA,fc4ef6fdb917bca80f99940665442e96,2026-02-20T03:10:00Z,Sacramento Kings,Orlando Magic,betmgm,300,-375,8.5,-110,-8.5,-110,224.5,-110,-110
+2026-02-19,NBA,13c088a4f279e674bf80e4cb06d231a9,2026-02-20T03:40:00Z,Los Angeles Clippers,Denver Nuggets,betmgm,145,-175,4.5,-115,-4.5,-105,226.5,-105,-115
