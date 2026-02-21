@@ -1,0 +1,7 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-21,NBA,6d02351fc9049e70d91ef8f2e483841f,2026-02-21T22:10:00Z,Phoenix Suns,Orlando Magic,betmgm,-125,105,-1.5,-110,1.5,-110,218.5,-110,-110
+2026-02-21,NBA,79126e6bb6f06816ce09dea725b37c41,2026-02-22T00:10:00Z,New Orleans Pelicans,Philadelphia 76ers,betmgm,135,-160,3.5,-105,-3.5,-115,231.5,-110,-110
+2026-02-21,NBA,4337e68d3ba859dfc47ab3ac2f404a0d,2026-02-22T01:10:00Z,Chicago Bulls,Detroit Pistons,betmgm,425,-600,10.5,-110,-10.5,-110,232.5,-115,-105
+2026-02-21,NBA,6d8e789e50597eda49fecfade742c637,2026-02-22T01:10:00Z,Miami Heat,Memphis Grizzlies,betmgm,-475,360,-10.5,-110,10.5,-110,235.5,-105,-115
+2026-02-21,NBA,18bb557cee2cf5d5c9aede6c6e34b942,2026-02-22T01:10:00Z,San Antonio Spurs,Sacramento Kings,betmgm,-2000,1000,-18.5,-105,18.5,-115,230.5,-110,-110
+2026-02-21,NBA,2b618167ad8113aa71a54a28f177f2d3,2026-02-22T01:40:00Z,New York Knicks,Houston Rockets,betmgm,-165,135,-3.5,-105,3.5,-115,218.5,-115,-105
