@@ -1,0 +1,12 @@
+date,sport,game_id,commence_time,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-02-22,NBA,969b50e347f472c863d142252f2a47b1,2026-02-22T18:10:00Z,Oklahoma City Thunder,Cleveland Cavaliers,betmgm,154,-190,4.5,-110,-4.5,-110,226.5,-110,-110
+2026-02-22,NBA,8cfa733d2c4b4d6bc9b588892a933983,2026-02-22T20:40:00Z,Atlanta Hawks,Brooklyn Nets,betmgm,-425,320,-9.5,-110,9.5,-110,228.5,-110,-110
+2026-02-22,NBA,782bd538baddbe08fa942761254729cf,2026-02-22T20:40:00Z,Golden State Warriors,Denver Nuggets,betmgm,200,-250,6.5,-115,-6.5,-105,228.5,-110,-110
+2026-02-22,NBA,7b90ac67ff251c150cfaec7dad0c57fb,2026-02-22T20:40:00Z,Milwaukee Bucks,Toronto Raptors,betmgm,135,-160,2.5,100,-2.5,-120,219.5,-110,-110
+2026-02-22,NBA,c58609240b6495b450250cabc147e1ac,2026-02-22T22:10:00Z,Indiana Pacers,Dallas Mavericks,betmgm,110,-135,2.5,-115,-2.5,-105,233.5,-115,-105
+2026-02-22,NBA,a347a356427b6eb7be0785a1fe56c0ef,2026-02-22T23:10:00Z,Washington Wizards,Charlotte Hornets,betmgm,425,-600,11.5,-105,-11.5,-115,226.5,-110,-110
+2026-02-22,NBA,17acdc05db1e8ba29fd2f420dcdf9bcc,2026-02-22T23:40:00Z,Los Angeles Lakers,Boston Celtics,betmgm,105,-125,1.5,-105,-1.5,-115,228.5,-115,-105
+2026-02-22,NBA,439a6986fb7fa87228b403c29d22f4b6,2026-02-23T00:10:00Z,Minnesota Timberwolves,Philadelphia 76ers,betmgm,-350,275,-8.5,-115,8.5,-105,239.5,-105,-115
+2026-02-22,NBA,ded265e6250d4401a3786f34c967bc8b,2026-02-23T01:10:00Z,Chicago Bulls,New York Knicks,betmgm,350,-475,10.5,-115,-10.5,-105,231.5,-110,-110
+2026-02-22,NBA,14255f77d428aeeedddf9c964b461b3d,2026-02-23T01:10:00Z,Phoenix Suns,Portland Trail Blazers,betmgm,140,-170,3.5,-110,-3.5,-110,222.5,-110,-110
+2026-02-22,NBA,e553a415ff6fd8af818c5f4bc50fe23d,2026-02-23T02:10:00Z,Los Angeles Clippers,Orlando Magic,betmgm,-145,118,-2.5,-110,2.5,-110,215.5,-110,-110
