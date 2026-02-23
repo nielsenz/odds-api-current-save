@@ -2,15 +2,15 @@
 """Fetch historical NHL odds from The Odds API.
 
 Usage:
-    python fetch_historical_odds.py                     # defaults: 2025-10-04 to 2026-01-09
+    python fetch_historical_odds.py
     python fetch_historical_odds.py 2024-10-04 2025-06-25
-    python fetch_historical_odds.py 2023-10-10 2024-06-25
+    python fetch_historical_odds.py 2025-12-24 2026-02-08 --snapshot-hour-utc 16 --snapshot-minute-utc 30
 """
 
 import csv
 import os
-import sys
 import time
+import argparse
 import requests
 from datetime import datetime, timedelta
 
@@ -22,16 +22,22 @@ MARKETS = "h2h,spreads,totals"
 BOOKMAKER_KEYS = {"betmgm", "williamhill_us"}
 BOOKMAKER_DISPLAY = {"betmgm": "betmgm", "williamhill_us": "caesars"}
 
-# Snapshot time: noon Eastern (17:00 UTC) to get pre-game lines
-SNAPSHOT_HOUR_UTC = 17
+# Default snapshot time: noon Eastern (17:00 UTC) to get pre-game lines
+DEFAULT_SNAPSHOT_HOUR_UTC = 17
+DEFAULT_SNAPSHOT_MINUTE_UTC = 0
 
-OUTPUT_DIR = "data/historical"
+OUTPUT_DIR = "odds-data/historical"
+EXISTING_FILE_DIRS = ("odds-data/historical", "odds-data")
 
 CSV_COLUMNS = [
     "date",
     "sport",
     "game_id",
     "commence_time",
+    "snapshot_taken_at_utc",
+    "api_snapshot_timestamp_utc",
+    "response_received_at_utc",
+    "bookmaker_last_update_utc",
     "home_team",
     "away_team",
     "bookmaker",
@@ -47,7 +53,7 @@ CSV_COLUMNS = [
 ]
 
 
-def fetch_historical_odds(date_str):
+def fetch_historical_odds(date_str, snapshot_hour_utc, snapshot_minute_utc):
     """Fetch historical odds snapshot for a given date."""
     url = f"{BASE_URL}/sports/{SPORT}/odds/"
     params = {
@@ -55,7 +61,7 @@ def fetch_historical_odds(date_str):
         "regions": "us",
         "markets": MARKETS,
         "oddsFormat": "american",
-        "date": f"{date_str}T{SNAPSHOT_HOUR_UTC:02d}:00:00Z",
+        "date": f"{date_str}T{snapshot_hour_utc:02d}:{snapshot_minute_utc:02d}:00Z",
     }
 
     response = requests.get(url, params=params)
@@ -63,8 +69,9 @@ def fetch_historical_odds(date_str):
 
     remaining = response.headers.get("x-requests-remaining", "N/A")
     used = response.headers.get("x-requests-used", "N/A")
+    response_received_at = response.headers.get("date", "")
 
-    return response.json(), remaining, used
+    return response.json(), remaining, used, response_received_at
 
 
 def parse_market(markets, market_key, home_team, away_team):
@@ -76,7 +83,14 @@ def parse_market(markets, market_key, home_team, away_team):
     return None
 
 
-def parse_game_odds(game, bookmaker_data, date_str):
+def parse_game_odds(
+    game,
+    bookmaker_data,
+    date_str,
+    snapshot_taken_at_utc,
+    api_snapshot_timestamp_utc,
+    response_received_at_utc,
+):
     """Extract odds from a game's bookmaker data into a row dict."""
     home_team = game["home_team"]
     away_team = game["away_team"]
@@ -119,6 +133,10 @@ def parse_game_odds(game, bookmaker_data, date_str):
         "sport": "NHL",
         "game_id": game["id"],
         "commence_time": game["commence_time"],
+        "snapshot_taken_at_utc": snapshot_taken_at_utc,
+        "api_snapshot_timestamp_utc": api_snapshot_timestamp_utc,
+        "response_received_at_utc": response_received_at_utc,
+        "bookmaker_last_update_utc": bookmaker_data.get("last_update", ""),
         "home_team": home_team,
         "away_team": away_team,
         "bookmaker": BOOKMAKER_DISPLAY.get(bookmaker_data["key"], bookmaker_data["key"]),
@@ -135,12 +153,36 @@ def parse_game_odds(game, bookmaker_data, date_str):
 
 
 def main():
-    if len(sys.argv) >= 3:
-        start_date = datetime.strptime(sys.argv[1], "%Y-%m-%d")
-        end_date = datetime.strptime(sys.argv[2], "%Y-%m-%d")
-    else:
-        start_date = datetime(2025, 10, 4)
-        end_date = datetime(2026, 1, 9)
+    parser = argparse.ArgumentParser(description="Fetch historical NHL odds from The Odds API.")
+    parser.add_argument("start_date", nargs="?", default="2025-10-04", help="Start date (YYYY-MM-DD)")
+    parser.add_argument("end_date", nargs="?", default="2026-01-09", help="End date (YYYY-MM-DD)")
+    parser.add_argument(
+        "--snapshot-hour-utc",
+        type=int,
+        default=DEFAULT_SNAPSHOT_HOUR_UTC,
+        help=f"Snapshot hour UTC (0-23). Default: {DEFAULT_SNAPSHOT_HOUR_UTC}",
+    )
+    parser.add_argument(
+        "--snapshot-minute-utc",
+        type=int,
+        default=DEFAULT_SNAPSHOT_MINUTE_UTC,
+        help=f"Snapshot minute UTC (0-59). Default: {DEFAULT_SNAPSHOT_MINUTE_UTC}",
+    )
+    parser.add_argument(
+        "--snapshot-label",
+        default="",
+        help="Optional label to store an additional same-day snapshot (example: open_9pm_pst)",
+    )
+    args = parser.parse_args()
+
+    if args.snapshot_hour_utc < 0 or args.snapshot_hour_utc > 23:
+        raise ValueError("--snapshot-hour-utc must be between 0 and 23")
+    if args.snapshot_minute_utc < 0 or args.snapshot_minute_utc > 59:
+        raise ValueError("--snapshot-minute-utc must be between 0 and 59")
+    snapshot_label = args.snapshot_label.strip()
+
+    start_date = datetime.strptime(args.start_date, "%Y-%m-%d")
+    end_date = datetime.strptime(args.end_date, "%Y-%m-%d")
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -155,29 +197,55 @@ def main():
     print(f"Output directory: {OUTPUT_DIR}/")
     print(f"Bookmakers: BetMGM, Caesars")
     print(f"Markets: h2h, spreads, totals")
+    print(f"Snapshot time: {args.snapshot_hour_utc:02d}:{args.snapshot_minute_utc:02d} UTC")
     print()
 
     while current <= end_date:
         day_num += 1
         date_str = current.strftime("%Y-%m-%d")
-        output_file = os.path.join(OUTPUT_DIR, f"odds_{date_str}.csv")
+        filename = f"odds_{date_str}.csv" if not snapshot_label else f"odds_{date_str}_{snapshot_label}.csv"
+        output_file = os.path.join(OUTPUT_DIR, filename)
 
-        # Skip if file already exists (resumable)
-        if os.path.exists(output_file):
-            days_skipped += 1
-            print(f"[{day_num}/{total_days}] {date_str} - already exists, skipping")
-            current += timedelta(days=1)
-            continue
+        if snapshot_label:
+            # Labeled mode allows multiple same-day snapshots (for CLV/open-line studies).
+            # Only skip when the exact labeled file already exists.
+            if os.path.exists(output_file):
+                days_skipped += 1
+                print(f"[{day_num}/{total_days}] {date_str} - labeled file exists, skipping")
+                current += timedelta(days=1)
+                continue
+        else:
+            # Default mode is one snapshot per day and avoids overlap with base daily pulls.
+            if any(os.path.exists(os.path.join(d, f"odds_{date_str}.csv")) for d in EXISTING_FILE_DIRS):
+                days_skipped += 1
+                print(f"[{day_num}/{total_days}] {date_str} - already exists in tracked dirs, skipping")
+                current += timedelta(days=1)
+                continue
 
         try:
-            data, remaining, used = fetch_historical_odds(date_str)
+            data, remaining, used, response_received_at_utc = fetch_historical_odds(
+                date_str,
+                args.snapshot_hour_utc,
+                args.snapshot_minute_utc,
+            )
             games = data.get("data", [])
+            api_snapshot_timestamp_utc = data.get("timestamp", "")
+            snapshot_taken_at_utc = (
+                f"{date_str}T{args.snapshot_hour_utc:02d}:{args.snapshot_minute_utc:02d}:00Z"
+            )
 
             rows = []
             for game in games:
                 for bookmaker in game.get("bookmakers", []):
                     if bookmaker["key"] in BOOKMAKER_KEYS:
-                        row = parse_game_odds(game, bookmaker, date_str)
+                        row = parse_game_odds(
+                            game,
+                            bookmaker,
+                            date_str,
+                            snapshot_taken_at_utc,
+                            api_snapshot_timestamp_utc,
+                            response_received_at_utc,
+                        )
                         rows.append(row)
 
             if rows:

@@ -1,16 +1,16 @@
-name: Fetch Daily Odds
+name: Fetch Odds Close Snapshot
 
 on:
   schedule:
-    # 8am PST = 4pm UTC (PST is UTC-8)
-    - cron: '0 16 * * *'
-  workflow_dispatch: # Allow manual trigger
+    # 4pm PST (UTC-8)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  fetch-odds:
+  fetch-odds-close:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,9 +28,10 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
-      - name: Fetch odds data
+      - name: Fetch close snapshot
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ODDS_SNAPSHOT_LABEL: close
         run: uv run python fetch_odds.py
 
       - name: Commit and push if changes
@@ -38,5 +39,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/
-          git diff --staged --quiet || git commit -m "Add odds data for $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "Add close odds snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
