@@ -8,7 +8,7 @@ from datetime import datetime
 
 API_KEY = os.environ.get("ODDS_API_KEY", "80debdc11ce820b8f41822eb502d42f7")
 BASE_URL = "https://api.the-odds-api.com/v4"
-SPORTS = ["icehockey_nhl"]
+SPORTS = ["icehockey_nhl", "basketball_wnba"]
 BOOKMAKERS = "betmgm,caesars"
 MARKETS = "h2h,spreads,totals"
 
@@ -73,7 +73,14 @@ def parse_game_odds(game, bookmaker_data, today_str, snapshot_taken_at_utc, resp
     home_team = game["home_team"]
     away_team = game["away_team"]
     sport_key = game["sport_key"]
-    sport_name = "NHL" if "nhl" in sport_key else sport_key.upper()
+    if "wnba" in sport_key:
+        sport_name = "WNBA"
+    elif "nhl" in sport_key:
+        sport_name = "NHL"
+    elif "nba" in sport_key:
+        sport_name = "NBA"
+    else:
+        sport_name = sport_key.upper()
 
     markets = bookmaker_data.get("markets", [])
 
