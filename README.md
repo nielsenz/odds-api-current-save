@@ -1,15 +1,17 @@
 # Odds API
 
-Collects NHL betting odds from [The Odds API](https://the-odds-api.com/), including daily forward-looking line snapshots and historical data.
+Collects NHL and WNBA betting odds from [The Odds API](https://the-odds-api.com/), including daily forward-looking line snapshots and historical data.
 
 ## Goals
 
-- Focus collection on NHL markets only.
+- Collect odds for the active NHL and WNBA seasons. The live fetcher (`fetch_odds.py`) pulls both sports on every run and tags rows with a `sport` column (`NHL` / `WNBA`).
 - Capture line movement across the day with three snapshots:
   - `open` (8:00 PM PT, prior evening)
   - `morning` (7:00 AM PT)
   - `close` (4:00 PM PT)
 - Preserve every pull by writing timestamped files (no same-day overwrites).
+
+WNBA rows naturally appear once the WNBA regular season is in progress (mid-May through October); off-season pulls return zero WNBA rows without erroring. NHL rows cover the standard October-June calendar.
 
 ## Data
 
@@ -25,7 +27,9 @@ Files are written as `odds_YYYY-MM-DD_<snapshot_label>_YYYYMMDDTHHMMSSZ.csv`.
 
 ### Historical odds (`odds-data/historical/`)
 
-Pre-game snapshots (noon ET / 17:00 UTC) for NHL games, fetched from The Odds API's historical endpoint. Current coverage:
+Pre-game snapshots (noon ET / 17:00 UTC) for NHL games, fetched from The Odds API's historical endpoint. The historical backfiller (`fetch_historical_odds.py`) is currently NHL-only; WNBA history is sourced separately by downstream consumers.
+
+NHL coverage:
 
 | Season  | Date Range                    | Files |
 |---------|-------------------------------|-------|
@@ -72,7 +76,7 @@ spread_away_odds, total_line, total_over_odds, total_under_odds
 
 ### `fetch_odds.py`
 
-Fetches current NHL odds snapshots. Used by the GitHub Actions workflows.
+Fetches current NHL **and WNBA** odds snapshots in a single run. Used by the GitHub Actions workflows. Sports list is configured in the `SPORTS` constant at the top of the script (`icehockey_nhl`, `basketball_wnba`).
 
 ```bash
 ODDS_API_KEY=your_key uv run python fetch_odds.py
@@ -80,7 +84,7 @@ ODDS_API_KEY=your_key uv run python fetch_odds.py
 
 ### `fetch_historical_odds.py`
 
-Fetches historical NHL odds for a date range. Resumable (skips dates with existing files in `odds-data/historical/` or `odds-data/`).
+NHL-only. Fetches historical NHL odds for a date range. Resumable (skips dates with existing files in `odds-data/historical/` or `odds-data/`).
 
 Behavior:
 - Makes one historical request per day in the date range.
