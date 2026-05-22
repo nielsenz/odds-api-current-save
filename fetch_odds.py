@@ -9,7 +9,10 @@ from datetime import datetime
 API_KEY = os.environ.get("ODDS_API_KEY", "80debdc11ce820b8f41822eb502d42f7")
 BASE_URL = "https://api.the-odds-api.com/v4"
 SPORTS = ["icehockey_nhl", "basketball_wnba"]
-BOOKMAKERS = "betmgm,caesars"
+# Sharp + square coverage for the sharp_vs_square filter used by the WNBA
+# consensus tracker (see wnba/analysis/cover/eda/MULTI_BOOK_DISPERSION_RESULTS.md).
+# Adding bookmakers to a single regions/markets call does not multiply API quota cost.
+BOOKMAKERS = "betmgm,caesars,fanduel,draftkings,betrivers"
 MARKETS = "h2h,spreads,totals"
 
 CSV_COLUMNS = [

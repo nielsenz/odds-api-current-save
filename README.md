@@ -63,7 +63,7 @@ ml_home, ml_away, spread_home, spread_home_odds, spread_away,
 spread_away_odds, total_line, total_over_odds, total_under_odds
 ```
 
-- Bookmakers: BetMGM, Caesars
+- Bookmakers: BetMGM, Caesars, FanDuel, DraftKings, BetRivers (sharp + square coverage for the WNBA sharp_vs_square cover filter — see `wnba/analysis/cover/eda/MULTI_BOOK_DISPERSION_RESULTS.md`)
 - Markets: moneyline (h2h), spreads, totals
 - Odds format: American
 - Timestamp fields:
