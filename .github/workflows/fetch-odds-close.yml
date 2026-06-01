@@ -2,8 +2,22 @@ name: Fetch Odds Close Snapshot
 
 on:
   schedule:
-    # 4pm PST (UTC-8)
-    - cron: '0 0 * * *'
+    # Closing-line capture sweep across the NHL puck-drop window.
+    # NHL games for ET date D start ~7:00pm ET (00:00 UTC D+1) through
+    # ~10:30pm ET (03:30 UTC D+1). The Odds API drops a game from the feed
+    # once it starts, so a single late snapshot misses every early game and
+    # leaves those bets with no true close (they fall back to a same-day,
+    # pre-game proxy). We instead capture hourly across the window; the CLV
+    # finder picks, per game, the latest snapshot in which that game still
+    # appeared (its last pre-start line). Minute :17 avoids the heavily
+    # congested top-of-hour GitHub Actions queue (less scheduling delay).
+    # All files are labeled `close`; unique timestamps keep them distinct.
+    - cron: '17 23 * * *'   # ~6:17pm ET — before first puck drop (catches every game)
+    - cron: '17 0 * * *'    # ~7:17pm ET
+    - cron: '17 1 * * *'    # ~8:17pm ET
+    - cron: '17 2 * * *'    # ~9:17pm ET
+    - cron: '17 3 * * *'    # ~10:17pm ET
+    - cron: '17 4 * * *'    # ~11:17pm ET — true close for late West-coast games
   workflow_dispatch:
 
 permissions:
