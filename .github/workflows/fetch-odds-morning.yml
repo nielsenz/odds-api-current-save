@@ -35,6 +35,7 @@ jobs:
         run: uv run python fetch_odds.py
 
       - name: Commit and push if changes
+        if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"

@@ -3,10 +3,22 @@
 
 import csv
 import os
+import sys
 import requests
 from datetime import datetime
 
-API_KEY = os.environ.get("ODDS_API_KEY", "80debdc11ce820b8f41822eb502d42f7")
+API_KEY = os.environ.get("ODDS_API_KEY", "")
+HEARTBEAT_FILE = "data/heartbeat.csv"
+HEARTBEAT_COLUMNS = [
+    "run_at_utc",
+    "snapshot_label",
+    "sport",
+    "games",
+    "rows",
+    "error",
+    "quota_used",
+    "quota_remaining",
+]
 BASE_URL = "https://api.the-odds-api.com/v4"
 SPORTS = ["icehockey_nhl", "basketball_wnba"]
 # Sharp + square coverage for the sharp_vs_square filter used by the WNBA
@@ -59,7 +71,29 @@ def fetch_odds(sport):
     print(f"  API quota - Used: {used}, Remaining: {remaining}")
 
     response_received_at = response.headers.get("date", "")
-    return response.json(), response_received_at
+    return response.json(), response_received_at, used, remaining
+
+
+def redact_key(text):
+    """Strip the API key from error text before it hits logs or the committed heartbeat."""
+    return str(text).replace(API_KEY, "***") if API_KEY else str(text)
+
+
+def append_heartbeat(rows):
+    """Record every run's outcome so silent failures are impossible.
+
+    The June 12-30 2026 outage (quota 401s swallowed for 19 days, losing the
+    Cup Final closes) motivated this: the heartbeat commits on every run, so a
+    day with no odds files but a heartbeat row showing an error is
+    distinguishable from the collector simply not running.
+    """
+    os.makedirs("data", exist_ok=True)
+    write_header = not os.path.exists(HEARTBEAT_FILE)
+    with open(HEARTBEAT_FILE, "a", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=HEARTBEAT_COLUMNS)
+        if write_header:
+            writer.writeheader()
+        writer.writerows(rows)
 
 
 def parse_market(markets, market_key, home_team, away_team):
@@ -144,6 +178,9 @@ def parse_game_odds(game, bookmaker_data, today_str, snapshot_taken_at_utc, resp
 
 def main():
     """Main entry point."""
+    if not API_KEY:
+        print("ERROR: ODDS_API_KEY is not set (the hardcoded fallback key was removed).")
+        sys.exit(1)
     today = datetime.utcnow()
     today_str = today.strftime("%Y-%m-%d")
     fetched_at_utc = today.strftime("%Y%m%dT%H%M%SZ")
@@ -159,14 +196,22 @@ def main():
     print(f"Fetching odds for {today_str} ({snapshot_label})...")
 
     all_rows = []
+    heartbeat_rows = []
+    errors = []
 
     for sport in SPORTS:
         sport_name = "NHL" if "nhl" in sport else sport.upper()
         print(f"\nFetching {sport_name} odds...")
 
+        sport_rows = 0
+        n_games = 0
+        error_text = ""
+        quota_used = ""
+        quota_remaining = ""
         try:
-            games, response_received_at_utc = fetch_odds(sport)
-            print(f"  Found {len(games)} games")
+            games, response_received_at_utc, quota_used, quota_remaining = fetch_odds(sport)
+            n_games = len(games)
+            print(f"  Found {n_games} games")
 
             for game in games:
                 for bookmaker in game.get("bookmakers", []):
@@ -178,11 +223,29 @@ def main():
                         response_received_at_utc,
                     )
                     all_rows.append(row)
+                    sport_rows += 1
 
         except requests.exceptions.HTTPError as e:
-            print(f"  Error fetching {sport_name}: {e}")
+            error_text = redact_key(f"HTTPError: {e}")
+            print(f"  Error fetching {sport_name}: {error_text}")
         except Exception as e:
-            print(f"  Unexpected error for {sport_name}: {e}")
+            error_text = redact_key(f"{type(e).__name__}: {e}")
+            print(f"  Unexpected error for {sport_name}: {error_text}")
+
+        if error_text:
+            errors.append(f"{sport_name}: {error_text}")
+        heartbeat_rows.append({
+            "run_at_utc": snapshot_taken_at_utc,
+            "snapshot_label": snapshot_label,
+            "sport": sport_name,
+            "games": n_games,
+            "rows": sport_rows,
+            "error": error_text,
+            "quota_used": quota_used,
+            "quota_remaining": quota_remaining,
+        })
+
+    append_heartbeat(heartbeat_rows)
 
     if all_rows:
         with open(output_file, "w", newline="") as f:
@@ -193,6 +256,14 @@ def main():
         print(f"\nWrote {len(all_rows)} rows to {output_file}")
     else:
         print("\nNo odds data found.")
+
+    if errors:
+        # Fail the run loudly: a scheduled-workflow failure emails the repo
+        # owner, whereas the old swallow-and-exit-0 path hid a 19-day outage.
+        print(f"\nFAILED: {len(errors)} sport fetch error(s):")
+        for err in errors:
+            print(f"  - {err}")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
