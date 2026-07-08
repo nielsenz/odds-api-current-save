@@ -41,4 +41,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data/
           git diff --staged --quiet || git commit -m "Add open odds snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git pull --rebase origin main
           git push
