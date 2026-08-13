@@ -1,9 +1,9 @@
-name: Fetch Odds Open Snapshot
+name: Fetch Football Odds Snapshot
 
 on:
   schedule:
-    # 8pm PST (UTC-8) nightly
-    - cron: '0 4 * * *'
+    # Daily baseline, offset from both the top of the hour and the NHL/WNBA job.
+    - cron: '47 15 * * *'
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  fetch-odds-open:
+  fetch-football:
     runs-on: ubuntu-latest
 
     steps:
@@ -34,10 +34,11 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
-      - name: Fetch open snapshot
+      - name: Fetch NFL and college football snapshot
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-          ODDS_SNAPSHOT_LABEL: open
+          ODDS_SNAPSHOT_LABEL: football
+          ODDS_SPORTS: americanfootball_nfl,americanfootball_ncaaf
         run: uv run python fetch_odds.py
 
       - name: Commit and push if changes
@@ -46,6 +47,6 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/
-          git diff --staged --quiet || git commit -m "Add open odds snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git diff --staged --quiet || git commit -m "Add football odds snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git pull --rebase origin main
           git push

@@ -23,6 +23,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: odds-data-writer
+  cancel-in-progress: false
+
 jobs:
   fetch-odds-close:
     runs-on: ubuntu-latest
@@ -30,6 +34,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -49,7 +55,7 @@ jobs:
         run: uv run python fetch_odds.py
 
       - name: Commit and push if changes
-        if: success()
+        if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"

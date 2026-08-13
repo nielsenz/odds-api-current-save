@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch NHL betting line snapshots from The Odds API."""
+"""Fetch configurable current betting-line snapshots from The Odds API."""
 
 import csv
 import os
@@ -20,12 +20,28 @@ HEARTBEAT_COLUMNS = [
     "quota_remaining",
 ]
 BASE_URL = "https://api.the-odds-api.com/v4"
-SPORTS = ["icehockey_nhl", "basketball_wnba"]
+DEFAULT_SPORTS = ("icehockey_nhl", "basketball_wnba")
+SPORTS = tuple(
+    sport.strip()
+    for sport in os.environ.get("ODDS_SPORTS", ",".join(DEFAULT_SPORTS)).split(",")
+    if sport.strip()
+)
 # Sharp + square coverage for the sharp_vs_square filter used by the WNBA
 # consensus tracker (see wnba/analysis/cover/eda/MULTI_BOOK_DISPERSION_RESULTS.md).
 # Adding bookmakers to a single regions/markets call does not multiply API quota cost.
-BOOKMAKERS = "betmgm,caesars,fanduel,draftkings,betrivers"
-MARKETS = "h2h,spreads,totals"
+BOOKMAKERS = os.environ.get(
+    "ODDS_BOOKMAKERS", "betmgm,caesars,fanduel,draftkings,betrivers"
+)
+MARKETS = os.environ.get("ODDS_MARKETS", "h2h,spreads,totals")
+REQUEST_TIMEOUT_SECONDS = float(os.environ.get("ODDS_REQUEST_TIMEOUT", "30"))
+
+SPORT_NAMES = {
+    "americanfootball_nfl": "NFL",
+    "americanfootball_ncaaf": "CFB",
+    "basketball_nba": "NBA",
+    "basketball_wnba": "WNBA",
+    "icehockey_nhl": "NHL",
+}
 
 CSV_COLUMNS = [
     "date",
@@ -62,7 +78,7 @@ def fetch_odds(sport):
         "oddsFormat": "american",
     }
 
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, timeout=REQUEST_TIMEOUT_SECONDS)
     response.raise_for_status()
 
     # Print quota info from headers
@@ -77,6 +93,11 @@ def fetch_odds(sport):
 def redact_key(text):
     """Strip the API key from error text before it hits logs or the committed heartbeat."""
     return str(text).replace(API_KEY, "***") if API_KEY else str(text)
+
+
+def sport_name(sport_key):
+    """Return the stable short label stored in CSV and heartbeat rows."""
+    return SPORT_NAMES.get(sport_key, sport_key.upper())
 
 
 def append_heartbeat(rows):
@@ -109,15 +130,7 @@ def parse_game_odds(game, bookmaker_data, today_str, snapshot_taken_at_utc, resp
     """Extract odds from a game's bookmaker data into a row dict."""
     home_team = game["home_team"]
     away_team = game["away_team"]
-    sport_key = game["sport_key"]
-    if "wnba" in sport_key:
-        sport_name = "WNBA"
-    elif "nhl" in sport_key:
-        sport_name = "NHL"
-    elif "nba" in sport_key:
-        sport_name = "NBA"
-    else:
-        sport_name = sport_key.upper()
+    game_sport_name = sport_name(game["sport_key"])
 
     markets = bookmaker_data.get("markets", [])
 
@@ -154,7 +167,7 @@ def parse_game_odds(game, bookmaker_data, today_str, snapshot_taken_at_utc, resp
 
     return {
         "date": today_str,
-        "sport": sport_name,
+        "sport": game_sport_name,
         "game_id": game["id"],
         "commence_time": game["commence_time"],
         "snapshot_taken_at_utc": snapshot_taken_at_utc,
@@ -179,8 +192,22 @@ def parse_game_odds(game, bookmaker_data, today_str, snapshot_taken_at_utc, resp
 def main():
     """Main entry point."""
     if not API_KEY:
-        print("ERROR: ODDS_API_KEY is not set (the hardcoded fallback key was removed).")
+        error = "ODDS_API_KEY is not set"
+        append_heartbeat([{
+            "run_at_utc": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "snapshot_label": os.environ.get("ODDS_SNAPSHOT_LABEL", "snapshot"),
+            "sport": "CONFIG",
+            "games": 0,
+            "rows": 0,
+            "error": error,
+            "quota_used": "",
+            "quota_remaining": "",
+        }])
+        print(f"ERROR: {error}.")
         sys.exit(1)
+    if not SPORTS:
+        print("ERROR: ODDS_SPORTS did not contain any sport keys.")
+        sys.exit(2)
     today = datetime.utcnow()
     today_str = today.strftime("%Y-%m-%d")
     fetched_at_utc = today.strftime("%Y%m%dT%H%M%SZ")
@@ -200,8 +227,8 @@ def main():
     errors = []
 
     for sport in SPORTS:
-        sport_name = "NHL" if "nhl" in sport else sport.upper()
-        print(f"\nFetching {sport_name} odds...")
+        display_name = sport_name(sport)
+        print(f"\nFetching {display_name} odds...")
 
         sport_rows = 0
         n_games = 0
@@ -227,17 +254,17 @@ def main():
 
         except requests.exceptions.HTTPError as e:
             error_text = redact_key(f"HTTPError: {e}")
-            print(f"  Error fetching {sport_name}: {error_text}")
+            print(f"  Error fetching {display_name}: {error_text}")
         except Exception as e:
             error_text = redact_key(f"{type(e).__name__}: {e}")
-            print(f"  Unexpected error for {sport_name}: {error_text}")
+            print(f"  Unexpected error for {display_name}: {error_text}")
 
         if error_text:
-            errors.append(f"{sport_name}: {error_text}")
+            errors.append(f"{display_name}: {error_text}")
         heartbeat_rows.append({
             "run_at_utc": snapshot_taken_at_utc,
             "snapshot_label": snapshot_label,
-            "sport": sport_name,
+            "sport": display_name,
             "games": n_games,
             "rows": sport_rows,
             "error": error_text,
