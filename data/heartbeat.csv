@@ -393,3 +393,5 @@ run_at_utc,snapshot_label,sport,games,rows,error,quota_used,quota_remaining
 2026-08-16T16:01:21Z,football,CFB,111,296,,16005,3995
 2026-08-16T23:33:56Z,close,NHL,30,47,,16008,3992
 2026-08-16T23:33:56Z,close,WNBA,4,15,,16011,3989
+2026-08-17T01:56:55Z,close,NHL,30,47,,16014,3986
+2026-08-17T01:56:55Z,close,WNBA,5,14,,16017,3983
