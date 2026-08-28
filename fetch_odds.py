@@ -20,6 +20,8 @@ HEARTBEAT_COLUMNS = [
     "quota_remaining",
 ]
 BASE_URL = "https://api.the-odds-api.com/v4"
+# Preserve the lightweight NHL/WNBA default.  NCAAB is opt-in through
+# ``ODDS_SPORTS`` so existing scheduled pulls do not consume an extra request.
 DEFAULT_SPORTS = ("icehockey_nhl", "basketball_wnba")
 SPORTS = tuple(
     sport.strip()
@@ -40,6 +42,7 @@ SPORT_NAMES = {
     "americanfootball_ncaaf": "CFB",
     "basketball_nba": "NBA",
     "basketball_wnba": "WNBA",
+    "basketball_ncaab": "NCAAB",
     "icehockey_nhl": "NHL",
 }
 

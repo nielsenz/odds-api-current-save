@@ -10,6 +10,7 @@ class FetchOddsTests(unittest.TestCase):
         self.assertEqual(sport_name("americanfootball_nfl"), "NFL")
         self.assertEqual(sport_name("americanfootball_ncaaf"), "CFB")
         self.assertEqual(sport_name("basketball_wnba"), "WNBA")
+        self.assertEqual(sport_name("basketball_ncaab"), "NCAAB")
 
     def test_football_row_uses_short_sport_label(self) -> None:
         game = {
