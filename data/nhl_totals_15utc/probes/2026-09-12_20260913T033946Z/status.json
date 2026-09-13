@@ -1,0 +1,23 @@
+{
+  "mode": "probe",
+  "decision_asof": "2026-09-12T15:00:00Z",
+  "attempt_at": "2026-09-13T03:39:46Z",
+  "prospective_capture": false,
+  "markets": [
+    "totals"
+  ],
+  "region": "us",
+  "funded": false,
+  "status": "captured",
+  "retrieved_at": "2026-09-13T03:39:47Z",
+  "vendor_asof": "2026-09-12T14:55:36Z",
+  "returned_events": 32,
+  "valid_book_lines": 127,
+  "events_without_totals": 0,
+  "missing_execution_books": [],
+  "quota": {
+    "x-requests-remaining": "6807",
+    "x-requests-used": "13193",
+    "x-requests-last": "10"
+  }
+}
