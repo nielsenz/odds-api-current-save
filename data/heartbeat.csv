@@ -993,3 +993,5 @@ run_at_utc,snapshot_label,sport,games,rows,error,quota_used,quota_remaining
 2026-09-19T05:51:19Z,close,WNBA,3,12,,18179,1821
 2026-09-19T07:21:44Z,close,NHL,33,71,,18182,1818
 2026-09-19T07:21:44Z,close,WNBA,3,12,,18185,1815
+2026-09-19T08:08:10Z,close,NHL,33,71,,18188,1812
+2026-09-19T08:08:10Z,close,WNBA,3,12,,18191,1809
