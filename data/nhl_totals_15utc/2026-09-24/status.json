@@ -1,0 +1,13 @@
+{
+  "mode": "capture",
+  "decision_asof": "2026-09-24T15:00:00Z",
+  "attempt_at": "2026-09-24T19:00:27Z",
+  "prospective_capture": false,
+  "markets": [
+    "totals"
+  ],
+  "region": "us",
+  "funded": false,
+  "status": "missed_window",
+  "reason": "No automatic historical recovery outside 15:05\u201315:20 UTC"
+}
