@@ -1221,3 +1221,5 @@ run_at_utc,snapshot_label,sport,games,rows,error,quota_used,quota_remaining
 2026-10-01T20:34:05Z,football,CFB,71,192,,57,19943
 2026-10-02T02:16:02Z,close,NHL,24,54,,1891,18109
 2026-10-02T02:16:02Z,close,WNBA,3,11,,1894,18106
+2026-10-02T05:48:47Z,close,NHL,19,39,,18722,1278
+2026-10-02T05:48:47Z,close,WNBA,2,7,,18725,1275
