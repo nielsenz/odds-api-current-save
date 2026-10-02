@@ -1,0 +1,12 @@
+{
+  "live_reference": "NFL/CFB/NHL/WNBA main markets and NFL/NHL supported outright boards",
+  "nfl_2025": "18 weekly main boards, 44 outcome-independent game samples with 24h/30m prop pairs",
+  "cbb": "2025 November\u2013December daily 12:00 UTC spreads",
+  "wnba": "2026 every-third-day 15:00 UTC spread/total boards and 24 sampled 30m closes",
+  "wnba_props": "Three-event points/rebounds/assists pilot at 24h and 30m, if budget permits",
+  "nhl_props": "16 sampled 2025\u201326 games, 24h/30m shots-on-goal pairs",
+  "nba": "2025 every-ninth-day Jan\u2013Jun spread/total pilot",
+  "nhl_missing_season": "2023\u201324 daily 05:00/15:00 UTC all-US moneylines; 2024\u201326 already archived",
+  "budget": 12000,
+  "quota_reserve": 1000
+}

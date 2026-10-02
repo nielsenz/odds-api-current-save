@@ -1,0 +1,10 @@
+{
+  "requests": 829,
+  "credits_spent": 11964,
+  "budget": 12000,
+  "account_remaining_last_observed": 1281,
+  "outcome_rows": 211146,
+  "errors": [],
+  "production_feeds_modified": false,
+  "status": "research_only"
+}

@@ -14,3 +14,9 @@ python research/totals_capture.py recover --date YYYY-MM-DD --root data/nhl_tota
 ```
 
 API operations require `ODDS_API_KEY`; never place a credential in a command or archive. Manual probes/recoveries have separate directories and always have `prospective_capture=false`. A probe establishes endpoint access and persistence, not future scheduled reliability. Check workflow failures and calendar gaps; no automatic recovery fills missed days. Quotes alone are not a prospective betting test: forecasts and a fixed evaluation policy must also be archived before outcomes.
+
+## Cross sport research odds
+
+[October 1 Pacific collection](odds-expansion-20261002/README.md) adds bounded historical game and prop snapshots, current multi-book references, and the missing 2023–24 NHL moneyline slots. It has a separate raw-response archive and credit ledger; it does not feed the frozen capture service above.
+
+`python collect_research_budget.py --plan --out research/NEW_RUN --budget 12000` previews the collection. Supply `ODDS_API_KEY` through the environment or an owner-readable credential file using `--key-file`. The collector resumes identical requests, records actual credit costs, leaves a 1,000-credit account reserve and excludes rejected effective timestamps from normalized export. Empty responses and absent props remain visible in the request journal.
