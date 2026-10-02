@@ -1,0 +1,270 @@
+{
+  "odds_rows": 211146,
+  "matched_odds_rows": 81230,
+  "unmatched_odds_rows": 129916,
+  "duplicate_quote_identities": 10,
+  "conflicting_price_quote_identities": 10,
+  "forecast_rows": 118721,
+  "matched_forecasts": 3789,
+  "per_model": {
+    "nfl_phase4_corrected": {
+      "forecasts": 287,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 281,
+      "joined_quote_rows": 10142,
+      "strict_quote_rows": 10142,
+      "matched_games_or_future_teams": 281,
+      "strict_matched_forecasts": 281,
+      "matched_forecasts_with_actuals": 266,
+      "clock_verified_quote_rows": 330
+    },
+    "nfl_revamp_totals_saved": {
+      "forecasts": 287,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 281,
+      "joined_quote_rows": 9820,
+      "strict_quote_rows": 9820,
+      "matched_games_or_future_teams": 281,
+      "strict_matched_forecasts": 281,
+      "matched_forecasts_with_actuals": 266,
+      "clock_verified_quote_rows": 0
+    },
+    "nfl_primary_epa": {
+      "forecasts": 30,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 30,
+      "joined_quote_rows": 660,
+      "strict_quote_rows": 660,
+      "matched_games_or_future_teams": 15,
+      "strict_matched_forecasts": 30,
+      "matched_forecasts_with_actuals": 0,
+      "clock_verified_quote_rows": 660
+    },
+    "nfl_independent": {
+      "forecasts": 30,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 30,
+      "joined_quote_rows": 660,
+      "strict_quote_rows": 660,
+      "matched_games_or_future_teams": 15,
+      "strict_matched_forecasts": 30,
+      "matched_forecasts_with_actuals": 0,
+      "clock_verified_quote_rows": 660
+    },
+    "nfl_prior_volume_calibration": {
+      "forecasts": 1128,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 156,
+      "joined_quote_rows": 4706,
+      "strict_quote_rows": 2172,
+      "matched_games_or_future_teams": 44,
+      "strict_matched_forecasts": 156,
+      "matched_forecasts_with_actuals": 156,
+      "clock_verified_quote_rows": 0
+    },
+    "nfl_injury_aware_yards_mean": {
+      "forecasts": 6922,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 428,
+      "joined_quote_rows": 10546,
+      "strict_quote_rows": 4748,
+      "matched_games_or_future_teams": 32,
+      "strict_matched_forecasts": 406,
+      "matched_forecasts_with_actuals": 428,
+      "clock_verified_quote_rows": 0
+    },
+    "nfl_injury_aware_reception_mean": {
+      "forecasts": 6922,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 413,
+      "joined_quote_rows": 10082,
+      "strict_quote_rows": 4613,
+      "matched_games_or_future_teams": 32,
+      "strict_matched_forecasts": 389,
+      "matched_forecasts_with_actuals": 413,
+      "clock_verified_quote_rows": 0
+    },
+    "nfl_experimental_super_bowl": {
+      "forecasts": 32,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 32,
+      "joined_quote_rows": 224,
+      "strict_quote_rows": 224,
+      "matched_games_or_future_teams": 32,
+      "strict_matched_forecasts": 32,
+      "matched_forecasts_with_actuals": 0,
+      "clock_verified_quote_rows": 224
+    },
+    "cbb_canonical_ridge": {
+      "forecasts": 5406,
+      "excluded_forecasts": 487,
+      "matched_forecasts": 1674,
+      "joined_quote_rows": 28028,
+      "strict_quote_rows": 28028,
+      "matched_games_or_future_teams": 1674,
+      "strict_matched_forecasts": 1674,
+      "matched_forecasts_with_actuals": 1674,
+      "clock_verified_quote_rows": 0
+    },
+    "wnba_joint_score": {
+      "forecasts": 76,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 28,
+      "joined_quote_rows": 748,
+      "strict_quote_rows": 748,
+      "matched_games_or_future_teams": 14,
+      "strict_matched_forecasts": 28,
+      "matched_forecasts_with_actuals": 28,
+      "clock_verified_quote_rows": 0
+    },
+    "wnba_saved_spread_baseline": {
+      "forecasts": 358,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 128,
+      "joined_quote_rows": 3324,
+      "strict_quote_rows": 3324,
+      "matched_games_or_future_teams": 64,
+      "strict_matched_forecasts": 128,
+      "matched_forecasts_with_actuals": 128,
+      "clock_verified_quote_rows": 0
+    },
+    "nhl_saved_site_pregame": {
+      "forecasts": 2808,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 95,
+      "joined_quote_rows": 938,
+      "strict_quote_rows": 938,
+      "matched_games_or_future_teams": 95,
+      "strict_matched_forecasts": 95,
+      "matched_forecasts_with_actuals": 95,
+      "clock_verified_quote_rows": 0
+    },
+    "nhl_prior_roster_sog_replay": {
+      "forecasts": 94435,
+      "excluded_forecasts": 0,
+      "matched_forecasts": 213,
+      "joined_quote_rows": 2672,
+      "strict_quote_rows": 1882,
+      "matched_games_or_future_teams": 14,
+      "strict_matched_forecasts": 204,
+      "matched_forecasts_with_actuals": 208,
+      "clock_verified_quote_rows": 0
+    }
+  },
+  "quote_statuses": [
+    {
+      "sport": "americanfootball_nfl",
+      "status": "no_saved_forecast",
+      "rows": 12388
+    },
+    {
+      "sport": "americanfootball_nfl",
+      "status": "matched",
+      "rows": 45296
+    },
+    {
+      "sport": "americanfootball_ncaaf",
+      "status": "no_saved_forecast",
+      "rows": 3724
+    },
+    {
+      "sport": "icehockey_nhl",
+      "status": "no_saved_forecast",
+      "rows": 94030
+    },
+    {
+      "sport": "basketball_wnba",
+      "status": "no_saved_forecast",
+      "rows": 7132
+    },
+    {
+      "sport": "americanfootball_nfl_super_bowl_winner",
+      "status": "matched",
+      "rows": 224
+    },
+    {
+      "sport": "icehockey_nhl_championship_winner",
+      "status": "no_saved_forecast",
+      "rows": 128
+    },
+    {
+      "sport": "basketball_ncaab",
+      "status": "no_saved_forecast",
+      "rows": 7600
+    },
+    {
+      "sport": "basketball_ncaab",
+      "status": "matched",
+      "rows": 28028
+    },
+    {
+      "sport": "basketball_ncaab",
+      "status": "home_away_mismatch",
+      "rows": 4
+    },
+    {
+      "sport": "basketball_wnba",
+      "status": "matched",
+      "rows": 4072
+    },
+    {
+      "sport": "icehockey_nhl",
+      "status": "matched",
+      "rows": 3610
+    },
+    {
+      "sport": "basketball_nba",
+      "status": "no_saved_forecast",
+      "rows": 4910
+    }
+  ],
+  "unavailable": [
+    "CBB: retained unmatched and excluded from joining 487 2025 forecasts with cutoff on/after target date; fit exclusivity unverified.",
+    "NBA saved walk-forward predictions end 2024-01-21; collected NBA quotes are 2025. No overlapping forecast source.",
+    "NHL saved pregame forecasts begin October 2024; the new 2023-24 moneyline archive has no overlapping registered forecast. NHL championship futures source not registered.",
+    "No registered 2026 WNBA player-prop or current CFB forecast source found for this archive."
+  ],
+  "credits_used": 0,
+  "ledger_writes": 0,
+  "odds_sha256": "9dd1bf6a59a9e52c3387e6bf306b24e5c1c75d6399fa1e5d664dd6c9402deac7",
+  "source_sha256": {
+    "nfl/team_model/python-team-model/outputs/2026/week-4-refresh-20261002T050339Z/inputs/schedules.csv": "7cbe5758d1c666628f78505f72aebcb58b00b943cae0bc6cab021249fedb3c44",
+    "nfl/team_model/python-team-model/.cache/player-movement/players.csv": "f3c5d0abc9cc1d7d527714c08ecbe95b964447df9329a8e35d845c812fe98efe",
+    "nfl/team_model/python-team-model/outputs/2025/week-1/predictions_v4_optimized_week_1_2025.csv": "d70708ebc9b8567fec1ff128ae817419d063ed70ad0b5a2ba7727bd14485425f",
+    "nfl/team_model/python-team-model/outputs/2025/week-10/predictions_v4_optimized_week_10_2025.csv": "ee051a83214fba65654e5ffd615b3a4a3f0a455017157e1415cbd48ad6de65c2",
+    "nfl/team_model/python-team-model/outputs/2025/week-11/predictions_v4_optimized_week_11_2025.csv": "93bb7c9db9770ca192e68868f825b9ce0180d09ede2296c21ee2e77d59ec15e3",
+    "nfl/team_model/python-team-model/outputs/2025/week-12/predictions_v4_optimized_week_12_2025.csv": "a498a7081ca063ead50c5a3cb8533351cc8d6bb6b5ed0824d4065720fc5dab20",
+    "nfl/team_model/python-team-model/outputs/2025/week-13/predictions_v4_optimized_week_13_2025.csv": "79b61f493274bcc36f509746fee704607fb0a57d7636f35da43375afbb11059f",
+    "nfl/team_model/python-team-model/outputs/2025/week-14/predictions_v4_optimized_week_14_2025.csv": "f5cf0bdffba35536f353ff99a3b1ecaec864e8350c70f3209297d4543b89acc7",
+    "nfl/team_model/python-team-model/outputs/2025/week-15/predictions_v4_optimized_week_15_2025.csv": "8d7efa972a10d8ce8c62af83c7989eca954f8390e327acb465a8977de8a6f3f6",
+    "nfl/team_model/python-team-model/outputs/2025/week-16/predictions_v4_optimized_week_16_2025.csv": "de6781e6dc2a77b012c54bf9af0ee6540ec7087cbd596387ec02e7b4db680888",
+    "nfl/team_model/python-team-model/outputs/2025/week-17/predictions_v4_optimized_week_17_2025.csv": "887f723eb363cacec7a2d26d2ff38804781cd86da4c161de1ed9bbbc11a2a7df",
+    "nfl/team_model/python-team-model/outputs/2025/week-18/predictions_v4_optimized_week_18_2025.csv": "e274c185651dc3c35a3a904a1e87400100ca4ea697a97b2c99220af471fbf216",
+    "nfl/team_model/python-team-model/outputs/2025/week-2/predictions_v4_optimized_week_2_2025.csv": "05abdb4616d8c5afb3b2149ab2c85be9a02b6c8ab9ce351ff4252619f59fe886",
+    "nfl/team_model/python-team-model/outputs/2025/week-3/predictions_v4_optimized_week_3_2025.csv": "c8c22ebe6c38f2941db1d747f78e65eb3a3800c97c28264a91dc30bdd061dcd6",
+    "nfl/team_model/python-team-model/outputs/2025/week-4/predictions_v4_optimized_week_4_2025.csv": "0241ee336fa0eb809d1c389158ec15e83394cdbf5666fba0cb310d1b07c2a2a2",
+    "nfl/team_model/python-team-model/outputs/2025/week-5/predictions_v4_optimized_week_5_2025.csv": "fd8458a5f6947f9694a99712502c715136d4a1eff2112799dc666392b86059df",
+    "nfl/team_model/python-team-model/outputs/2025/week-6/predictions_v4_optimized_week_6_2025.csv": "1ea0c5c35366d337a921407e997a1d379dcb5398b2c8943b3a9ed0bf48365c26",
+    "nfl/team_model/python-team-model/outputs/2025/week-7/predictions_v4_optimized_week_7_2025.csv": "f70345ec7e19134b609c32ddd427fa368fdcd47d82220ae57a8472159a5c3681",
+    "nfl/team_model/python-team-model/outputs/2025/week-8/predictions_v4_optimized_week_8_2025.csv": "05f0feca6e32656f3714ad420d1ac07acdc0cf2f7d7f13cb575e94c249b50e8a",
+    "nfl/team_model/python-team-model/outputs/2025/week-9/predictions_v4_optimized_week_9_2025.csv": "79ac4a9924cd0504686789b430a1ab9aaf7feb527989b36a1679d6345509b254",
+    "nfl/team_model/python-team-model/outputs/2025/summary/2025_totals_vs_actuals.csv": "aba9ea3175ee8fe69cc8533c9951ea4cd42bfb9b96d4447239f165baca175b55",
+    "nfl/team_model/python-team-model/outputs/2026/week-4-refresh-20261002T050339Z/run_manifest.json": "51c443b7ceb9fe16214f30de623ecbb3b95ceef6e5cba8032ffce3626d6393c6",
+    "nfl/team_model/python-team-model/outputs/2026/week-4-refresh-20261002T050339Z/phase4/2026/week-4/predictions_v4_optimized_week_4_2026.csv": "60d0cdc505cbf67e41ea8cfacc7b70ff7074e4aa7a817e28464c75fe34743c14",
+    "nfl/team_model/python-team-model/outputs/2026/week-4-refresh-20261002T050339Z/totals.csv": "62ba0f3ce7b203e1d219f7c7531b5b4a031d22669caedaaa2974ab15524cfdce",
+    "nfl/team_model/python-team-model/outputs/2026/week-4-refresh-20261002T050339Z/weekly-primary-qb-context/score_forecasts.csv": "eac842c8ab622d06dd279db8a1b32946d030157fd4724af0e0fce093bb7082bd",
+    "nfl/team_model/python-team-model/outputs/2026/week-4-refresh-20261002T050339Z/independent.csv": "d147a9c09e3b970551256939b749800647724f4f9e8e6c987f8b0ccbaffb7beb",
+    "nfl/team_model/python-team-model/outputs/experiments/advanced-volume-props-20260926-v3/predictions.parquet": "0d8fc66070e64aa5a25790837a343dadebb1bd75b199bf62d8ae64cc510dedb1",
+    "nfl/team_model/python-team-model/outputs/experiments/yard-new-seasons-20260927-v3/2025_panel.parquet": "5801d1eecfa7b289a59b586962cbdba5d201f9d465dfbf482c7045fe49493ef3",
+    "nfl/team_model/python-team-model/outputs/experiments/yard-new-seasons-20260927-v3/2025_predictions.parquet": "9867df2ec5e693c5b9c677aad63c9ed76c272d8847fc4f1b64372366c5d198a0",
+    "nfl/team_model/python-team-model/outputs/2026/week-4-refresh-20261002T050339Z/futures-asof-thursday-final/manifest.json": "9b269814f352d6b6d933a2cbde1ba2351c3271ce472ec7d0f95acce3f070f4b2",
+    "nfl/team_model/python-team-model/outputs/2026/week-4-refresh-20261002T050339Z/futures-asof-thursday-final/futures.csv": "41c26029e34b4a60a7132b6638a8967506b3fcde09d2adfd87f08e6af93855f6",
+    "college-basketball/validation/results/legit_spread_roi/legit_spread_predictions.csv": "59359ab228249792fb9c53a82f3b19ed933a331b9915c2f89ce59c0680daac83",
+    "wnba/analysis/joint_score_model/stage1_predictions_2026.csv": "b6165b232f0ab75ecf9974db68bf1eae196645688526631c9f800acb123cf5d9",
+    "wnba/analysis/cover/stage1/2026_feature_build/spread_advanced_predictions_2026.csv": "13124a2938cbd267c830f595ff369266a06d44b0d8cdd7e40cd1db01d1184909",
+    "nhl/nhl-revamp/exports/historical/pregame_predictions_correctness.csv": "92112d3371ed7cbd0a00c42576593136a445d5e2e32d38455ffe76bf4fe804c4",
+    "nhl/sog-model/outputs/opportunities/production_rolling_predictions.csv.gz": "73027553e3df787016f9a76586cc23c48196c23ac243242ae00810819202e857",
+    "nhl/sog-model/outputs/bottom_up_audit/per_player_predictions.csv.gz": "f912a06d180b5c5879d667999f78fe18395c64dfb10cc480fcabf97fa0c0e919",
+    "nba/data/models/walkforward_predictions.csv": "cc2cd781803f4449c87e2ae6bd585f4bd001239d089da20654e34999ba6f9a70"
+  }
+}

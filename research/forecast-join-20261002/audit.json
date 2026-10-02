@@ -1,0 +1,28 @@
+{
+  "input_rows": 211146,
+  "output_rows": 212466,
+  "unmatched_quote_rows": 129916,
+  "matched_forecasts": 3789,
+  "unmatched_forecasts": 114932,
+  "comparison_eligible_model_quote_rows": 67955,
+  "conflicting_joined_rows": 8,
+  "all_input_rows_retained": true,
+  "all_original_quote_fields_preserved": true,
+  "all_source_hashes_unchanged": true,
+  "wager_profit_blank": true,
+  "per_model_comparison_eligible_forecasts_with_actuals": {
+    "nfl_phase4_corrected": 266,
+    "nfl_revamp_totals_saved": 266,
+    "nfl_primary_epa": 0,
+    "nfl_independent": 0,
+    "nfl_prior_volume_calibration": 156,
+    "nfl_injury_aware_yards_mean": 406,
+    "nfl_injury_aware_reception_mean": 389,
+    "nfl_experimental_super_bowl": 0,
+    "cbb_canonical_ridge": 1674,
+    "wnba_joint_score": 28,
+    "wnba_saved_spread_baseline": 128,
+    "nhl_saved_site_pregame": 95,
+    "nhl_prior_roster_sog_replay": 200
+  }
+}
