@@ -1315,3 +1315,5 @@ run_at_utc,snapshot_label,sport,games,rows,error,quota_used,quota_remaining
 2026-10-07T06:08:42Z,close,WNBA,2,6,,19989,11
 2026-10-07T07:12:28Z,close,NHL,6,15,,19992,8
 2026-10-07T07:12:28Z,close,WNBA,2,6,,19995,5
+2026-10-07T08:42:44Z,close,NHL,6,15,,19998,2
+2026-10-07T08:42:44Z,close,WNBA,0,0,HTTPError: 401 Client Error: Unauthorized for url: https://api.the-odds-api.com/v4/sports/basketball_wnba/odds/?apiKey=***&regions=us&markets=h2h%2Cspreads%2Ctotals&bookmakers=betmgm%2Ccaesars%2Cfanduel%2Cdraftkings%2Cbetrivers&oddsFormat=american,,
