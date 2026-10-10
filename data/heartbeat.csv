@@ -1370,3 +1370,4 @@ run_at_utc,snapshot_label,sport,games,rows,error,quota_used,quota_remaining
 2026-10-10T06:00:24Z,close,CONFIG,0,0,ODDS_API_KEY is not set,,
 2026-10-10T07:04:14Z,close,CONFIG,0,0,ODDS_API_KEY is not set,,
 2026-10-10T08:32:00Z,close,CONFIG,0,0,ODDS_API_KEY is not set,,
+2026-10-10T09:57:32Z,close,CONFIG,0,0,ODDS_API_KEY is not set,,
