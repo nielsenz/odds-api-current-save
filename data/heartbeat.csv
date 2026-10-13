@@ -1396,3 +1396,5 @@ run_at_utc,snapshot_label,sport,games,rows,error,quota_used,quota_remaining
 2026-10-13T03:34:27Z,close,CONFIG,0,0,ODDS_API_KEY is not set,,
 2026-10-13T05:55:03Z,morning,NHL,16,64,,3,497
 2026-10-13T05:55:03Z,morning,WNBA,1,4,,6,494
+2026-10-13T06:51:55Z,close,NHL,16,64,,9,491
+2026-10-13T06:51:55Z,close,WNBA,1,4,,12,488
