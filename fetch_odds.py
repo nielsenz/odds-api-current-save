@@ -5,7 +5,7 @@ import csv
 import os
 import sys
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 API_KEY = os.environ.get("ODDS_API_KEY", "")
 HEARTBEAT_FILE = "data/heartbeat.csv"
@@ -35,6 +35,12 @@ BOOKMAKERS = os.environ.get(
     "ODDS_BOOKMAKERS", "betmgm,caesars,fanduel,draftkings,betrivers"
 )
 MARKETS = os.environ.get("ODDS_MARKETS", "h2h,spreads,totals")
+# Each market costs one credit per call. ODDS_MARKETS_<SPORT KEY> overrides the markets for one
+# sport, e.g. ODDS_MARKETS_ICEHOCKEY_NHL=h2h for a moneyline-only close sweep.
+# ODDS_REQUIRE_START_WITHIN_HOURS skips a sport's paid odds call unless the free /events list
+# has a game that hasn't started and starts within that many hours (so a sweep that fires after
+# every game started, or a sport whose season ended, costs nothing).
+REQUIRE_START_WITHIN_HOURS = os.environ.get("ODDS_REQUIRE_START_WITHIN_HOURS", "").strip()
 REQUEST_TIMEOUT_SECONDS = float(os.environ.get("ODDS_REQUEST_TIMEOUT", "30"))
 
 SPORT_NAMES = {
@@ -70,13 +76,37 @@ CSV_COLUMNS = [
 ]
 
 
+def markets_for(sport, env=os.environ):
+    """Markets for one sport: ODDS_MARKETS_<SPORT KEY> if set, else ODDS_MARKETS."""
+    return env.get(f"ODDS_MARKETS_{sport.upper()}", "").strip() or MARKETS
+
+
+def upcoming_events(events, now, hours):
+    """Events that haven't started and start within `hours` of `now`."""
+    end = now + timedelta(hours=hours)
+    out = []
+    for event in events:
+        start = datetime.fromisoformat(event["commence_time"].replace("Z", "+00:00"))
+        if now < start <= end:
+            out.append(event)
+    return out
+
+
+def fetch_events(sport):
+    """The free /events list (costs no credits)."""
+    response = requests.get(f"{BASE_URL}/sports/{sport}/events", params={"apiKey": API_KEY},
+                            timeout=REQUEST_TIMEOUT_SECONDS)
+    response.raise_for_status()
+    return response.json(), response.headers.get("x-requests-used", ""), response.headers.get("x-requests-remaining", "")
+
+
 def fetch_odds(sport):
     """Fetch odds for a sport from the Odds API."""
     url = f"{BASE_URL}/sports/{sport}/odds/"
     params = {
         "apiKey": API_KEY,
         "regions": "us",
-        "markets": MARKETS,
+        "markets": markets_for(sport),
         "bookmakers": BOOKMAKERS,
         "oddsFormat": "american",
     }
@@ -239,6 +269,17 @@ def main():
         quota_used = ""
         quota_remaining = ""
         try:
+            if REQUIRE_START_WITHIN_HOURS:
+                hours = float(REQUIRE_START_WITHIN_HOURS)
+                events, quota_used, quota_remaining = fetch_events(sport)
+                if not upcoming_events(events, datetime.now(timezone.utc), hours):
+                    print(f"  Skipped: no {display_name} game starts within {hours:g}h (no credits used)")
+                    heartbeat_rows.append({
+                        "run_at_utc": snapshot_taken_at_utc, "snapshot_label": snapshot_label,
+                        "sport": display_name, "games": 0, "rows": 0, "error": "",
+                        "quota_used": quota_used, "quota_remaining": quota_remaining,
+                    })
+                    continue
             games, response_received_at_utc, quota_used, quota_remaining = fetch_odds(sport)
             n_games = len(games)
             print(f"  Found {n_games} games")

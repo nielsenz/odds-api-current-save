@@ -39,6 +39,8 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           ODDS_SNAPSHOT_LABEL: morning
+          # Credit budget (Oct 15, 2026): skip a sport with no game in 36h (WNBA after its season).
+          ODDS_REQUIRE_START_WITHIN_HOURS: '36'
         run: uv run python fetch_odds.py
 
       - name: Commit and push if changes

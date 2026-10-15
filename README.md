@@ -88,7 +88,15 @@ Fetches current odds for a configurable list of sports. It defaults to NHL and
 WNBA. `ODDS_SPORTS` accepts comma-separated Odds API sport keys; the football
 workflow sets `americanfootball_nfl,americanfootball_ncaaf`. Optional
 `ODDS_BOOKMAKERS`, `ODDS_MARKETS`, and `ODDS_REQUEST_TIMEOUT` variables override
-their defaults.
+their defaults. `ODDS_MARKETS_<SPORT KEY>` (e.g. `ODDS_MARKETS_ICEHOCKEY_NHL=h2h`) overrides the
+markets for one sport; each market costs one credit per call. `ODDS_REQUIRE_START_WITHIN_HOURS`
+first reads the free `/events` list and skips a sport's paid call unless a game that hasn't started
+begins within that many hours.
+
+Credit budget (October 15, 2026): the key has 500 credits a month, shared with the NHL funded
+15:00 UTC capture on Fly (about 1 a day). The close sweep is NHL moneyline-only and skips unless a
+game starts within 3 hours; the open sweep is NHL moneyline-only; open and morning skip a sport
+with no game in 36 hours, so WNBA stops costing credits when its season ends.
 
 ```bash
 ODDS_API_KEY=your_key uv run python fetch_odds.py

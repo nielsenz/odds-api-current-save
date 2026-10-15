@@ -53,6 +53,10 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           ODDS_SNAPSHOT_LABEL: close
+          # Credit budget (Oct 15, 2026): moneyline-only NHL closes, and skip a sport unless a game
+          # starts within 3 hours. Actions often fires these after every puck drop.
+          ODDS_MARKETS_ICEHOCKEY_NHL: h2h
+          ODDS_REQUIRE_START_WITHIN_HOURS: '3'
         run: uv run python fetch_odds.py
 
       - name: Commit and push if changes
