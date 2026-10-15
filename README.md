@@ -96,7 +96,8 @@ begins within that many hours.
 Credit budget (October 15, 2026): the key has 500 credits a month, shared with the NHL funded
 15:00 UTC capture on Fly (about 1 a day). The close sweep is NHL moneyline-only and skips unless a
 game starts within 3 hours; the open sweep is NHL moneyline-only; open and morning skip a sport
-with no game in 36 hours, so WNBA stops costing credits when its season ends.
+with no game in 36 hours, so WNBA stops costing credits when its season ends. The daily football
+reference pull runs on game days only (NFL and CFB each skip unless a game starts within 18 hours).
 
 ```bash
 ODDS_API_KEY=your_key uv run python fetch_odds.py

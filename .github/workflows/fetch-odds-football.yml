@@ -40,6 +40,9 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
           ODDS_SNAPSHOT_LABEL: football
           ODDS_SPORTS: americanfootball_nfl,americanfootball_ncaaf
+          # Credit budget (Oct 15, 2026): game days only. NFL and CFB are each fetched only when one of
+          # their games starts in the next 18 hours (through ~09:47 UTC, past late West Coast kickoffs).
+          ODDS_REQUIRE_START_WITHIN_HOURS: '18'
         run: uv run python fetch_odds.py
 
       - name: Commit and push if changes
