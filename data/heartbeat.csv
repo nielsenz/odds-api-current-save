@@ -1502,3 +1502,5 @@ run_at_utc,snapshot_label,sport,games,rows,error,quota_used,quota_remaining
 2026-10-18T17:55:47Z,morning,WNBA,1,4,,236,264
 2026-10-18T18:17:42Z,football,NFL,12,48,,239,261
 2026-10-18T18:17:42Z,football,CFB,0,0,,239,261
+2026-10-19T01:16:54Z,close,NHL,0,0,,241,259
+2026-10-19T01:16:54Z,close,WNBA,0,0,,241,259
