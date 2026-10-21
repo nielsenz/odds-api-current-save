@@ -1554,3 +1554,5 @@ run_at_utc,snapshot_label,sport,games,rows,error,quota_used,quota_remaining
 2026-10-21T09:20:34Z,close,WNBA,0,0,,290,210
 2026-10-21T19:10:40Z,morning,NHL,14,56,,295,205
 2026-10-21T19:10:40Z,morning,WNBA,0,0,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",,
+2026-10-21T19:40:44Z,football,NFL,0,0,,295,205
+2026-10-21T19:40:44Z,football,CFB,54,213,,298,202
