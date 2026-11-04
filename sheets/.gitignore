@@ -1,0 +1,3 @@
+# PDFs live in release assets (sheets-manifest / sheets-YYYY-Www); pull with pull_sheets.py
+pdfs/
+__pycache__/

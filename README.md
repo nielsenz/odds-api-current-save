@@ -84,6 +84,12 @@ spread_away_odds, total_line, total_over_odds, total_under_odds
 
 ## Scripts
 
+### Book sheets (`sheets/`)
+
+Circa Sports and South Point publish their lines as PDF sheets. A Fly job archives them daily to
+release assets on this repo; they are translated into tables in bulk on the Mac. See
+[sheets/README.md](sheets/README.md).
+
 ### `fetch_odds.py`
 
 Fetches current odds for a configurable list of sports. It defaults to NHL and
