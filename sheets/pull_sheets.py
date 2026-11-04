@@ -54,7 +54,7 @@ def main() -> None:
                             "--clobber", *patterns], check=True)
             for asset, out in items:
                 out.parent.mkdir(parents=True, exist_ok=True)
-                shutil.move(tmp / asset, out)
+                shutil.copy2(tmp / asset, out)  # copy: two manifest rows may share one asset
                 print(out)
     n = sum(len(v) for v in todo.values())
     print(f"{n} new PDFs ({len(rows)} in manifest)")
