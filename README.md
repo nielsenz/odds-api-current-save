@@ -1,10 +1,12 @@
 # Odds API
 
-Collects NHL, WNBA, NFL, and college-football betting odds from [The Odds API](https://the-odds-api.com/), including current line snapshots and historical NHL data.
+Collects NHL, WNBA, NCAAB, NFL, and college-football betting odds from [The Odds API](https://the-odds-api.com/), including current line snapshots and historical NHL data.
 
 ## Goals
 
 - Collect odds for active NHL and WNBA seasons in the existing intraday jobs.
+- Collect NCAAB current snapshots when explicitly requested by the college
+  basketball desk (`basketball_ncaab` → `NCAAB`).
 - Collect one daily NFL and college-football reference snapshot for comparison
   with the sibling Boomer collector.
 - Capture line movement across the day with three snapshots:
@@ -86,8 +88,9 @@ spread_away_odds, total_line, total_over_odds, total_under_odds
 
 Fetches current odds for a configurable list of sports. It defaults to NHL and
 WNBA. `ODDS_SPORTS` accepts comma-separated Odds API sport keys; the football
-workflow sets `americanfootball_nfl,americanfootball_ncaaf`. Optional
-`ODDS_BOOKMAKERS`, `ODDS_MARKETS`, and `ODDS_REQUEST_TIMEOUT` variables override
+workflow sets `americanfootball_nfl,americanfootball_ncaaf`, and the CBB desk
+uses `basketball_ncaab` alongside the existing sports when CBB is selected.
+Optional `ODDS_BOOKMAKERS`, `ODDS_MARKETS`, and `ODDS_REQUEST_TIMEOUT` variables override
 their defaults. `ODDS_MARKETS_<SPORT KEY>` (e.g. `ODDS_MARKETS_ICEHOCKEY_NHL=h2h`) overrides the
 markets for one sport; each market costs one credit per call. `ODDS_REQUIRE_START_WITHIN_HOURS`
 first reads the free `/events` list and skips a sport's paid call unless a game that hasn't started
@@ -106,16 +109,27 @@ ODDS_API_KEY=your_key \
 ODDS_SPORTS=americanfootball_nfl,americanfootball_ncaaf \
 ODDS_SNAPSHOT_LABEL=football \
 uv run python fetch_odds.py
+
+# Explicit NCAAB collection (the default remains NHL + WNBA)
+ODDS_API_KEY=your_key \
+ODDS_SPORTS=basketball_ncaab \
+ODDS_SNAPSHOT_LABEL=noon \
+uv run python fetch_odds.py
 ```
 
 ### `fetch_historical_odds.py`
 
-NHL-only. Fetches historical NHL odds for a date range. Resumable (skips dates with existing files in `data/historical/` or `data/`).
+NHL-only. Fetches historical NHL odds for a date range into `odds-data/historical/`. Resumable (skips dates with existing files in `odds-data/historical/` or `odds-data/`).
 
 Behavior:
 - Makes one historical request per day in the date range.
+- Defaults to moneylines only (`h2h`) so a one-market study does not spend quota on spreads and totals.
 - Uses one requested timestamp per day (default `17:00 UTC`), not automatic hourly/half-hourly pulls.
 - Use `--snapshot-label` to store additional same-day snapshots (for example, `open_9pm_pst`) without overwriting or skip-collisions.
+- Use `--bookmakers all` to retain every US bookmaker returned for consensus/line-shopping analysis.
+- Use `--dry-run` to estimate request and credit usage before calling the API.
+- Stops when the remaining quota reaches `--stop-at-remaining` (default 500).
+- The 2024-10-04 to 2026-06-14 all-book archive (`*_open_allbooks`, `*_morning`, `*_midday_allbooks`) came from these options; the [odds expansion study](research/odds-expansion-20261002/README.md) builds on it.
 
 ```bash
 # Default: 2025-26 season pre-collection gap
@@ -129,6 +143,9 @@ uv run python fetch_historical_odds.py 2025-12-24 2026-02-08 --snapshot-hour-utc
 
 # Store an additional same-day snapshot series for opening-line studies
 uv run python fetch_historical_odds.py 2025-10-04 2026-02-08 --snapshot-hour-utc 5 --snapshot-minute-utc 0 --snapshot-label open_9pm_pst
+
+# Estimate a moneyline-only all-book backfill without spending credits
+uv run python fetch_historical_odds.py 2024-10-04 2025-06-25 --markets h2h --bookmakers all --snapshot-label morning --dry-run
 ```
 
 Requires a separate API key with historical access:

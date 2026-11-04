@@ -11,15 +11,10 @@ import csv
 import os
 import time
 import argparse
-import requests
 from datetime import datetime, timedelta
 
-API_KEY = os.environ.get("HISTORICAL_ODDS_API_KEY", "cfd75fb9867d2f369463d7577ab057b7")
 BASE_URL = "https://api.the-odds-api.com/v4/historical"
 SPORT = "icehockey_nhl"
-MARKETS = "h2h,spreads,totals"
-# Filter to BetMGM and Caesars (williamhill_us is Caesars' key in the API)
-BOOKMAKER_KEYS = {"betmgm", "williamhill_us"}
 BOOKMAKER_DISPLAY = {"betmgm": "betmgm", "williamhill_us": "caesars"}
 
 # Default snapshot time: noon Eastern (17:00 UTC) to get pre-game lines
@@ -53,18 +48,28 @@ CSV_COLUMNS = [
 ]
 
 
-def fetch_historical_odds(date_str, snapshot_hour_utc, snapshot_minute_utc):
+def fetch_historical_odds(
+    http_client,
+    api_key,
+    date_str,
+    snapshot_hour_utc,
+    snapshot_minute_utc,
+    markets,
+    requested_bookmakers,
+):
     """Fetch historical odds snapshot for a given date."""
     url = f"{BASE_URL}/sports/{SPORT}/odds/"
     params = {
-        "apiKey": API_KEY,
+        "apiKey": api_key,
         "regions": "us",
-        "markets": MARKETS,
+        "markets": markets,
         "oddsFormat": "american",
         "date": f"{date_str}T{snapshot_hour_utc:02d}:{snapshot_minute_utc:02d}:00Z",
     }
+    if requested_bookmakers is not None:
+        params["bookmakers"] = ",".join(sorted(requested_bookmakers))
 
-    response = requests.get(url, params=params)
+    response = http_client.get(url, params=params, timeout=30)
     response.raise_for_status()
 
     remaining = response.headers.get("x-requests-remaining", "N/A")
@@ -173,6 +178,27 @@ def main():
         default="",
         help="Optional label to store an additional same-day snapshot (example: open_9pm_pst)",
     )
+    parser.add_argument(
+        "--markets",
+        default="h2h",
+        help="Comma-separated markets to fetch. Default: h2h",
+    )
+    parser.add_argument(
+        "--bookmakers",
+        default="betmgm,williamhill_us",
+        help="Comma-separated bookmaker keys to retain, or 'all'. Default: BetMGM and Caesars",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Show request and credit estimates without requiring a key or calling the API",
+    )
+    parser.add_argument(
+        "--stop-at-remaining",
+        type=int,
+        default=500,
+        help="Stop after a response reports this many or fewer credits remaining. Default: 500",
+    )
     args = parser.parse_args()
 
     if args.snapshot_hour_utc < 0 or args.snapshot_hour_utc > 23:
@@ -180,14 +206,62 @@ def main():
     if args.snapshot_minute_utc < 0 or args.snapshot_minute_utc > 59:
         raise ValueError("--snapshot-minute-utc must be between 0 and 59")
     snapshot_label = args.snapshot_label.strip()
+    markets = [market.strip() for market in args.markets.split(",") if market.strip()]
+    if not markets:
+        raise ValueError("--markets must contain at least one market")
+    market_param = ",".join(markets)
+
+    bookmaker_arg = args.bookmakers.strip().lower()
+    requested_bookmakers = None
+    if bookmaker_arg != "all":
+        requested_bookmakers = {key.strip() for key in bookmaker_arg.split(",") if key.strip()}
+        if not requested_bookmakers:
+            raise ValueError("--bookmakers must contain at least one key or 'all'")
 
     start_date = datetime.strptime(args.start_date, "%Y-%m-%d")
     end_date = datetime.strptime(args.end_date, "%Y-%m-%d")
 
+    total_days = (end_date - start_date).days + 1
+    if total_days <= 0:
+        raise ValueError("end_date must be on or after start_date")
+
+    def output_path(date_str):
+        filename = f"odds_{date_str}.csv" if not snapshot_label else f"odds_{date_str}_{snapshot_label}.csv"
+        return os.path.join(OUTPUT_DIR, filename)
+
+    def already_exists(date_str):
+        if snapshot_label:
+            return os.path.exists(output_path(date_str))
+        return any(os.path.exists(os.path.join(d, f"odds_{date_str}.csv")) for d in EXISTING_FILE_DIRS)
+
+    dates_to_request = []
+    current = start_date
+    while current <= end_date:
+        date_str = current.strftime("%Y-%m-%d")
+        if not already_exists(date_str):
+            dates_to_request.append(date_str)
+        current += timedelta(days=1)
+
+    estimated_credits = len(dates_to_request) * 10 * len(markets)
+    if args.dry_run:
+        print(f"Date range: {start_date.date()} to {end_date.date()} ({total_days} days)")
+        print(f"Snapshot: {args.snapshot_hour_utc:02d}:{args.snapshot_minute_utc:02d} UTC ({snapshot_label or 'default'})")
+        print(f"Markets: {market_param}")
+        print(f"Bookmakers: {bookmaker_arg}")
+        print(f"Existing files skipped: {total_days - len(dates_to_request)}")
+        print(f"Requests to make: {len(dates_to_request)}")
+        print(f"Estimated credits: {estimated_credits}")
+        return
+
+    import requests
+
+    api_key = os.environ.get("HISTORICAL_ODDS_API_KEY")
+    if not api_key:
+        raise SystemExit("HISTORICAL_ODDS_API_KEY is required")
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     current = start_date
-    total_days = (end_date - start_date).days + 1
     day_num = 0
     total_rows_written = 0
     days_skipped = 0
@@ -195,16 +269,16 @@ def main():
 
     print(f"Fetching historical NHL odds: {start_date.date()} to {end_date.date()} ({total_days} days)")
     print(f"Output directory: {OUTPUT_DIR}/")
-    print(f"Bookmakers: BetMGM, Caesars")
-    print(f"Markets: h2h, spreads, totals")
+    print(f"Bookmakers: {bookmaker_arg}")
+    print(f"Markets: {market_param}")
     print(f"Snapshot time: {args.snapshot_hour_utc:02d}:{args.snapshot_minute_utc:02d} UTC")
+    print(f"Estimated credits: {estimated_credits}")
     print()
 
     while current <= end_date:
         day_num += 1
         date_str = current.strftime("%Y-%m-%d")
-        filename = f"odds_{date_str}.csv" if not snapshot_label else f"odds_{date_str}_{snapshot_label}.csv"
-        output_file = os.path.join(OUTPUT_DIR, filename)
+        output_file = output_path(date_str)
 
         if snapshot_label:
             # Labeled mode allows multiple same-day snapshots (for CLV/open-line studies).
@@ -224,9 +298,13 @@ def main():
 
         try:
             data, remaining, used, response_received_at_utc = fetch_historical_odds(
+                requests,
+                api_key,
                 date_str,
                 args.snapshot_hour_utc,
                 args.snapshot_minute_utc,
+                market_param,
+                requested_bookmakers,
             )
             games = data.get("data", [])
             api_snapshot_timestamp_utc = data.get("timestamp", "")
@@ -237,7 +315,7 @@ def main():
             rows = []
             for game in games:
                 for bookmaker in game.get("bookmakers", []):
-                    if bookmaker["key"] in BOOKMAKER_KEYS:
+                    if requested_bookmakers is None or bookmaker["key"] in requested_bookmakers:
                         row = parse_game_odds(
                             game,
                             bookmaker,
@@ -248,19 +326,27 @@ def main():
                         )
                         rows.append(row)
 
-            if rows:
-                with open(output_file, "w", newline="") as f:
-                    writer = csv.DictWriter(f, fieldnames=CSV_COLUMNS)
-                    writer.writeheader()
+            with open(output_file, "w", newline="") as f:
+                writer = csv.DictWriter(f, fieldnames=CSV_COLUMNS)
+                writer.writeheader()
+                if rows:
                     writer.writerows(rows)
+
+            if rows:
                 total_rows_written += len(rows)
                 print(f"[{day_num}/{total_days}] {date_str} - {len(rows)} rows, {len(games)} games (quota remaining: {remaining})")
             else:
                 days_no_games += 1
-                print(f"[{day_num}/{total_days}] {date_str} - no games found (quota remaining: {remaining})")
+                print(f"[{day_num}/{total_days}] {date_str} - no retained odds; wrote completion marker (quota remaining: {remaining})")
+
+            if remaining != "N/A" and int(remaining) <= args.stop_at_remaining:
+                print(f"Stopping because quota remaining ({remaining}) reached safety floor ({args.stop_at_remaining})")
+                break
 
         except requests.exceptions.HTTPError as e:
             print(f"[{day_num}/{total_days}] {date_str} - HTTP error: {e}")
+            if e.response is not None and e.response.status_code in {401, 402, 429}:
+                raise
         except Exception as e:
             print(f"[{day_num}/{total_days}] {date_str} - Error: {e}")
 
