@@ -62,6 +62,9 @@ Caveats:
 - When a sheet doesn't label over/under, the top juice is taken as over (`ou_order_assumed`).
 - Football and basketball sheets print the spread only on the favourite's row, so the underdog's is
   mirrored (`dog_line_from_fav`). Totals and spreads without printed juice are -110 (`implied_-110`).
+- South Point futures print fractional odds in OPENING and CURRENT columns; `odds` is the current
+  price in American, the printed prices are in notes (`opening=`, `current=`). A blank current price
+  is skipped (the Grey Cup's eliminated teams). South Point prints no "Updated" stamp.
 - `updated_at` is the sheet's own "Updated" stamp (Pacific). `pulled_at_utc` is when it was downloaded.
 
 ## Runs
@@ -69,5 +72,19 @@ Caveats:
 | Label | Pull | Scope | Rows |
 |---|---|---|---|
 | `circa_20261104T051714Z` | Circa, manual download Nov 3, 2026 21:17 PT | NHL, NFL, CFB, college basketball (current + archive) | 4,151 market rows, 167 game-period rows |
+| `southpoint_20261104T054312Z` | South Point, manual download Nov 3, 2026 21:43 PT | all 11 PDFs: CFB and NFL game sheets; NFL, CFB, CFL, NBA, CBB, NHL, UCL, EPL and Masters futures | 841 market rows, 76 game-period rows |
+| `circa_20261104T170700Z-20261105T233728Z` | Circa, the first Fly pulls: Nov 4 09:07 PT, Nov 5 09:07 PT, Nov 5 15:37 PT (forced run); 20 new or changed PDFs | NHL (Nov 4, Nov 5 twice) and props, TNF (two pulls), CBK, NBA, soccer and soccer futures, PGA Tour, DP World Tour (two pulls), NASCAR, UFC and boxing, Power Slap, Circa Million VIII week 9 contest lines (`contest_spread`, not wagers) | 4,845 market rows, 355 game-period rows |
+| `circa_20261106T170700Z-20261108T170700Z` | Circa, Fly pulls Nov 6, 7 and 8, 2026 at 09:07 PT; 19 of the 30 new or changed PDFs (NHL, NFL, CFB, CBK) | NHL game sheets Nov 6 (two pulls), Nov 7 and Nov 8 with NHL props Nov 7; CBK Nov 6 (plus Extra), Nov 7 and Nov 8 (each with an Extra Games page); NFL week 9 (two pulls), week 10 early lines, week 9 props (two pulls), Bucs vs Bears single-game sheet, week 9 first TD scorer; CFB props Nov 6 and Nov 7 and CFB player props | 5,013 market rows, 393 game-period rows |
 
-Not yet translated from that pull: golf, tennis, soccer, UFC, F1, NASCAR, MLB, NBA, WNBA, limits.
+Not yet translated from the Nov 3 manual pull (golf, tennis, soccer, UFC, F1, NASCAR, MLB, NBA, WNBA, limits) or from the Nov 6–8 pulls (still in `sheets/pdfs/`: NBA Nov 6–8, DP World Tour, 2027 Masters, tennis, UFC, NASCAR).
+
+Known gaps and doubts in `circa_20261104T170700Z-20261105T233728Z`: CBK Nov 5 p2 says "MORE ON REVERSE" but
+the PDF has two pages; five Circa Million games print the higher team number on top, so their
+away/home order is as listed (`top_row_has_higher_contest_number`), not confirmed; a few names are
+clipped on the sheet (`name_clipped_on_sheet`, `name_truncated`).
+
+Known gaps and doubts in `circa_20261106T170700Z-20261108T170700Z`: `build_tables.py` passed with no warnings; clipped team names kept as printed with `name_clipped_on_sheet` (CBK Extra pages); CBK Nov 7 p2 NC CENTRAL/LONGWOOD prints 11:50 PM, recorded as 23:50 but probably AM; NFL week 9 props print Braelon Allen twice (recorded once) and Jalen Coker as TEN on one page and CAR on the other; several prop team labels are truncated by the column edge. Later pulls of the same sheet (NHL Nov 6, NFL week 9, NFL week 9 props) are kept as separate `source_file` rows with their own `updated_at`.
+
+Transcribed PDFs move to `sheets/archive/pdfs/<book>/<stamp>/` so `sheets/pdfs/` holds only what is
+still to do. `pull_sheets.py` only checks `sheets/pdfs/`, so pull with a `--since` after the last
+archived stamp or it downloads archived folders again.

@@ -94,3 +94,12 @@ unresolved doubts (with page and strip). Do not paste the CSV.
   `series_spread`, `series_exact_result`.
 - A blank moneyline is skipped. A whole market listed as off gets one `off_board` row.
 - Keep printed misspellings (e.g. "Inidanapolis COLTS") and note them; normalisation happens downstream.
+
+## South Point conventions (first run, Nov 3, 2026)
+- Game sheets have one LINE column: the favourite's row carries the spread, the other row the
+  unsigned, unlabelled game total. No juice is printed (-110, `implied_-110`). M/L and half columns
+  are often an empty template; skip them rather than writing `off_board`. Lower rotation on top = away.
+- Futures print fractional odds in OPENING and CURRENT columns (some current prices are American).
+  `odds` = CURRENT in American; notes `opening=<printed> (<date>)` and `current=<printed>`.
+  A blank current price is skipped, not filled from the opening price.
+- No "Updated" footer: leave `updated_at` blank; the CURRENT column's date can go in `sheet_date`.
