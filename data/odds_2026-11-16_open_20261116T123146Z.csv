@@ -1,0 +1,9 @@
+date,sport,game_id,commence_time,snapshot_taken_at_utc,api_snapshot_timestamp_utc,response_received_at_utc,bookmaker_last_update_utc,home_team,away_team,bookmaker,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total_line,total_over_odds,total_under_odds
+2026-11-16,NHL,2ef747b5f529d07b71843f1b5240eb38,2026-11-17T00:30:00Z,2026-11-16T12:31:46Z,,"Mon, 16 Nov 2026 12:31:46 GMT",2026-11-16T12:31:18Z,New York Rangers,Montréal Canadiens,fanduel,-105,-114,,,,,,,
+2026-11-16,NHL,2ef747b5f529d07b71843f1b5240eb38,2026-11-17T00:30:00Z,2026-11-16T12:31:46Z,,"Mon, 16 Nov 2026 12:31:46 GMT",2026-11-16T12:31:19Z,New York Rangers,Montréal Canadiens,draftkings,-105,-115,,,,,,,
+2026-11-16,NHL,2ef747b5f529d07b71843f1b5240eb38,2026-11-17T00:30:00Z,2026-11-16T12:31:46Z,,"Mon, 16 Nov 2026 12:31:46 GMT",2026-11-16T12:31:18Z,New York Rangers,Montréal Canadiens,betrivers,-109,-109,,,,,,,
+2026-11-16,NHL,2ef747b5f529d07b71843f1b5240eb38,2026-11-17T00:30:00Z,2026-11-16T12:31:46Z,,"Mon, 16 Nov 2026 12:31:46 GMT",2026-11-16T12:31:17Z,New York Rangers,Montréal Canadiens,betmgm,-105,-115,,,,,,,
+2026-11-16,NHL,f5973475196770206d4e81300ca54634,2026-11-17T02:30:00Z,2026-11-16T12:31:46Z,,"Mon, 16 Nov 2026 12:31:46 GMT",2026-11-16T12:31:18Z,Utah Mammoth,Vancouver Canucks,fanduel,-345,270,,,,,,,
+2026-11-16,NHL,f5973475196770206d4e81300ca54634,2026-11-17T02:30:00Z,2026-11-16T12:31:46Z,,"Mon, 16 Nov 2026 12:31:46 GMT",2026-11-16T12:31:19Z,Utah Mammoth,Vancouver Canucks,draftkings,-340,270,,,,,,,
+2026-11-16,NHL,f5973475196770206d4e81300ca54634,2026-11-17T02:30:00Z,2026-11-16T12:31:46Z,,"Mon, 16 Nov 2026 12:31:46 GMT",2026-11-16T12:31:18Z,Utah Mammoth,Vancouver Canucks,betrivers,-345,280,,,,,,,
+2026-11-16,NHL,f5973475196770206d4e81300ca54634,2026-11-17T02:30:00Z,2026-11-16T12:31:46Z,,"Mon, 16 Nov 2026 12:31:46 GMT",2026-11-16T12:31:17Z,Utah Mammoth,Vancouver Canucks,betmgm,-325,260,,,,,,,
